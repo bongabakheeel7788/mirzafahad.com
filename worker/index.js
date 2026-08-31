@@ -1,23 +1,31 @@
 /**
- * Cloudflare Pages Function: POST /api/contact
- * Sends the contact form by email via Resend (https://resend.com — free tier).
+ * Worker for mirzafahad.com
+ * - POST /api/contact : sends the contact form by email via Resend
+ * - everything else   : served from the static site build (_site)
  *
- * Required environment variables (Pages → Settings → Environment variables):
- *   RESEND_API_KEY  – API key from resend.com
- *   CONTACT_TO      – your inbox, e.g. contact@mirzafahad.com
- *   CONTACT_FROM    – a verified sender, e.g. "Website <noreply@mirzafahad.com>"
+ * Secrets (Worker > Settings > Variables and secrets):
+ *   RESEND_API_KEY, CONTACT_TO, CONTACT_FROM
  */
-export async function onRequestPost({ request, env }) {
+export default {
+  async fetch(request, env) {
+    const url = new URL(request.url);
+    if (url.pathname === "/api/contact" && request.method === "POST") {
+      return handleContact(request, env);
+    }
+    return env.ASSETS.fetch(request);
+  },
+};
+
+async function handleContact(request, env) {
   let data;
   try {
     data = await request.json();
   } catch {
     return json({ ok: false, error: "Invalid body" }, 400);
   }
+  if (data.website) return json({ ok: true }); // honeypot
 
-  // Honeypot — bots fill the hidden "website" field
-  if (data.website) return json({ ok: true });
-
+  const clean = (v, max) => String(v || "").trim().slice(0, max);
   const name = clean(data.name, 100);
   const phone = clean(data.phone, 40);
   const email = clean(data.email, 120);
@@ -26,10 +34,7 @@ export async function onRequestPost({ request, env }) {
   const lang = data.lang === "ur" ? "ur" : "en";
 
   if (!name || !phone || !message) return json({ ok: false, error: "Missing fields" }, 400);
-
-  if (!env.RESEND_API_KEY || !env.CONTACT_TO) {
-    return json({ ok: false, error: "Email not configured" }, 500);
-  }
+  if (!env.RESEND_API_KEY || !env.CONTACT_TO) return json({ ok: false, error: "Email not configured" }, 500);
 
   const text = [
     `New enquiry from mirzafahad.com (${lang})`,
@@ -61,16 +66,12 @@ export async function onRequestPost({ request, env }) {
   });
 
   if (!res.ok) {
-    const err = await res.text();
-    console.error("Resend error", res.status, err);
+    console.error("Resend error", res.status, await res.text());
     return json({ ok: false, error: "Send failed" }, 502);
   }
   return json({ ok: true });
 }
 
-function clean(v, max) {
-  return String(v || "").trim().slice(0, max);
-}
 function json(body, status = 200) {
   return new Response(JSON.stringify(body), {
     status,
