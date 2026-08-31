@@ -3,6 +3,7 @@
 <section class="page-head">
   <div class="container">
     <div class="crumbs"><a href="{{ p }}/">{{ s.nav.home }}</a><span>/</span>{{ s.practice.heading }}</div>
+    <h4>{{ s.nav.practice }}</h4>
     <h1>{{ s.practice.heading }}</h1>
     <p>{{ s.home.practiceSub }}</p>
   </div>
@@ -11,7 +12,7 @@
   <div class="container">
     <div class="grid grid-2">
       {% for a in practice %}
-      <a class="card reveal" href="{{ p }}/practice/{{ a.slug }}/">
+      <a class="card reveal" style="--d:{{ loop.index0 * 0.12 }}s" href="{{ p }}/practice/{{ a.slug }}/">
         <div class="card-icon">{% include "icons/" + a.icon + ".svg" %}</div>
         <h3>{{ a[lang].title }}</h3>
         <p>{{ a[lang].intro }}</p>
