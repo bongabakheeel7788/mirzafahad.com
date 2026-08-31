@@ -1,0 +1,1 @@
+{ "lang": "en", "layout": "post.njk", "isPost": true, "tags": ["postsEn"], "permalink": "/blog/{{ page.fileSlug }}/" }

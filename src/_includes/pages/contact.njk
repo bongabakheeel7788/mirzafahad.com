@@ -1,0 +1,55 @@
+{%- set s = t[lang] -%}
+{%- set p = "" if lang == "en" else "/ur" -%}
+<section class="page-head">
+  <div class="container">
+    <div class="crumbs"><a href="{{ p }}/">{{ s.nav.home }}</a><span>/</span>{{ s.contact.heading }}</div>
+    <h1>{{ s.contact.heading }}</h1>
+    <p>{{ s.contact.sub }}</p>
+  </div>
+</section>
+<section class="section">
+  <div class="container contact-grid">
+    <form id="contact-form" class="form" data-sent="{{ s.contact.form.sent }}" data-error="{{ s.contact.form.error }}">
+      <input type="hidden" name="lang" value="{{ lang }}">
+      <div class="hp"><label>Website<input type="text" name="website" tabindex="-1" autocomplete="off"></label></div>
+      <div class="form-row">
+        <div class="field"><label for="f-name">{{ s.contact.form.name }}</label><input id="f-name" name="name" required></div>
+        <div class="field"><label for="f-phone">{{ s.contact.form.phone }}</label><input id="f-phone" name="phone" type="tel" required></div>
+      </div>
+      <div class="form-row">
+        <div class="field"><label for="f-email">{{ s.contact.form.email }}</label><input id="f-email" name="email" type="email"></div>
+        <div class="field"><label for="f-subject">{{ s.contact.form.subject }}</label>
+          <select id="f-subject" name="subject" required>
+            <option value="">{{ s.contact.form.select }}</option>
+            {% for a in practice %}<option>{{ a[lang].title }}</option>{% endfor %}
+            <option>{{ "Other" if lang == "en" else "دیگر" }}</option>
+          </select>
+        </div>
+      </div>
+      <div class="field"><label for="f-msg">{{ s.contact.form.message }}</label><textarea id="f-msg" name="message" required></textarea></div>
+      <button class="btn btn-gold" type="submit">{{ s.cta.send }}</button>
+      <div id="form-status" class="form-status" role="status"></div>
+      <p class="form-note">{{ s.footer.disclaimer }}</p>
+    </form>
+    <div>
+      <div class="info-block">
+        <h4>{{ s.contact.phoneHeading }}</h4>
+        <p><a class="big" href="tel:{{ site.phoneRaw }}">{{ site.phone }}</a></p>
+        <div class="contact-actions">
+          <a class="btn btn-wa btn-sm" href="https://wa.me/{{ site.whatsapp }}" target="_blank" rel="noopener">{% include "icons/whatsapp.svg" %} {{ s.cta.whatsapp }}</a>
+          <a class="btn btn-outline btn-sm" href="mailto:{{ site.email }}">{{ site.email }}</a>
+        </div>
+      </div>
+      <div class="info-block">
+        <h4>{{ s.contact.officeHeading }}</h4>
+        <p>{{ site.address.line1 if lang == "en" else site.address.line1Ur }}<br>{{ site.address.line2 if lang == "en" else site.address.line2Ur }}</p>
+      </div>
+      <div class="info-block">
+        <h4>{{ s.contact.hoursHeading }}</h4>
+        <p>{{ site.hours if lang == "en" else site.hoursUr }}</p>
+      </div>
+      <div class="map"><iframe src="{{ site.mapEmbed }}" loading="lazy" title="Map" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe></div>
+      <p style="margin-top:.8rem"><a class="btn btn-outline btn-sm" href="{{ site.mapLink }}" target="_blank" rel="noopener">{{ s.cta.directions }}</a></p>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,39 @@
+{%- if key == "home" or key == "contact" -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": ["LegalService", "Attorney"],
+  "name": "{{ site.name }}, {{ site.title }}",
+  "url": "{{ site.url }}",
+  "telephone": "{{ site.phoneRaw }}",
+  "email": "{{ site.email }}",
+  "image": "{{ site.url }}{{ site.photo }}",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "{{ site.address.line1 }}",
+    "addressLocality": "Tandlianwala",
+    "addressRegion": "{{ site.address.region }}",
+    "addressCountry": "PK"
+  },
+  "areaServed": ["Tandlianwala", "Faisalabad", "Punjab", "Lahore High Court"],
+  "openingHours": "Mo-Sa 09:00-18:00",
+  "priceRange": "$$",
+  "knowsAbout": ["Civil law", "Property law", "Criminal law", "Family law", "Corporate law", "Pakistan law"],
+  "founder": { "@type": "Person", "name": "{{ site.name }}", "jobTitle": "{{ site.title }}" }
+}
+</script>
+{%- endif -%}
+{%- if isPost -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ title | dump | safe }},
+  "datePublished": "{{ page.date | isoDate }}",
+  "inLanguage": "{{ lang }}",
+  "author": { "@type": "Person", "name": "{{ site.name }}", "jobTitle": "{{ site.title }}", "url": "{{ site.url }}/about/" },
+  "publisher": { "@type": "Person", "name": "{{ site.name }}" },
+  "mainEntityOfPage": "{{ site.url }}{{ page.url }}"
+}
+</script>
+{%- endif -%}

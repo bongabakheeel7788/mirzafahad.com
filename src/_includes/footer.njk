@@ -1,0 +1,39 @@
+{%- set s = t[lang] -%}
+{%- set p = "" if lang == "en" else "/ur" -%}
+<footer class="site-footer">
+  <div class="container footer-grid">
+    <div>
+      <div class="brand brand-footer">
+        <span class="brand-mark">MF</span>
+        <span class="brand-text"><strong>{{ site.name if lang == "en" else site.nameUr }}</strong><small>{{ site.title if lang == "en" else site.titleUr }}</small></span>
+      </div>
+      <p class="footer-address">
+        {{ site.address.line1 if lang == "en" else site.address.line1Ur }}<br>
+        {{ site.address.line2 if lang == "en" else site.address.line2Ur }}
+      </p>
+      <p class="footer-contact">
+        <a href="tel:{{ site.phoneRaw }}">{{ site.phone }}</a><br>
+        <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+      </p>
+    </div>
+    <div>
+      <h4>{{ s.nav.practice }}</h4>
+      <ul>
+        {% for a in practice %}<li><a href="{{ p }}/practice/{{ a.slug }}/">{{ a[lang].title }}</a></li>{% endfor %}
+      </ul>
+    </div>
+    <div>
+      <h4>{{ s.nav.home }}</h4>
+      <ul>
+        <li><a href="{{ p }}/about/">{{ s.nav.about }}</a></li>
+        <li><a href="{{ p }}/blog/">{{ s.nav.blog }}</a></li>
+        <li><a href="{{ p }}/contact/">{{ s.nav.contact }}</a></li>
+        <li><a href="{{ collections.all | altUrl(key, lang) }}">{{ s.switchLabel }}</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="container footer-bottom">
+    <p class="disclaimer">{{ s.footer.disclaimer }}</p>
+    <p class="copyright">© {{ "" | year }} {{ site.name if lang == "en" else site.nameUr }}. {{ s.footer.rights }}</p>
+  </div>
+</footer>

@@ -1,0 +1,37 @@
+---
+layout: base.njk
+---
+{%- set s = t[lang] -%}
+{%- set p = "" if lang == "en" else "/ur" -%}
+<section class="page-head article-head">
+  <div class="container">
+    <div class="crumbs"><a href="{{ p }}/">{{ s.nav.home }}</a><span>/</span><a href="{{ p }}/blog/">{{ s.blog.heading }}</a><span>/</span>{{ category }}</div>
+    <h1>{{ title }}</h1>
+    <p><time datetime="{{ page.date | isoDate }}">{{ page.date | dateDisplay(lang) }}</time> · {{ content | readingTime }} {{ s.blog.minRead }} · {{ site.name if lang == "en" else site.nameUr }}</p>
+  </div>
+</section>
+<section class="article-body section">
+  <div class="container two-col">
+    <article class="prose">
+      {{ content | safe }}
+      <div class="article-disclaimer">{{ s.blog.disclaimer }}</div>
+      <div class="author-box">
+        <div class="avatar">MF</div>
+        <p><strong>{{ site.name if lang == "en" else site.nameUr }}</strong>{{ site.title if lang == "en" else site.titleUr }} · {{ site.address.line2 if lang == "en" else site.address.line2Ur }}</p>
+      </div>
+    </article>
+    <aside class="side">
+      <div class="side-box side-cta">
+        <h3>{{ s.practice.ctaHeading }}</h3>
+        <p>{{ s.home.contactSub }}</p>
+        <a class="btn btn-wa" href="https://wa.me/{{ site.whatsapp }}" target="_blank" rel="noopener">{% include "icons/whatsapp.svg" %} {{ s.cta.whatsapp }}</a>
+        <a class="btn btn-gold" href="tel:{{ site.phoneRaw }}">{{ s.cta.call }}</a>
+      </div>
+      <div class="side-box">
+        <h4>{{ s.nav.practice }}</h4>
+        <ul>{% for o in practice %}<li><a href="{{ p }}/practice/{{ o.slug }}/">{{ o[lang].title }}</a></li>{% endfor %}</ul>
+      </div>
+      <p><a href="{{ p }}/blog/">← {{ s.cta.backToBlog }}</a></p>
+    </aside>
+  </div>
+</section>

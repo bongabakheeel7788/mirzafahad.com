@@ -1,0 +1,138 @@
+[
+  {
+    "slug": "civil-property",
+    "icon": "scale",
+    "en": {
+      "title": "Civil & Property",
+      "short": "Suits, land and revenue disputes, contracts, recovery and injunctions.",
+      "intro": "Property and civil disputes in Punjab move slowly and are won or lost on documents and procedure. I handle them from the first legal notice through trial and appeal, with careful attention to revenue records, limitation and the evidence that actually decides the case.",
+      "matters": [
+        "Suits for declaration, possession and permanent injunction",
+        "Specific performance and cancellation of sale agreements",
+        "Land disputes, mutations (intiqal), fard and revenue record corrections",
+        "Partition of joint property and inheritance shares",
+        "Recovery of money, cheques and contractual dues",
+        "Tenancy and eviction matters under the Punjab Rented Premises Act",
+        "Pre-emption (shufa) suits",
+        "Civil appeals and revisions before the District Court and Lahore High Court"
+      ]
+    },
+    "ur": {
+      "title": "دیوانی و جائیداد",
+      "short": "دعوے، زمین اور مال کے تنازعات، معاہدے، وصولی اور حکمِ امتناعی۔",
+      "intro": "پنجاب میں جائیداد اور دیوانی تنازعات وقت لیتے ہیں اور دستاویزات اور طریقۂ کار کی بنیاد پر جیتے یا ہارے جاتے ہیں۔ میں پہلے قانونی نوٹس سے لے کر ٹرائل اور اپیل تک، مال کے ریکارڈ، میعاد اور فیصلہ کن شواہد پر خصوصی توجہ کے ساتھ یہ مقدمات لڑتا ہوں۔",
+      "matters": [
+        "استقرارِ حق، قبضہ اور مستقل حکمِ امتناعی کے دعوے",
+        "بیع نامہ کی تعمیل اور منسوخی",
+        "زمین کے تنازعات، انتقال، فرد اور ریکارڈ مال کی درستی",
+        "مشترکہ جائیداد کی تقسیم اور وراثتی حصے",
+        "رقم، چیک اور معاہداتی واجبات کی وصولی",
+        "پنجاب کرایہ داری قانون کے تحت کرایہ اور بے دخلی کے معاملات",
+        "حقِ شفعہ کے دعوے",
+        "ضلعی عدالت اور لاہور ہائی کورٹ میں دیوانی اپیلیں اور نظرِ ثانی"
+      ]
+    }
+  },
+  {
+    "slug": "criminal",
+    "icon": "shield",
+    "en": {
+      "title": "Criminal",
+      "short": "Bail, FIR matters, trials and appeals before the sessions and High Court.",
+      "intro": "A criminal case moves fast at the start and slowly afterwards. The first days — the FIR, the bail application, the statement — shape everything that follows. I act quickly to protect liberty and then build the defence methodically through trial and appeal.",
+      "matters": [
+        "Pre-arrest and post-arrest bail applications",
+        "Quashing of FIRs and petitions under Section 561-A Cr.P.C.",
+        "Registration of FIR under Section 22-A/B Cr.P.C. when police refuse",
+        "Trials before Magistrate and Sessions Courts",
+        "Criminal appeals and revisions before the Lahore High Court",
+        "Complaints under Section 489-F PPC (dishonoured cheques)",
+        "Narcotics (CNSA) and arms cases",
+        "Private complaints and compounding of offences"
+      ]
+    },
+    "ur": {
+      "title": "فوجداری",
+      "short": "ضمانت، ایف آئی آر کے معاملات، ٹرائل اور سیشن و ہائی کورٹ میں اپیلیں۔",
+      "intro": "فوجداری مقدمہ شروع میں تیزی سے اور بعد میں آہستہ چلتا ہے۔ ابتدائی دن — ایف آئی آر، ضمانت کی درخواست، بیان — آگے کی ہر چیز کا رخ طے کرتے ہیں۔ میں آزادی کے تحفظ کے لیے فوری کارروائی کرتا ہوں اور پھر ٹرائل اور اپیل میں منظم دفاع تیار کرتا ہوں۔",
+      "matters": [
+        "قبل از گرفتاری اور بعد از گرفتاری ضمانت",
+        "ایف آئی آر کی منسوخی اور دفعہ 561-A ضابطہ فوجداری کی درخواستیں",
+        "پولیس کے انکار پر دفعہ 22-A/B کے تحت ایف آئی آر کا اندراج",
+        "مجسٹریٹ اور سیشن عدالتوں میں ٹرائل",
+        "لاہور ہائی کورٹ میں فوجداری اپیلیں اور نظرِ ثانی",
+        "دفعہ 489-F تعزیراتِ پاکستان (چیک ڈس آنر) کی شکایات",
+        "منشیات (CNSA) اور اسلحہ کے مقدمات",
+        "نجی شکایات اور جرائم کی راضی نامہ"
+      ]
+    }
+  },
+  {
+    "slug": "family",
+    "icon": "home",
+    "en": {
+      "title": "Family",
+      "short": "Khula, divorce, maintenance, custody, dower and inheritance.",
+      "intro": "Family matters are personal, and they are also legal proceedings with strict rules under the Family Courts Act. I handle them with discretion and a clear plan — protecting children's welfare, securing maintenance and dower, and resolving matters without unnecessary conflict where that is possible.",
+      "matters": [
+        "Khula and dissolution of marriage",
+        "Divorce (talaq) procedure and Union Council certificates",
+        "Maintenance for wife and children",
+        "Recovery of dower (haq mehr) and dowry articles",
+        "Custody and guardianship of minors, visitation schedules",
+        "Inheritance and succession certificates",
+        "Restitution of conjugal rights",
+        "Family appeals before the District Court and Lahore High Court"
+      ]
+    },
+    "ur": {
+      "title": "خاندانی",
+      "short": "خلع، طلاق، نان نفقہ، حضانت، حق مہر اور وراثت۔",
+      "intro": "خاندانی معاملات ذاتی ہوتے ہیں، اور ساتھ ہی فیملی کورٹس ایکٹ کے تحت سخت اصولوں والی قانونی کارروائی بھی۔ میں انہیں رازداری اور واضح منصوبے کے ساتھ دیکھتا ہوں — بچوں کی بہبود کا تحفظ، نان نفقہ اور حق مہر کا حصول، اور جہاں ممکن ہو غیر ضروری تنازع کے بغیر حل۔",
+      "matters": [
+        "خلع اور تنسیخِ نکاح",
+        "طلاق کا طریقۂ کار اور یونین کونسل سرٹیفکیٹ",
+        "بیوی اور بچوں کا نان نفقہ",
+        "حق مہر اور جہیز کے سامان کی وصولی",
+        "نابالغ بچوں کی حضانت، سرپرستی اور ملاقات کا شیڈول",
+        "وراثت اور جانشینی سرٹیفکیٹ",
+        "بحالیِ حقوقِ زوجیت",
+        "ضلعی عدالت اور لاہور ہائی کورٹ میں فیملی اپیلیں"
+      ]
+    }
+  },
+  {
+    "slug": "corporate-business",
+    "icon": "briefcase",
+    "en": {
+      "title": "Corporate & Business",
+      "short": "Company registration, agreements, trademarks, tax and commercial disputes.",
+      "intro": "Small and mid-sized businesses need legal work that is practical and proportionate. I help owners set up correctly, put sensible agreements in place, protect their brand, and deal with disputes and regulators when they arise.",
+      "matters": [
+        "Private limited company and partnership registration (SECP, Registrar of Firms)",
+        "Sole proprietorship, NTN and sales tax registration",
+        "Drafting partnership deeds, shareholder and service agreements",
+        "Trademark registration and opposition (IPO Pakistan)",
+        "Commercial and supplier contracts, NDAs, employment terms",
+        "Recovery suits and cheque dishonour matters for businesses",
+        "Rent agreements and commercial lease disputes",
+        "Notices, replies and negotiation before litigation"
+      ]
+    },
+    "ur": {
+      "title": "کارپوریٹ و کاروبار",
+      "short": "کمپنی رجسٹریشن، معاہدے، ٹریڈ مارک، ٹیکس اور تجارتی تنازعات۔",
+      "intro": "چھوٹے اور درمیانے کاروباروں کو عملی اور متناسب قانونی خدمات درکار ہوتی ہیں۔ میں مالکان کو درست طریقے سے کاروبار قائم کرنے، معقول معاہدے کرنے، اپنے برانڈ کے تحفظ، اور تنازعات و ریگولیٹرز سے نمٹنے میں مدد کرتا ہوں۔",
+      "matters": [
+        "پرائیویٹ لمیٹڈ کمپنی اور پارٹنرشپ کی رجسٹریشن (SECP، رجسٹرار آف فرمز)",
+        "سول پروپرائٹرشپ، NTN اور سیلز ٹیکس رجسٹریشن",
+        "پارٹنرشپ ڈیڈ، شیئر ہولڈر اور سروس معاہدوں کی تیاری",
+        "ٹریڈ مارک رجسٹریشن اور اعتراض (IPO پاکستان)",
+        "تجارتی اور سپلائر معاہدے، رازداری کے معاہدے، ملازمت کی شرائط",
+        "کاروباری وصولی کے دعوے اور چیک ڈس آنر کے معاملات",
+        "کرایہ نامے اور تجارتی لیز کے تنازعات",
+        "مقدمے سے پہلے نوٹس، جواب اور مذاکرات"
+      ]
+    }
+  }
+]

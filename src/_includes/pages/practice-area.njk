@@ -1,0 +1,43 @@
+{%- set s = t[lang] -%}
+{%- set p = "" if lang == "en" else "/ur" -%}
+{%- set a = area[lang] -%}
+<section class="page-head">
+  <div class="container">
+    <div class="crumbs"><a href="{{ p }}/">{{ s.nav.home }}</a><span>/</span><a href="{{ p }}/practice/">{{ s.practice.heading }}</a><span>/</span>{{ a.title }}</div>
+    <h1>{{ a.title }}</h1>
+    <p>{{ a.short }}</p>
+  </div>
+</section>
+<section class="section">
+  <div class="container two-col">
+    <div class="prose">
+      <p>{{ a.intro }}</p>
+      <h2>{{ s.practice.mattersHeading }}</h2>
+      <ul class="checklist">
+        {% for m in a.matters %}<li>{{ m }}</li>{% endfor %}
+      </ul>
+      <div class="side-box side-cta" style="margin-top:2.5rem">
+        <h3>{{ s.practice.ctaHeading }}</h3>
+        <p>{{ s.home.contactSub }}</p>
+        <div class="contact-actions">
+          <a class="btn btn-wa" href="https://wa.me/{{ site.whatsapp }}" target="_blank" rel="noopener">{% include "icons/whatsapp.svg" %} {{ s.cta.whatsapp }}</a>
+          <a class="btn btn-gold" href="tel:{{ site.phoneRaw }}">{{ s.cta.call }}</a>
+        </div>
+      </div>
+    </div>
+    <aside class="side">
+      <div class="side-box">
+        <h4>{{ s.practice.otherHeading }}</h4>
+        <ul>
+          {% for o in practice %}{% if o.slug != area.slug %}<li><a href="{{ p }}/practice/{{ o.slug }}/">{{ o[lang].title }}</a></li>{% endif %}{% endfor %}
+        </ul>
+      </div>
+      <div class="side-box">
+        <h4>{{ s.contact.phoneHeading }}</h4>
+        <p style="margin:0 0 .5rem"><a href="tel:{{ site.phoneRaw }}">{{ site.phone }}</a></p>
+        <p style="margin:0;font-size:.9rem;color:var(--muted)">{{ site.hours if lang == "en" else site.hoursUr }}</p>
+        <a class="btn btn-outline btn-sm" href="{{ p }}/contact/">{{ s.nav.contact }}</a>
+      </div>
+    </aside>
+  </div>
+</section>

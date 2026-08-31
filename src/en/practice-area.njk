@@ -1,0 +1,12 @@
+---
+pagination:
+  data: practice
+  size: 1
+  alias: area
+permalink: "/practice/{{ area.slug }}/"
+eleventyComputed:
+  key: "practice-{{ area.slug }}"
+  title: "{{ area.en.title }}"
+  description: "{{ area.en.short }}"
+---
+{% include "pages/practice-area.njk" %}

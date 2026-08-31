@@ -1,0 +1,33 @@
+{%- set s = t[lang] -%}
+{%- set p = "" if lang == "en" else "/ur" -%}
+<section class="page-head">
+  <div class="container">
+    <div class="crumbs"><a href="{{ p }}/">{{ s.nav.home }}</a><span>/</span>{{ s.practice.heading }}</div>
+    <h1>{{ s.practice.heading }}</h1>
+    <p>{{ s.home.practiceSub }}</p>
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    <div class="grid grid-2">
+      {% for a in practice %}
+      <a class="card reveal" href="{{ p }}/practice/{{ a.slug }}/">
+        <div class="card-icon">{% include "icons/" + a.icon + ".svg" %}</div>
+        <h3>{{ a[lang].title }}</h3>
+        <p>{{ a[lang].intro }}</p>
+        <span class="more">{{ s.cta.learnMore }}</span>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<section class="cta-band">
+  <div class="container">
+    <h2>{{ s.home.contactHeading }}</h2>
+    <p>{{ s.home.contactSub }}</p>
+    <div class="hero-actions">
+      <a class="btn btn-wa" href="https://wa.me/{{ site.whatsapp }}" target="_blank" rel="noopener">{% include "icons/whatsapp.svg" %} {{ s.cta.whatsapp }}</a>
+      <a class="btn btn-gold" href="tel:{{ site.phoneRaw }}">{{ s.cta.call }}</a>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,86 @@
+{
+  "en": {
+    "dir": "ltr",
+    "langName": "English",
+    "switchLabel": "اردو",
+    "nav": { "home": "Home", "about": "About", "practice": "Practice Areas", "blog": "Articles", "contact": "Contact" },
+    "cta": { "whatsapp": "WhatsApp", "call": "Call now", "consult": "Book a consultation", "readMore": "Read more", "viewAll": "View all articles", "learnMore": "Learn more", "directions": "Get directions", "send": "Send message", "backToBlog": "All articles" },
+    "home": {
+      "eyebrow": "Advocate High Court · Punjab, Pakistan",
+      "intro": "I represent individuals, families and businesses before the Lahore High Court and the District Courts of Faisalabad in civil, criminal, family and corporate matters.",
+      "practiceHeading": "Practice areas",
+      "practiceSub": "Focused representation in the matters that affect people most.",
+      "whyHeading": "How I work",
+      "why": [
+        { "h": "Straight answers", "p": "You will hear an honest assessment of your case — its strengths, its risks and what it will take — before you decide anything." },
+        { "h": "Careful preparation", "p": "Every plaint, petition and bail application is drafted and researched personally. Nothing is filed that I would not defend in court." },
+        { "h": "Kept informed", "p": "You will always know the next date, the next step and what is expected of you, in plain language, on WhatsApp or by phone." }
+      ],
+      "articlesHeading": "Recent articles",
+      "articlesSub": "Plain-language guides to Pakistani law.",
+      "contactHeading": "Discuss your matter",
+      "contactSub": "Reach out on WhatsApp or by phone, or send a message and I will respond within one working day."
+    },
+    "about": {
+      "heading": "About",
+      "credentialsHeading": "Credentials",
+      "approachHeading": "Approach"
+    },
+    "practice": { "heading": "Practice areas", "mattersHeading": "Matters I handle", "otherHeading": "Other practice areas", "ctaHeading": "Need help with a matter like this?" },
+    "blog": { "heading": "Articles", "sub": "Plain-language explanations of Pakistani law and court procedure.", "minRead": "min read", "disclaimer": "This article is general information about Pakistani law, not legal advice. Every case turns on its own facts — consult an advocate about your situation." },
+    "contact": {
+      "heading": "Contact",
+      "sub": "Send a message with a brief description of your matter. Do not include confidential details until we have spoken.",
+      "form": { "name": "Your name", "phone": "Phone / WhatsApp", "email": "Email (optional)", "subject": "Type of matter", "message": "Brief description", "sent": "Thank you — your message has been sent. I will respond within one working day.", "error": "Something went wrong. Please try WhatsApp or call instead.", "select": "Select…" },
+      "officeHeading": "Chamber",
+      "hoursHeading": "Hours",
+      "phoneHeading": "Phone & WhatsApp"
+    },
+    "footer": {
+      "disclaimer": "The content of this website is for general information only and does not constitute legal advice. Viewing this site or contacting me through it does not create an advocate–client relationship. Please do not send confidential information until an engagement is confirmed.",
+      "rights": "All rights reserved."
+    }
+  },
+  "ur": {
+    "dir": "rtl",
+    "langName": "اردو",
+    "switchLabel": "English",
+    "nav": { "home": "ہوم", "about": "تعارف", "practice": "شعبہ جات", "blog": "مضامین", "contact": "رابطہ" },
+    "cta": { "whatsapp": "واٹس ایپ", "call": "کال کریں", "consult": "مشاورت کے لیے رابطہ", "readMore": "مزید پڑھیں", "viewAll": "تمام مضامین", "learnMore": "تفصیل", "directions": "راستہ دیکھیں", "send": "پیغام بھیجیں", "backToBlog": "تمام مضامین" },
+    "home": {
+      "eyebrow": "ایڈووکیٹ ہائی کورٹ · پنجاب، پاکستان",
+      "intro": "میں لاہور ہائی کورٹ اور فیصل آباد کی ضلعی عدالتوں میں افراد، خاندانوں اور کاروباری اداروں کی دیوانی، فوجداری، خاندانی اور کارپوریٹ معاملات میں پیروی کرتا ہوں۔",
+      "practiceHeading": "شعبہ جات",
+      "practiceSub": "ان معاملات میں مرکوز پیروی جو لوگوں کی زندگی پر سب سے زیادہ اثر ڈالتے ہیں۔",
+      "whyHeading": "میرا طریقۂ کار",
+      "why": [
+        { "h": "سیدھی بات", "p": "کوئی بھی فیصلہ کرنے سے پہلے آپ کو اپنے مقدمے کا دیانت دارانہ جائزہ ملے گا — اس کی مضبوطی، خطرات اور تقاضے۔" },
+        { "h": "محتاط تیاری", "p": "ہر دعویٰ، درخواست اور ضمانت کی درخواست ذاتی طور پر تیار اور تحقیق کی جاتی ہے۔ ایسی کوئی چیز دائر نہیں کی جاتی جس کا میں عدالت میں دفاع نہ کر سکوں۔" },
+        { "h": "باخبر رکھنا", "p": "آپ کو ہمیشہ اگلی تاریخ، اگلا قدم اور آپ سے کیا توقع ہے، سادہ زبان میں واٹس ایپ یا فون پر بتایا جائے گا۔" }
+      ],
+      "articlesHeading": "حالیہ مضامین",
+      "articlesSub": "پاکستانی قانون پر سادہ زبان میں رہنمائی۔",
+      "contactHeading": "اپنے معاملے پر بات کریں",
+      "contactSub": "واٹس ایپ یا فون پر رابطہ کریں، یا پیغام بھیجیں — ایک کاروباری دن کے اندر جواب دیا جائے گا۔"
+    },
+    "about": {
+      "heading": "تعارف",
+      "credentialsHeading": "اسناد",
+      "approachHeading": "طریقۂ کار"
+    },
+    "practice": { "heading": "شعبہ جات", "mattersHeading": "جن معاملات میں پیروی کرتا ہوں", "otherHeading": "دیگر شعبہ جات", "ctaHeading": "ایسے کسی معاملے میں مدد چاہیے؟" },
+    "blog": { "heading": "مضامین", "sub": "پاکستانی قانون اور عدالتی طریقۂ کار کی سادہ زبان میں وضاحت۔", "minRead": "منٹ", "disclaimer": "یہ مضمون پاکستانی قانون کے بارے میں عمومی معلومات ہے، قانونی مشورہ نہیں۔ ہر مقدمہ اپنے حقائق پر منحصر ہوتا ہے — اپنی صورتحال کے لیے کسی وکیل سے رجوع کریں۔" },
+    "contact": {
+      "heading": "رابطہ",
+      "sub": "اپنے معاملے کی مختصر تفصیل کے ساتھ پیغام بھیجیں۔ بات چیت سے پہلے خفیہ تفصیلات شامل نہ کریں۔",
+      "form": { "name": "آپ کا نام", "phone": "فون / واٹس ایپ", "email": "ای میل (اختیاری)", "subject": "معاملے کی نوعیت", "message": "مختصر تفصیل", "sent": "شکریہ — آپ کا پیغام موصول ہو گیا ہے۔ ایک کاروباری دن کے اندر جواب دیا جائے گا۔", "error": "کچھ غلط ہو گیا۔ براہِ کرم واٹس ایپ یا فون پر رابطہ کریں۔", "select": "منتخب کریں…" },
+      "officeHeading": "چیمبر",
+      "hoursHeading": "اوقات",
+      "phoneHeading": "فون اور واٹس ایپ"
+    },
+    "footer": {
+      "disclaimer": "اس ویب سائٹ کا مواد صرف عمومی معلومات کے لیے ہے اور قانونی مشورہ نہیں ہے۔ اس سائٹ کو دیکھنے یا اس کے ذریعے رابطہ کرنے سے وکیل اور مؤکل کا تعلق قائم نہیں ہوتا۔ معاہدے کی تصدیق سے پہلے خفیہ معلومات نہ بھیجیں۔",
+      "rights": "جملہ حقوق محفوظ ہیں۔"
+    }
+  }
+}

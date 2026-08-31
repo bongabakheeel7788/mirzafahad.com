@@ -1,0 +1,24 @@
+{%- set s = t[lang] -%}
+{%- set p = "" if lang == "en" else "/ur" -%}
+{%- set posts = collections.postsEn if lang == "en" else collections.postsUr -%}
+<section class="page-head">
+  <div class="container">
+    <div class="crumbs"><a href="{{ p }}/">{{ s.nav.home }}</a><span>/</span>{{ s.blog.heading }}</div>
+    <h1>{{ s.blog.heading }}</h1>
+    <p>{{ s.blog.sub }}</p>
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    <div class="post-list">
+      {% for post in posts %}
+      <article class="post-card reveal">
+        <div class="post-meta"><span class="tag">{{ post.data.category }}</span><time datetime="{{ post.date | isoDate }}">{{ post.date | dateDisplay(lang) }}</time><span>· {{ post.templateContent | readingTime }} {{ s.blog.minRead }}</span></div>
+        <h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+        <p>{{ post.data.description }}</p>
+        <a class="more" href="{{ post.url }}">{{ s.cta.readMore }}</a>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>

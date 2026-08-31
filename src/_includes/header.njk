@@ -1,0 +1,25 @@
+{%- set s = t[lang] -%}
+{%- set p = "" if lang == "en" else "/ur" -%}
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="{{ p }}/">
+      <span class="brand-mark">MF</span>
+      <span class="brand-text">
+        <strong>{{ site.name if lang == "en" else site.nameUr }}</strong>
+        <small>{{ site.title if lang == "en" else site.titleUr }}</small>
+      </span>
+    </a>
+    <button class="nav-toggle" aria-label="Menu" aria-expanded="false" aria-controls="nav">
+      <span></span><span></span><span></span>
+    </button>
+    <nav id="nav" class="nav">
+      <a href="{{ p }}/" {% if key == "home" %}aria-current="page"{% endif %}>{{ s.nav.home }}</a>
+      <a href="{{ p }}/about/" {% if key == "about" %}aria-current="page"{% endif %}>{{ s.nav.about }}</a>
+      <a href="{{ p }}/practice/" {% if key == "practice" or key.startsWith("practice-") %}aria-current="page"{% endif %}>{{ s.nav.practice }}</a>
+      <a href="{{ p }}/blog/" {% if key == "blog" or isPost %}aria-current="page"{% endif %}>{{ s.nav.blog }}</a>
+      <a href="{{ p }}/contact/" {% if key == "contact" %}aria-current="page"{% endif %}>{{ s.nav.contact }}</a>
+      <a class="lang-switch" href="{{ collections.all | altUrl(key, lang) }}" lang="{{ 'ur' if lang == 'en' else 'en' }}" hreflang="{{ 'ur' if lang == 'en' else 'en' }}">{{ s.switchLabel }}</a>
+      <a class="btn btn-sm btn-gold nav-cta" href="tel:{{ site.phoneRaw }}">{{ s.cta.call }}</a>
+    </nav>
+  </div>
+</header>

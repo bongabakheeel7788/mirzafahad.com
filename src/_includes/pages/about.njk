@@ -1,0 +1,65 @@
+{%- set s = t[lang] -%}
+{%- set p = "" if lang == "en" else "/ur" -%}
+<section class="page-head">
+  <div class="container">
+    <div class="crumbs"><a href="{{ p }}/">{{ s.nav.home }}</a><span>/</span>{{ s.about.heading }}</div>
+    <h1>{{ site.name if lang == "en" else site.nameUr }}</h1>
+    <p>{{ site.title if lang == "en" else site.titleUr }} · {{ site.address.line2 if lang == "en" else site.address.line2Ur }}</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container about-grid">
+    <div class="about-photo">
+      <img src="{{ site.photo }}" alt="{{ site.name }}" width="320" height="400" onerror="this.outerHTML='<div class=placeholder>MF</div>'">
+    </div>
+    <div class="prose">
+      {% if lang == "en" %}
+      <p>I am an Advocate of the High Court practising in Tandlianwala and Faisalabad, appearing before the District Courts and the Lahore High Court. My work covers civil and property litigation, criminal defence, family matters and the legal needs of small and medium-sized businesses.</p>
+      <p>Before becoming an advocate I ran businesses of my own, which shaped how I practise law: I understand what it costs a client — in money, time and worry — to be in litigation, and I plan every case with that in mind. I would rather tell you early that a case is weak than take your fee and find out in court.</p>
+      <p>I take on a limited number of matters at a time so that each receives personal attention. Every pleading is drafted by me, and I appear personally at hearings.</p>
+
+      <h2>{{ s.about.credentialsHeading }}</h2>
+      <ul class="creds">
+        <li>{{ site.enrolment.highCourt }}</li>
+        <li>{{ site.enrolment.lowerCourt }}</li>
+        <li>{{ site.enrolment.education }}</li>
+        <li>Member, District Bar Association, Tandlianwala</li>
+        <li>Member, Punjab Bar Council</li>
+      </ul>
+
+      <h2>{{ s.about.approachHeading }}</h2>
+      <ul class="checklist">
+        <li>An honest first assessment — strengths, risks, likely timeline and cost — before you commit.</li>
+        <li>Fee agreed in writing at the outset. No surprises.</li>
+        <li>Updates after every hearing, in plain language, on WhatsApp or by phone.</li>
+        <li>Settlement explored where it serves you; litigation pursued firmly where it does not.</li>
+        <li>Complete confidentiality, in every matter.</li>
+      </ul>
+      {% else %}
+      <p>میں ٹانڈلیانوالہ اور فیصل آباد میں پریکٹس کرنے والا ایڈووکیٹ ہائی کورٹ ہوں اور ضلعی عدالتوں اور لاہور ہائی کورٹ میں پیش ہوتا ہوں۔ میرا کام دیوانی اور جائیداد کے مقدمات، فوجداری دفاع، خاندانی معاملات اور چھوٹے و درمیانے کاروباروں کی قانونی ضروریات پر محیط ہے۔</p>
+      <p>وکالت سے پہلے میں اپنے کاروبار چلاتا رہا ہوں، جس نے میرے وکالت کے انداز کو تشکیل دیا: میں سمجھتا ہوں کہ مقدمہ بازی مؤکل کو پیسے، وقت اور پریشانی کی صورت میں کیا قیمت دیتی ہے، اور ہر مقدمے کی منصوبہ بندی اسی کو مدنظر رکھ کر کرتا ہوں۔ میں آپ کو شروع میں ہی بتا دینا بہتر سمجھتا ہوں کہ مقدمہ کمزور ہے، بجائے اس کے کہ فیس لے کر عدالت میں پتہ چلے۔</p>
+      <p>میں ایک وقت میں محدود تعداد میں مقدمات لیتا ہوں تاکہ ہر ایک کو ذاتی توجہ ملے۔ ہر دستاویز میں خود تیار کرتا ہوں اور ہر سماعت پر ذاتی طور پر پیش ہوتا ہوں۔</p>
+
+      <h2>{{ s.about.credentialsHeading }}</h2>
+      <ul class="creds">
+        <li>{{ site.enrolment.highCourtUr }}</li>
+        <li>{{ site.enrolment.lowerCourtUr }}</li>
+        <li>{{ site.enrolment.educationUr }}</li>
+        <li>رکن، ڈسٹرکٹ بار ایسوسی ایشن، ٹانڈلیانوالہ</li>
+        <li>رکن، پنجاب بار کونسل</li>
+      </ul>
+
+      <h2>{{ s.about.approachHeading }}</h2>
+      <ul class="checklist">
+        <li>فیصلہ کرنے سے پہلے دیانت دارانہ ابتدائی جائزہ — مضبوطی، خطرات، ممکنہ وقت اور اخراجات۔</li>
+        <li>فیس شروع میں ہی تحریری طور پر طے ہوتی ہے۔ کوئی حیرت نہیں۔</li>
+        <li>ہر سماعت کے بعد سادہ زبان میں واٹس ایپ یا فون پر اطلاع۔</li>
+        <li>جہاں آپ کے مفاد میں ہو، صلح کی کوشش؛ جہاں نہ ہو، مضبوط مقدمہ بازی۔</li>
+        <li>ہر معاملے میں مکمل رازداری۔</li>
+      </ul>
+      {% endif %}
+      <p style="margin-top:2rem"><a class="btn btn-gold" href="{{ p }}/contact/">{{ s.cta.consult }}</a></p>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,46 @@
+{%- set s = t[lang] -%}
+{%- set siteName = site.name if lang == "en" else site.nameUr -%}
+{%- set siteTitle = site.title if lang == "en" else site.titleUr -%}
+{%- set pageTitle = (title + " · " + siteName) if title else (siteName + " · " + siteTitle) -%}
+{%- set alt = collections.all | altUrl(key, lang) -%}
+{%- set desc = description or (site.name + ", " + site.title + ". Civil, criminal, family and corporate matters before the Lahore High Court and District Courts, Faisalabad.") -%}
+<!DOCTYPE html>
+<html lang="{{ lang }}" dir="{{ s.dir }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ pageTitle }}</title>
+  <meta name="description" content="{{ desc }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <link rel="alternate" hreflang="{{ 'ur' if lang == 'en' else 'en' }}" href="{{ site.url }}{{ alt }}">
+  <link rel="alternate" hreflang="{{ lang }}" href="{{ site.url }}{{ page.url }}">
+  <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ page.url if lang == 'en' else alt }}">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta property="og:type" content="{{ 'article' if isPost else 'website' }}">
+  <meta property="og:title" content="{{ pageTitle }}">
+  <meta property="og:description" content="{{ desc }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:image" content="{{ site.url }}/assets/img/og-cover.png">
+  <meta property="og:locale" content="{{ 'en_PK' if lang == 'en' else 'ur_PK' }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="theme-color" content="#0f1f33">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Inter:wght@400;500;600&family=Noto+Nastaliq+Urdu:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  {% include "schema.njk" %}
+</head>
+<body class="lang-{{ lang }}">
+  <a class="skip" href="#main">Skip to content</a>
+  {% include "header.njk" %}
+  <main id="main">
+    {{ content | safe }}
+  </main>
+  {% include "footer.njk" %}
+  <a class="wa-float" href="https://wa.me/{{ site.whatsapp }}?text={{ ('Assalam o Alaikum, I would like to discuss a legal matter.' if lang == 'en' else 'السلام علیکم، میں ایک قانونی معاملے پر بات کرنا چاہتا ہوں۔') | urlencode }}" target="_blank" rel="noopener" aria-label="{{ s.cta.whatsapp }}">
+    {% include "icons/whatsapp.svg" %}
+    <span>{{ s.cta.whatsapp }}</span>
+  </a>
+  <script src="/assets/js/main.js" defer></script>
+</body>
+</html>

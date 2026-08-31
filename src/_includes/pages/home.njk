@@ -1,0 +1,100 @@
+{%- set s = t[lang] -%}
+{%- set p = "" if lang == "en" else "/ur" -%}
+{%- set posts = collections.postsEn if lang == "en" else collections.postsUr -%}
+<section class="hero">
+  <div class="container hero-inner">
+    <div>
+      <span class="eyebrow">{{ s.home.eyebrow }}</span>
+      <h1>{{ site.name if lang == "en" else site.nameUr }}</h1>
+      <div class="hero-title">{{ site.tagline if lang == "en" else site.taglineUr }}</div>
+      <p class="lead">{{ s.home.intro }}</p>
+      <div class="hero-actions">
+        <a class="btn btn-gold" href="{{ p }}/contact/">{{ s.cta.consult }}</a>
+        <a class="btn btn-outline-light" href="tel:{{ site.phoneRaw }}">{{ s.cta.call }}</a>
+      </div>
+    </div>
+    <div class="hero-photo">
+      <img src="{{ site.photo }}" alt="{{ site.name }}, {{ site.title }}" width="380" height="475" onerror="this.outerHTML='<div class=placeholder>MF</div>'">
+    </div>
+  </div>
+  <div class="hero-bar">
+    <div class="container hero-bar-inner">
+      <span><strong>⚖</strong> {{ site.title if lang == "en" else site.titleUr }}</span>
+      <span><strong>4</strong> {{ s.home.practiceHeading }}</span>
+      <span><strong>📍</strong> {{ site.address.line2 if lang == "en" else site.address.line2Ur }}</span>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-head">
+      <div class="rule"></div>
+      <h2>{{ s.home.practiceHeading }}</h2>
+      <p>{{ s.home.practiceSub }}</p>
+    </div>
+    <div class="grid grid-4">
+      {% for a in practice %}
+      <a class="card reveal" href="{{ p }}/practice/{{ a.slug }}/">
+        <div class="card-icon">{% include "icons/" + a.icon + ".svg" %}</div>
+        <h3>{{ a[lang].title }}</h3>
+        <p>{{ a[lang].short }}</p>
+        <span class="more">{{ s.cta.learnMore }}</span>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section section-navy">
+  <div class="container">
+    <div class="section-head">
+      <div class="rule"></div>
+      <h2>{{ s.home.whyHeading }}</h2>
+    </div>
+    <div class="grid grid-3">
+      {% for w in s.home.why %}
+      <div class="why-item reveal">
+        <div class="num">0{{ loop.index }}</div>
+        <h3>{{ w.h }}</h3>
+        <p>{{ w.p }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+{% if posts.length %}
+<section class="section section-alt">
+  <div class="container">
+    <div class="section-head">
+      <div class="rule"></div>
+      <h2>{{ s.home.articlesHeading }}</h2>
+      <p>{{ s.home.articlesSub }}</p>
+    </div>
+    <div class="post-list">
+      {% for post in posts | head(2) %}
+      <article class="post-card reveal">
+        <div class="post-meta"><span class="tag">{{ post.data.category }}</span><time datetime="{{ post.date | isoDate }}">{{ post.date | dateDisplay(lang) }}</time></div>
+        <h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+        <p>{{ post.data.description }}</p>
+        <a class="more" href="{{ post.url }}">{{ s.cta.readMore }}</a>
+      </article>
+      {% endfor %}
+    </div>
+    <p style="margin-top:2rem"><a class="btn btn-outline" href="{{ p }}/blog/">{{ s.cta.viewAll }}</a></p>
+  </div>
+</section>
+{% endif %}
+
+<section class="cta-band">
+  <div class="container">
+    <h2>{{ s.home.contactHeading }}</h2>
+    <p>{{ s.home.contactSub }}</p>
+    <div class="hero-actions">
+      <a class="btn btn-wa" href="https://wa.me/{{ site.whatsapp }}" target="_blank" rel="noopener">{% include "icons/whatsapp.svg" %} {{ s.cta.whatsapp }}</a>
+      <a class="btn btn-gold" href="tel:{{ site.phoneRaw }}">{{ site.phone }}</a>
+      <a class="btn btn-outline-light" href="{{ p }}/contact/">{{ s.nav.contact }}</a>
+    </div>
+  </div>
+</section>
