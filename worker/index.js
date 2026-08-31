@@ -9,6 +9,10 @@
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
+    if (url.hostname === "www.mirzafahad.com") {
+      url.hostname = "mirzafahad.com";
+      return Response.redirect(url.toString(), 301);
+    }
     if (url.pathname === "/api/contact" && request.method === "POST") {
       return handleContact(request, env);
     }
