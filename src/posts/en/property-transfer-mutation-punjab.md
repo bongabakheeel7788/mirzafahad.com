@@ -1,9 +1,17 @@
 ---
 title: "Buying land or a house in Punjab: registry, mutation (intiqal) and the checks that prevent fraud"
+coverTitle: "Buying property safely in Punjab"
 description: "How property is legally transferred in Punjab — the sale deed, registration, mutation in the revenue record, fard verification and the common ways buyers get cheated."
 date: 2026-08-05
 category: Civil & Property
 key: post-property
+faq:
+  - q: "What is the difference between registry and mutation?"
+    a: "The registered sale deed transfers ownership; the mutation records that change in the revenue record. A buyer needs both: the deed as title and the mutation so the fard reflects him as owner for future dealings."
+  - q: "How do I verify property ownership before buying?"
+    a: "Obtain a fresh fard yourself from the Arazi Record Centre, match the seller's CNIC to the recorded owner, check the chain of prior transfers and encumbrances, and confirm all co-heirs join any sale of inherited property."
+  - q: "What is an inheritance sale trap for buyers?"
+    a: "Property recorded in a deceased person's name must first be mutated to all heirs. A sale by some heirs binds only their shares, so an omitted heir can later claim against the property you bought."
 ---
 
 A large share of civil litigation in Punjab begins with a property purchase that went wrong. Most of it is preventable. This guide explains how title actually passes in Punjab and what to check before paying.

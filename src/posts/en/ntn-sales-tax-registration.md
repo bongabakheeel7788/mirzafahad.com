@@ -5,6 +5,13 @@ description: "Which businesses need NTN and sales tax registration in Pakistan, 
 date: 2026-09-01T18:50:00
 category: Corporate & Business
 key: post-ntn-tax
+faq:
+  - q: "Who needs an NTN in Pakistan?"
+    a: "Practically every business and any individual with assets or transactions. Registration through FBR's IRIS portal is free, and filer status dramatically reduces withholding taxes on property, vehicles and banking."
+  - q: "What is the penalty for staying a non-filer?"
+    a: "Elevated withholding rates across property transactions, vehicles, dividends and banking, plus escalating restrictions on major purchases. Non-filer status functions as a voluntary surcharge on economic life."
+  - q: "Does a restaurant charge federal or provincial sales tax?"
+    a: "Services including restaurants are taxed provincially, in Punjab through the Punjab Revenue Authority, while goods fall under FBR's sales tax. Many businesses need to assess both regimes annually as thresholds change."
 ---
 
 Tax registration questions reach a lawyer's desk in two forms: the new business asking what it must do, and the established one asking how bad the notice it just received is. This article addresses the first — because everything about the second is worse and costlier.

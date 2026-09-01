@@ -13,8 +13,19 @@ layout: base.njk
 <section class="article-body section">
   <div class="container two-col">
     <article class="prose">
-      <img class="post-cover" src="/assets/img/covers/{{ page.fileSlug }}.svg?v={{ build.v }}" alt="" loading="lazy" onerror="this.remove()">
+      <img class="post-cover" src="/assets/img/covers/{{ page.fileSlug }}.svg?v={{ build.v }}" alt="{{ title }}" loading="lazy" onerror="this.remove()">
       {{ content | safe }}
+      {% if faq %}
+      <section class="faq-block">
+        <h2>{{ s.blog.faqHeading }}</h2>
+        {% for f in faq %}
+        <details class="faq-item" {{ "open" if loop.first }}>
+          <summary>{{ f.q }}</summary>
+          <p>{{ f.a }}</p>
+        </details>
+        {% endfor %}
+      </section>
+      {% endif %}
       <div class="article-disclaimer">{{ s.blog.disclaimer }}</div>
       <div class="author-box">
         <div class="avatar">MF</div>
@@ -35,4 +46,19 @@ layout: base.njk
       <p><a href="{{ p }}/blog/">← {{ s.cta.backToBlog }}</a></p>
     </aside>
   </div>
+  {%- set pool = collections.postsEn if lang == "en" else collections.postsUr -%}
+  {%- set related = pool | related(page.url, category, 3) -%}
+  {% if related.length %}
+  <div class="container related-wrap">
+    <h2 class="related-heading">{{ s.blog.relatedHeading }}</h2>
+    <div class="post-list related-list">
+      {% for rp in related %}
+      <article class="post-card">
+        <a class="post-thumb" href="{{ rp.url }}" tabindex="-1" aria-hidden="true"><img src="/assets/img/covers/{{ rp.fileSlug }}.svg?v={{ build.v }}" alt="" loading="lazy" onerror="this.parentNode.remove()"></a>
+        <h3 class="related-title"><a href="{{ rp.url }}">{{ rp.data.title }}</a></h3>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
 </section>

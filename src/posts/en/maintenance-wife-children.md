@@ -5,6 +5,13 @@ description: "Who can claim maintenance in Pakistan, how Family Courts fix the a
 date: 2026-09-01T21:25:00
 category: Family
 key: post-maintenance
+faq:
+  - q: "How much child maintenance do courts award in Pakistan?"
+    a: "There is no fixed figure. Family Courts assess the father's means from his income, assets and lifestyle, and the children's actual needs such as school fees and medical costs. Decrees commonly include an annual increase of around ten percent."
+  - q: "Can a wife claim past maintenance?"
+    a: "Yes, past maintenance can be claimed within limitation, and courts routinely award it as a lump sum. A father who paid nothing for years should expect a significant back-dated liability rather than a clean slate."
+  - q: "What happens if the father does not pay interim maintenance?"
+    a: "The Family Court can strike off his defence and decree the suit against him. Interim maintenance non-payment is treated as surrender of the case, not as a delay tactic."
 ---
 
 Maintenance cases are the bread and butter of Pakistan's Family Courts, and they are decided faster and more mechanically than most people expect. If you understand three things — who is entitled, how the amount is fixed, and how orders are enforced — you understand the case.

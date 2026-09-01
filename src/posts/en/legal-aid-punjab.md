@@ -1,10 +1,17 @@
 ---
 title: "Free legal aid in Punjab: what exists and who qualifies"
 coverTitle: "Free legal aid in Punjab"
-description: "The real free-legal-aid landscape in Pakistan — the Legal Aid and Justice Authority, district legal empowerment funds, bar association committees, women's helplines and how to actually access help."
+description: "Free legal aid in Pakistan — the Legal Aid and Justice Authority, district committees, bar panels and women's helplines, and how to actually access them."
 date: 2026-09-01T18:15:00
 category: Local
 key: post-legal-aid
+faq:
+  - q: "Is free legal aid available in Pakistan?"
+    a: "Yes, through the Legal Aid and Justice Authority for indigent accused, district legal-aid committees of the judiciary, bar association free-aid committees, and NGO panels, alongside nominal-fee family court procedures."
+  - q: "Who qualifies for state legal aid?"
+    a: "Eligibility turns on financial inability, assessed through means declarations such as income affidavits. Indigent accused in serious criminal trials have the longest-established entitlement to counsel at state expense."
+  - q: "How do I apply for legal aid in my district?"
+    a: "Through the Sessions Judge's office or the district legal aid committee, with a one-page case summary, orderly copies of documents and your means evidence, followed up politely in writing."
 ---
 
 "I can't afford a lawyer" ends more meritorious claims in Pakistan than any point of law. Yet a real, if patchy, legal-aid infrastructure exists — statutory, judicial, professional and charitable. Knowing the doors and how to knock is itself half the access.

@@ -5,6 +5,13 @@ description: "What a suit for restitution of conjugal rights means in Pakistan, 
 date: 2026-09-01T20:55:00
 category: Family
 key: post-conjugal-rights
+faq:
+  - q: "Can a court force a wife to return to her husband?"
+    a: "No. A restitution decree is a declaration; no court physically compels a wife to return. Its practical effect is on maintenance, which is why the real contest is whether the wife had lawful cause to live separately."
+  - q: "What are a wife's defences to a conjugal rights suit?"
+    a: "Non-payment of prompt dower, cruelty, non-maintenance, a second marriage without lawful process, and failure to provide the residence she is entitled to are all recognised defences that defeat the suit."
+  - q: "Does a conjugal rights decree stop khula?"
+    a: "No. A wife who does not wish to return can seek khula regardless of the restitution suit, and no restitution decree can prevent or outlast a dissolution the Family Court grants."
 ---
 
 Few legal documents alarm a separated wife more than a summons in a "suit for restitution of conjugal rights" — a case apparently asking a court to order her back to her husband's house. Understanding what these suits actually are, and what they can and cannot achieve, takes most of the fear out of them.

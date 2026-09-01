@@ -1,10 +1,17 @@
 ---
 title: "Wills (wasiyyat) in Pakistan: the one-third rule and what a will can and cannot do"
 coverTitle: "Wills and the one-third rule"
-description: "What a Muslim can lawfully will in Pakistan — the one-third ceiling, the bar on bequests to heirs, form and proof of wills, and how wills interact with fixed inheritance shares."
+description: "What a Muslim can will in Pakistan — the one-third limit, the bar on bequests to heirs, proper form and proof, and what wills are genuinely useful for."
 date: 2026-09-01T20:25:00
 category: Inheritance
 key: post-wills
+faq:
+  - q: "How much of his property can a Muslim will away in Pakistan?"
+    a: "At most one-third of the net estate after debts and funeral expenses, and not in favour of an heir without the other heirs' consent given after the death. The remaining two-thirds devolves by fixed Islamic shares."
+  - q: "Is a written will required to be registered?"
+    a: "No particular form is required and registration is optional, but a signed, dated, witnessed document, ideally registered, is what actually survives challenge, since the maker cannot testify when it matters."
+  - q: "Can a will leave everything to one child?"
+    a: "No. A bequest to an heir is ineffective without the consent of the other heirs after the death. Parents wishing to prefer one child must act during their lifetime by a valid gift with possession delivered."
 ---
 
 People arrive at a lawyer's office with two opposite misconceptions about wills: some believe a will can distribute everything as the writer wishes; others believe wills are meaningless for Muslims. Both are wrong. The will (wasiyyat) has a defined, limited, useful role in Pakistani inheritance — and using it well requires knowing its two boundary rules.

@@ -5,6 +5,13 @@ description: "Revenue partition of agricultural land, civil partition suits for 
 date: 2026-09-01T19:50:00
 category: Civil & Property
 key: post-partition
+faq:
+  - q: "How is inherited agricultural land divided in Punjab?"
+    a: "Through partition proceedings before the revenue officer, who frames a scheme balancing land quality, water and access, and executes it into separate khatas. Undisputed shares make this cheaper and faster than civil litigation."
+  - q: "Can one brother sell his share of joint property?"
+    a: "Yes, a co-sharer may sell his undivided share without the others' consent. The buyer steps into co-ownership rather than any specific portion, and the sale may attract pre-emption by the other co-sharers."
+  - q: "What happens when a house cannot be physically divided?"
+    a: "The court values the property and allows co-sharers to buy each other out at valuation, failing which it can order auction between the co-sharers or publicly and distribute the proceeds by shares."
 ---
 
 Inheritance makes co-owners; partition makes peace. Between the two lies the most protracted category of family litigation in Punjab. Understanding the machinery of partition — which forum, what outcomes are possible, what each co-sharer can and cannot do meanwhile — shortens the road considerably.

@@ -5,6 +5,13 @@ description: "The wife's ownership of dowry articles under Pakistani law, how to
 date: 2026-09-01T21:20:00
 category: Family
 key: post-dowry
+faq:
+  - q: "Who owns the dowry and bridal gold after separation?"
+    a: "The wife. Under the Dowry and Bridal Gifts (Restriction) Act 1976, dowry articles and bridal gifts, including gold given by either side, are the wife's property and are recoverable through the Family Court."
+  - q: "Can I recover dowry without receipts?"
+    a: "Yes. Courts accept a list of articles supported by the wife and her family's testimony, photographs, wedding video and the customs of families of similar standing. Receipts help but their absence is not fatal."
+  - q: "Is gold valued at the wedding rate or today's rate?"
+    a: "Courts increasingly value gold ornaments at the rate prevailing at the time of the decree or recovery rather than the wedding-day rate, which given rising gold prices can substantially increase the award."
 ---
 
 When a marriage breaks down, the question of the dowry — the furniture, appliances, clothing and above all the gold given at the wedding — becomes one of the sharpest disputes. The law here is clearer than families assume: **dowry articles and bridal gifts are the wife's property**. The Dowry and Bridal Gifts (Restriction) Act, 1976 says so expressly, and Family Courts enforce it daily.

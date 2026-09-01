@@ -5,6 +5,13 @@ description: "Pakistan's cheque dishonour law explained — what the prosecution
 date: 2026-09-01T21:45:00
 category: Criminal
 key: post-489f
+faq:
+  - q: "Is a bounced cheque automatically a crime in Pakistan?"
+    a: "No. Section 489-F requires the cheque to have been issued dishonestly towards a loan or obligation. Security cheques and disputed business accounts are common defences, and courts say the provision is not a recovery agency."
+  - q: "Is bail granted in 489-F cases?"
+    a: "Ordinarily yes. The offence carries a maximum of three years, falling outside the prohibitory clause, so superior courts treat bail as the rule. Pre-arrest bail is commonly obtained where the cheque was security."
+  - q: "Does a 489-F conviction get the money back?"
+    a: "No. Conviction punishes but does not order repayment. Recovery comes through a civil summary suit under Order XXXVII CPC, which is why complainants are advised to file both tracks in parallel."
 ---
 
 "His cheque bounced — he's going to jail." That is how most people understand section 489-F of the Pakistan Penal Code, and it is wrong in both directions: complainants over-estimate it as a recovery weapon, and accused people over-fear it. Here is how the law actually operates.

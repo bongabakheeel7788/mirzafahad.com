@@ -1,10 +1,17 @@
 ---
 title: "Partnership deed essentials: ten clauses that prevent partner disputes"
 coverTitle: "Partnership deed essentials"
-description: "What a partnership deed must contain under the Partnership Act 1932 — capital, profit-sharing, authority limits, exit, death of a partner — and why unregistered firms can't sue."
+description: "The ten partnership deed clauses that prevent partner disputes in Pakistan — capital, authority limits, exit, death of a partner, and firm registration."
 date: 2026-09-01T19:10:00
 category: Corporate & Business
 key: post-partnership-deed
+faq:
+  - q: "Is an unregistered partnership valid in Pakistan?"
+    a: "The partnership exists, but an unregistered firm cannot sue its own partners or third parties to enforce contractual rights, which is a crippling disability. Registration with the Registrar of Firms is inexpensive and should always be done."
+  - q: "Are partners personally liable for firm debts?"
+    a: "Yes, jointly and severally. Each partner's personal assets stand behind the firm's obligations, and each partner's acts in the ordinary course of business bind all the partners."
+  - q: "What happens to a partnership when a partner dies?"
+    a: "By default death can dissolve the firm. A well-drafted deed provides that the firm continues, the deceased partner's share is valued and paid to his legal heirs on a schedule, avoiding litigation with the family."
 ---
 
 Most Pakistani partnerships are formed in an hour of goodwill and dissolved in years of litigation. The instrument that determines which fate awaits yours is the partnership deed — and the difference between a serviceable deed and a bazaar template is about ten clauses.

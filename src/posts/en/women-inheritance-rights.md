@@ -1,10 +1,17 @@
 ---
 title: "Sisters' and daughters' inheritance: how deprivation happens and the remedies that work"
 coverTitle: "Women's inheritance rights"
-description: "The ways women are deprived of inheritance in Pakistan — omitted mutations, forced relinquishments, 'exchange for marriage expenses' — and the legal remedies, including the enforcement law criminalising deprivation."
+description: "How women are deprived of inheritance in Pakistan — omitted mutations, forced relinquishments — and the remedies that work, including the Ombudsperson."
 date: 2026-09-01T20:35:00
 category: Inheritance
 key: post-women-inheritance
+faq:
+  - q: "Can a sister claim her share years after her father's death?"
+    a: "Yes. A co-heir's possession is treated as possession on behalf of all heirs, and limitation runs from the sister's knowledge of the deprivation. Courts have consistently refused to let delay shelter inheritance fraud against women."
+  - q: "Is a signed relinquishment of inheritance binding?"
+    a: "Not automatically. Releases signed without consideration, without independent advice, or by illiterate or secluded women in favour of relatives controlling the process are viewed with suspicion and are regularly set aside."
+  - q: "Where can a deprived woman complain besides the courts?"
+    a: "Under the Enforcement of Women's Property Rights Act she may complain to the Ombudsperson, who can investigate summarily and order restoration of possession where ownership is clear from the record."
 ---
 
 Pakistani law on women's inheritance is unambiguous: a daughter, a sister, a widow, a mother — each takes her fixed share, and no custom, family pressure or paperwork ritual lawfully removes it. The gap is not in the law but in enforcement, and the last decade has narrowed even that gap. This article names the standard methods of deprivation and the remedy for each.

@@ -5,6 +5,13 @@ description: "How an overseas Pakistani executes a valid power of attorney — e
 date: 2026-09-01T21:40:00
 category: Overseas
 key: post-poa-abroad
+faq:
+  - q: "How does an overseas Pakistani make a valid power of attorney?"
+    a: "Sign it before the Pakistani embassy or consulate with witnesses and have it attested, or use NADRA's online power of attorney service with video verification. In Pakistan it must then be stamped and, for property, registered."
+  - q: "Can a power of attorney be misused to sell my property?"
+    a: "A general POA with sale powers can be. Grant narrow, specific, registered POAs naming the property and task, exclude self-dealing expressly, and require sale proceeds into your named bank account."
+  - q: "Is a power of attorney valid after the principal dies?"
+    a: "No. A POA dies with its maker, and transactions signed after the principal's death are void. Heirs discovering post-death transfers should act immediately through cancellation proceedings."
 ---
 
 Almost every overseas Pakistani eventually needs someone at home to act for them — to sell or manage property, pursue a case, collect rent, or complete an inheritance. The instrument for that is a power of attorney (mukhtar-nama), and it is also the single most misused document in Pakistani property fraud. This guide covers both halves: making one that works, and limiting it so it cannot be turned against you.

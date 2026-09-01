@@ -27,6 +27,14 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter("head", (arr, n) => (arr || []).slice(0, n));
 
+  // Related posts: same category first, then others (newest first)
+  eleventyConfig.addFilter("related", (pool, url, category, limit) => {
+    const others = (pool || []).filter((p) => p.url !== url);
+    const same = others.filter((p) => p.data.category === category);
+    const rest = others.filter((p) => p.data.category !== category);
+    return same.concat(rest).slice(0, limit || 3);
+  });
+
   // Date formatting
   eleventyConfig.addFilter("dateDisplay", (d, lang) => {
     const date = new Date(d);

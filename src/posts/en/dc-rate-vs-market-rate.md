@@ -5,6 +5,13 @@ description: "Why every property in Pakistan has three values — the DC valuati
 date: 2026-09-01T19:40:00
 category: Civil & Property
 key: post-dc-rate
+faq:
+  - q: "What is the DC rate of property?"
+    a: "The district collector's valuation table fixing minimum area-wise values on which provincial stamp duty and transfer levies are charged, regardless of a lower declared price. It is revised periodically for each locality."
+  - q: "Why does the FBR value matter when buying property?"
+    a: "Federal advance taxes on purchase and sale, and capital gains computation, apply on the higher of the declared price or FBR's notified value. Filer and non-filer rates differ sharply, making filer status a major cost factor."
+  - q: "Is declaring a lower price to save tax risky?"
+    a: "Yes. The declared price becomes the buyer's recorded cost, inflating future capital gains, invites notices on the difference from tabled values, and takes on a life of its own in litigation such as pre-emption."
 ---
 
 Ask what a property is "worth" in Pakistan and you will get three different numbers depending on who is asking: the market's, the province's, and the federal tax authority's. Every buyer and seller navigates all three, and misunderstanding them causes overpaid taxes, under-declared deeds, and disputes that surface years later.

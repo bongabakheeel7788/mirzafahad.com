@@ -1,10 +1,17 @@
 ---
 title: "The agreement to sell (bai'ana): drafting it right and enforcing it when deals break"
 coverTitle: "Agreement to sell: bai'ana"
-description: "What makes a property agreement to sell enforceable in Pakistan — essential clauses, earnest money rules, specific performance, and what each side must prove when the deal collapses."
+description: "What makes a property agreement to sell enforceable in Pakistan — essential clauses, earnest money, specific performance, and each side's proof on default."
 date: 2026-09-01T20:00:00
 category: Civil & Property
 key: post-agreement-to-sell
+faq:
+  - q: "Does an agreement to sell transfer ownership?"
+    a: "No. Only the registered sale deed transfers ownership. The agreement creates contractual rights: the buyer can sue for specific performance and the seller can forfeit earnest money or claim the price on default."
+  - q: "What must a buyer prove in a specific performance suit?"
+    a: "Continuous readiness and willingness to perform, which in practice means demonstrating the balance price was and is available. Courts routinely require the balance to be deposited in court early in the suit."
+  - q: "Can the seller forfeit the entire advance on default?"
+    a: "Genuine earnest money can be forfeited, but courts police forfeiture of large part-payments as penalties. The clause's wording and how the payment was characterised in the agreement decide the outcome."
 ---
 
 Most property deals in Punjab begin with a bai'ana: earnest money changes hands, an agreement to sell is signed on stamp paper, and a date is fixed for the balance and the registry. Most property *litigation* begins there too. The agreement to sell is simultaneously the most important and the worst-drafted document in the market.

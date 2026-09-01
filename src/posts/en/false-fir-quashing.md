@@ -1,10 +1,17 @@
 ---
 title: "False FIRs: how courts detect them and the routes to get one quashed"
 coverTitle: "Fighting a false FIR"
-description: "The hallmarks courts use to spot false FIRs in Pakistan, quashing under 561-A Cr.P.C., cancellation in investigation, acquittal applications, and prosecuting the false complainant."
+description: "How Pakistani courts detect false FIRs, bail on mala fide, quashing under 561-A, early acquittal, and making the false complainant answer afterwards."
 date: 2026-09-01T19:30:00
 category: Criminal
 key: post-false-fir
+faq:
+  - q: "How do courts recognise a false FIR?"
+    a: "Through recognised markers: unexplained delay, a pending civil or family dispute between the parties, improbable narratives, contradiction with medical or electronic records, and mass nomination of an entire rival family."
+  - q: "Can the High Court quash an FIR?"
+    a: "Yes, under section 561-A Cr.P.C. where the FIR taken at face value discloses no offence or is an abuse of process. The bar is high, and disputed factual cases are left to trial or the investigation."
+  - q: "What action can I take against someone who filed a false FIR?"
+    a: "After the case fails, remedies include prosecution under section 182 Cr.P.C., proceedings for perjury and fabrication, and a civil suit for damages for malicious prosecution."
 ---
 
 The false FIR is Pakistan's most abused legal instrument — deployed in property disputes, business fallouts, matrimonial wars and village rivalries as a pressure device. The system knows this, and has developed both the instincts to detect falsity and several distinct exits for the falsely accused. Choosing the right exit, in the right order, is the craft.

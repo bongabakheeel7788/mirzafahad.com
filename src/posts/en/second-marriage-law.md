@@ -1,10 +1,17 @@
 ---
 title: "Second marriage in Pakistan: the permission requirement and the consequences of skipping it"
 coverTitle: "Second marriage: the legal rules"
-description: "What the Muslim Family Laws Ordinance requires before a second marriage — the Arbitration Council, the first wife's position, and the criminal and financial consequences of non-compliance."
+description: "Second marriage law in Pakistan — the Arbitration Council permission, the first wife's rights, and the criminal and dower consequences of skipping it."
 date: 2026-09-01T21:15:00
 category: Family
 key: post-second-marriage
+faq:
+  - q: "Is a second marriage without permission valid in Pakistan?"
+    a: "The marriage itself remains valid and the second wife and her children have full rights. However the husband faces prosecution, and the entire dower of the existing wife becomes immediately payable."
+  - q: "Whose permission is needed for a second marriage?"
+    a: "A written application must be made to the Arbitration Council through the Union Council chairman, stating reasons and the existing wife's position. The Council's written permission is what protects the husband from the Ordinance's penalties."
+  - q: "What can a first wife do if her husband secretly remarries?"
+    a: "She can file a criminal complaint under the Muslim Family Laws Ordinance, recover her entire prompt and deferred dower immediately, claim maintenance, and in most cases seek dissolution of marriage on favourable terms."
 ---
 
 Pakistani law does not prohibit a Muslim man from contracting a second marriage — but it regulates it, and the regulation has real teeth. Most men who find themselves prosecuted after a second marriage are not punished for the marriage itself but for skipping the legal procedure. Here is what the law requires.

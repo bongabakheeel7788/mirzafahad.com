@@ -5,6 +5,13 @@ description: "The standard patterns of property loss suffered by overseas Pakist
 date: 2026-09-01T18:40:00
 category: Overseas
 key: post-overseas-property
+faq:
+  - q: "How can overseas Pakistanis check their property records?"
+    a: "Through PLRA's online and remote fard facilities and a local lawyer on a standing brief. An annual record check defeats most frauds, which depend on years of silence to mature."
+  - q: "What is a benami property risk for expatriates?"
+    a: "Property bought with your money but recorded in a relative's name can be claimed by them later. The money trail through banking channels and contemporaneous documentation of true ownership decide such disputes."
+  - q: "What should I do if relatives have transferred my property?"
+    a: "Act immediately: suits for declaration and cancellation with urgent injunctions, Illegal Dispossession Act complaints where possession was taken, criminal complaints for forgery, and Punjab's overseas-Pakistani facilitation channels for record corrections."
 ---
 
 The overseas Pakistani's property problem follows a script so standard that lawyers can narrate it before the client finishes: property bought or inherited at home, entrusted to a brother or uncle, years of remittances — and then the discovery, on a visit or at a death, that the record tells a different story. The losses are preventable, but only by systems set up before trust fails.

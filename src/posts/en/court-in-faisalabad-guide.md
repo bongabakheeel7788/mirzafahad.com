@@ -5,6 +5,13 @@ description: "What actually happens on a court day in Faisalabad's district cour
 date: 2026-09-01T18:25:00
 category: Local
 key: post-court-guide
+faq:
+  - q: "What should I bring to a court hearing?"
+    a: "Your CNIC, your copy of the file, the case number and court name, and any originals your lawyer requested, handed only to your own counsel against acknowledgment. Arrive early, as security and finding the courtroom take time."
+  - q: "Why do court cases keep getting adjourned?"
+    a: "Opposing counsel's engagements, absent witnesses, judicial leave and strikes all cause adjournments. A party who is always present and ready builds a record that converts into costs, closure of the other side's evidence or ex parte proceedings."
+  - q: "How should I answer questions in court?"
+    a: "Directly, truthfully and briefly, answering only what is asked. Saying you do not know or remember when true is respected; guessing is how honest witnesses are damaged in cross-examination."
 ---
 
 Nobody teaches ordinary people how a court day actually works, so the first visit is an anxious blur of corridors, files and shouted names. This guide walks through a district-court day in Faisalabad — the same rhythm holds in Tandlianwala's courts and across Punjab — so you arrive as a participant rather than a spectator.

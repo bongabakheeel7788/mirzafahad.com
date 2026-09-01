@@ -5,6 +5,13 @@ description: "When a guardianship certificate is required in Pakistan — minors
 date: 2026-09-01T21:00:00
 category: Family
 key: post-guardianship
+faq:
+  - q: "Does a mother need a guardianship certificate for her children's property?"
+    a: "Custody of children does not by itself give authority over their property. Banks, registrars and courts require a mother to be appointed guardian of property by the Guardian Court before she can deal with minors' inherited shares."
+  - q: "Can a guardian sell a minor's property?"
+    a: "Only with the Guardian Court's prior permission, granted where the sale is clearly for the minor's benefit. A sale without permission is voidable by the child on attaining majority, which also makes such purchases risky for buyers."
+  - q: "How long does a guardianship certificate take?"
+    a: "An uncontested petition typically completes in two to four months, including the citation period. Contested petitions, for example between a mother and paternal relatives, take as long as the contest itself."
 ---
 
 A guardianship certificate is one of those documents nobody thinks about until an institution demands it: a bank holding a deceased father's account with minor heirs, a housing authority transferring property that includes a child's inheritance share, an embassy processing a minor's immigration case, or a school or hospital needing a legally authorised decision-maker. This is what it is and how it is obtained.

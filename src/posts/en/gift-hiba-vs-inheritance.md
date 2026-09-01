@@ -5,6 +5,13 @@ description: "What makes a gift (hiba) valid under Pakistani law, whether parent
 date: 2026-09-01T20:40:00
 category: Inheritance
 key: post-hiba
+faq:
+  - q: "What makes a gift of property valid in Pakistan?"
+    a: "Declaration by the donor, acceptance by the donee, and delivery of possession, all during the donor's lifetime. A gift where the donor kept possession and control is the most commonly struck-down document in inheritance litigation."
+  - q: "Can a father give all his property to one son?"
+    a: "A genuine completed lifetime gift can stand, but gifts that disinherit natural heirs are scrutinised strictly. Where the beneficiary controlled the donor's affairs, the law requires the beneficiary to prove the gift was made freely and with independent advice."
+  - q: "What is a marz-ul-maut gift?"
+    a: "A gift made during the illness from which the donor dies is treated like a bequest, effective only up to one-third of the estate and not in favour of an heir without the other heirs' consent."
 ---
 
 It is one of the most common questions asked of any lawyer in Punjab: *"My father transferred everything to my brother before he died — can he do that?"* The honest answer is layered: the law of gift permits an owner to give his property to whomever he chooses in his lifetime, and the law of evidence makes defeating a genuine gift very hard — but the courts examine gifts that disinherit natural heirs with searching suspicion, and a large share of them fail that examination.

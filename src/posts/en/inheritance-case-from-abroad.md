@@ -1,10 +1,17 @@
 ---
 title: "Managing an inheritance case in Pakistan while living abroad"
 coverTitle: "Inheritance from abroad"
-description: "How overseas heirs secure their shares — remote succession certificates, embassy attestations, limited POAs to counsel, evidence from abroad, and selling an inherited share safely."
+description: "How overseas heirs secure inheritance in Pakistan — remote succession certificates, limited POAs to counsel, protecting shares, and selling safely."
 date: 2026-09-01T18:35:00
 category: Overseas
 key: post-overseas-inheritance
+faq:
+  - q: "Can I get my inheritance share without travelling to Pakistan?"
+    a: "Largely yes. NADRA succession certificates support biometric verification at overseas facilities, court proceedings accommodate a narrowly drafted special power of attorney to counsel, and mutations proceed through attested instruments."
+  - q: "Should overseas heirs use the family's shared lawyer?"
+    a: "No. Heirs' interests diverge more than funerals suggest. An overseas heir needs independent counsel to watch the record, object early and demand accounts of estate income from relatives in possession."
+  - q: "How do I safely sell my inherited share from abroad?"
+    a: "Preferably by a registered family settlement with payment through banking channels before signing, or by executing sale documents yourself with embassy attestation. Avoid general powers of attorney given to complete your sale."
 ---
 
 When a parent dies in Pakistan and some heirs live abroad, geography reshapes the succession: the overseas heir depends on others for information, documents and representation — and the domestic relatives control the ground. Most overseas heirs are treated fairly; the structure below is for making fairness independent of luck.

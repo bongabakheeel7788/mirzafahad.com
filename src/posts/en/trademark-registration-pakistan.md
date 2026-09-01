@@ -1,10 +1,17 @@
 ---
 title: "Trademark registration in Pakistan: protecting your brand name and logo"
 coverTitle: "Trademark registration guide"
-description: "How to register a trademark with IPO Pakistan — search, classes, examination, opposition, and enforcement against copycats — and why company registration protects nothing by itself."
+description: "Trademark registration with IPO Pakistan — search, classes, examination, opposition and enforcement — and why a company name protects nothing by itself."
 date: 2026-09-01T19:05:00
 category: Corporate & Business
 key: post-trademark
+faq:
+  - q: "How long does trademark registration take in Pakistan?"
+    a: "Commonly around two years end to end when smooth, through examination, journal publication and the opposition window. Protection dates back to the filing date, which is what wins conflicts."
+  - q: "Can I stop someone using my brand name without registration?"
+    a: "A built reputation supports a passing-off action, but it requires proving reputation from scratch each time. Registration converts that battle into a certificate and enables statutory infringement remedies including interim injunctions."
+  - q: "How long does a registered trademark last?"
+    a: "Ten years from filing, renewable indefinitely for further ten-year periods. Missing renewals is the commonest way businesses lose marks, so renewal dates should be diarised."
 ---
 
 A business's most copied asset in Pakistan is its name. The bakery whose branding a rival lifts, the garment brand whose label appears on inferior stock, the restaurant whose name opens in the next city — all discover the same fact: **registering a company or firm name protects nothing in the market**. Only a registered trademark gives enforceable ownership of a brand. The process is slower than it should be but simpler than it looks.

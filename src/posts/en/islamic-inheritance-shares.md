@@ -5,6 +5,13 @@ description: "How property is divided among heirs under Islamic law in Pakistan 
 date: 2026-09-01T22:00:00
 category: Inheritance
 key: post-inheritance-shares
+faq:
+  - q: "What is a widow's share in her husband's property in Pakistan?"
+    a: "One-eighth of the estate where the deceased left children, and one-fourth where there are none. If there is more than one widow, they share that fraction equally."
+  - q: "How is property divided between sons and daughters?"
+    a: "After fixed sharers such as the widow and parents take their portions, children take the residue with each son receiving twice the share of each daughter, enforced by courts regardless of any contrary family arrangement."
+  - q: "Can heirs be deprived by a verbal will or promise?"
+    a: "No. A bequest cannot exceed one-third of the estate and cannot favour an heir without the other heirs' consent. Death-bed oral gifts claimed to defeat inheritance are examined with deep suspicion by courts."
 ---
 
 When a person dies in Pakistan, their property does not pass by choice or by custom — it passes by law. For Muslims, the shares are fixed by Islamic law and enforced by the courts, and no family arrangement, verbal promise or "understanding" can override them. Yet inheritance disputes remain among the most common cases in our courts, usually because families do not know the shares or because someone hopes the others won't ask.

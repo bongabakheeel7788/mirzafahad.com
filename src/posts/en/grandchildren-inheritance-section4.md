@@ -5,6 +5,13 @@ description: "The classical rule excluding orphaned grandchildren, section 4 of 
 date: 2026-09-01T20:20:00
 category: Inheritance
 key: post-grandchildren
+faq:
+  - q: "Do orphaned grandchildren inherit from their grandfather in Pakistan?"
+    a: "Yes. Section 4 of the Muslim Family Laws Ordinance gives the children of a predeceased son or daughter the share their parent would have received if alive, taken collectively per stirpes."
+  - q: "Does section 4 apply to a predeceased daughter's children?"
+    a: "Yes. The provision covers children of a predeceased son or daughter equally, so a late daughter's children take the share she would have taken from her parent's estate."
+  - q: "What if the uncles processed the mutation without the grandchildren?"
+    a: "The omitted grandchildren remain owners in law. A declaratory suit and correction of the mutation succeeds, with the widowed parent acting for minors and limitation running from knowledge of the omission."
 ---
 
 A man has three sons. One son dies in his father's lifetime, leaving children. When the grandfather later dies — do those grandchildren get their late father's share? Under classical doctrine, largely no: the nearer surviving sons exclude the deceased son's children, whose provision was left to a discretionary bequest. Pakistan changed this by statute, and the change matters in thousands of families.

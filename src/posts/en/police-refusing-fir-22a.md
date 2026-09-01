@@ -1,10 +1,17 @@
 ---
 title: "Police refusing to register your FIR? The 22-A petition explained"
 coverTitle: "When police refuse your FIR"
-description: "What to do when a police station won't register your FIR in Punjab — complaints to senior officers, the Justice of Peace petition under 22-A/B Cr.P.C., and the private complaint alternative."
+description: "When police refuse your FIR in Punjab — written complaints, DPO escalation, the 22-A Justice of Peace petition, and the private complaint alternative."
 date: 2026-09-01T19:35:00
 category: Criminal
 key: post-22a
+faq:
+  - q: "What can I do if police refuse to register my FIR?"
+    a: "Give a written complaint and keep the receipt, escalate to the District Police Officer, and then petition the Justice of Peace under section 22-A(6) Cr.P.C., who can direct the SHO to register the FIR."
+  - q: "Who is the Justice of Peace?"
+    a: "The Sessions Judge or Additional Sessions Judge acting ex-officio. On a 22-A petition he calls the police report and directs registration where the application discloses a cognizable offence, usually within weeks."
+  - q: "Is a private complaint better than forcing an FIR?"
+    a: "Where police are aligned with the other side, a direct complaint under section 200 Cr.P.C. before the Magistrate can be stronger, since the court itself summons the accused and police play no gatekeeping role."
 ---
 
 The law is plain: when information discloses a cognizable offence, the SHO **must** register an FIR — section 154 Cr.P.C. leaves no discretion to weigh the complaint's truth at the registration stage. The practice, as every Pakistani knows, is otherwise: refusals, delays, "pehlay saalis kar lein", and pressure from the other side. The system provides a ladder of remedies, and using it in order is usually the fastest route.

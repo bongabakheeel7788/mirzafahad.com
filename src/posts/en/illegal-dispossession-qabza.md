@@ -5,6 +5,13 @@ description: "The Illegal Dispossession Act 2005, civil suits for possession, se
 date: 2026-09-01T20:05:00
 category: Civil & Property
 key: post-qabza
+faq:
+  - q: "What is the fastest remedy against qabza in Pakistan?"
+    a: "For recent dispossession, a complaint under the Illegal Dispossession Act 2005 before the Court of Session, which can order restoration of possession during the case. For threatened dispossession, an urgent civil injunction preserving possession."
+  - q: "Can an owner forcibly retake his own property?"
+    a: "No. Even an owner who ejects an occupier by force can be put back out through a possessory suit under section 9 of the Specific Relief Act. The law forces everyone through legal process on both sides."
+  - q: "What evidence proves possession in qabza cases?"
+    a: "Utility bills, tax receipts, tenancy records, photographs and witnesses of continuous occupation. The party who can document possession wins the early rounds, which usually decide these disputes."
 ---
 
 "Qabza" — the forcible or fraudulent occupation of another's property — is common enough in Punjab to have produced its own vocabulary and its own statute. Victims usually lose time not because remedies are lacking but because they pick the wrong one. Here is the toolkit, matched to situations.

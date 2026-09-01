@@ -1,10 +1,17 @@
 ---
 title: "NADRA succession certificate: process, fees, and when you still need the court"
 coverTitle: "NADRA succession certificate guide"
-description: "Step-by-step guide to getting a succession certificate from NADRA in Pakistan — eligibility, documents, biometric verification of heirs, timelines, and the cases that still require a court."
+description: "How to get a NADRA succession certificate in Pakistan — documents, biometric verification of heirs, timelines, and when you still need the court."
 date: 2026-09-01T21:55:00
 category: Inheritance
 key: post-nadra-succession
+faq:
+  - q: "How long does a NADRA succession certificate take?"
+    a: "Where all heirs are agreed and complete their biometric verification, certificates commonly issue within two to four weeks after the fourteen-day public notice period. Disputed cases must go to court instead."
+  - q: "Can overseas heirs complete NADRA succession verification?"
+    a: "Yes. Heirs abroad can verify biometrically at Pakistani embassies and through NADRA's overseas arrangements, allowing the certificate to proceed without the overseas heir travelling to Pakistan."
+  - q: "Does a succession certificate transfer land?"
+    a: "No. It covers movable assets such as bank accounts and shares. Land passes through a separate inheritance mutation in the revenue record, entered on the basis of the heirship record."
 ---
 
 Until 2021, releasing a deceased person's bank account or shares meant a court case that could take months. The Letters of Administration and Succession Certificates Act, 2021 changed that: for straightforward cases, NADRA now issues succession certificates through its offices, often within weeks. This article explains how it works and when the old court route still applies.

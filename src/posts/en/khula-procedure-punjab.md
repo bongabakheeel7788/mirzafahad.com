@@ -1,9 +1,17 @@
 ---
 title: "How to file for khula in Punjab: procedure, timeline and what to expect"
+coverTitle: "Khula in Punjab: step-by-step"
 description: "A step-by-step guide to obtaining khula through the Family Court in Punjab — grounds, documents, the reconciliation stage, dower and what happens after the decree."
 date: 2026-08-20
 category: Family
 key: post-khula
+faq:
+  - q: "How long does khula take in Pakistan?"
+    a: "An uncontested khula in Punjab's Family Courts typically takes three to six months. Where the husband does not appear or does not seriously contest, the decree can come faster, often at the pre-trial reconciliation stage."
+  - q: "Do I have to return my haq mehr for khula?"
+    a: "Only dower actually received has to be returned, and the Family Courts Act caps this at fifty percent. Unpaid dower is generally not returnable, and dowry articles and gifts from your own family are never part of it."
+  - q: "Can I file khula in my own city?"
+    a: "Yes. The suit is filed in the Family Court of the district where the wife ordinarily resides, so a woman living with her parents can file locally instead of travelling to her husband's district for hearings."
 ---
 
 Khula is the right of a Muslim wife to seek dissolution of her marriage through the court when she can no longer live with her husband "within the limits prescribed by Allah". Unlike talaq, which the husband pronounces, khula is granted by a judge. In Punjab it is one of the most common family matters, and the procedure is more straightforward than many women fear.

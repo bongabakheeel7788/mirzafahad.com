@@ -1,10 +1,17 @@
 ---
 title: "Employment contracts for small businesses: what Pakistani law actually requires"
 coverTitle: "Employment contracts guide"
-description: "Appointment letters, probation, termination and notice, EOBI and social security registration, and the standing-orders framework — employment law for shops, restaurants and SMEs."
+description: "Employment law for Pakistani SMEs — appointment letters, probation, lawful termination, EOBI and social security registration, and protecting business data."
 date: 2026-09-01T19:00:00
 category: Corporate & Business
 key: post-employment
+faq:
+  - q: "Is an appointment letter legally required in Pakistan?"
+    a: "The standing-orders framework obliges employers to issue appointment letters, and every prudent employer should regardless of technical coverage, since tribunals begin every dispute by asking for the letter."
+  - q: "Can I dismiss an employee for misconduct without an inquiry?"
+    a: "No. Dismissal requires a charge sheet, an opportunity to explain and a fair domestic inquiry. Labour forums reinstate or compensate on procedural failure alone, whatever the truth of the misconduct."
+  - q: "When must a business register for EOBI and social security?"
+    a: "When employee numbers cross the modest statutory thresholds. Non-registration accumulates years of arrears and surcharges that surface through ex-employee complaints, so registering on time is far cheaper."
 ---
 
 Small employers in Pakistan tend to run on oral employment — until the first dispute: a manager who leaves with the customer list, a worker claiming years of unpaid dues, an EOBI notice with penalties attached. Employment law here is a patchwork, but its practical demands on an SME reduce to a manageable set.

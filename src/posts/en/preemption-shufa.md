@@ -5,6 +5,13 @@ description: "The right of pre-emption under the Punjab Pre-emption Act — who 
 date: 2026-09-01T19:55:00
 category: Civil & Property
 key: post-preemption
+faq:
+  - q: "Who can claim pre-emption in Punjab?"
+    a: "In order of priority: co-sharers in the property, participators in special immunities such as shared passages, and owners of adjoining property. A superior category excludes an inferior one, and the right attaches to sales, not gifts or inheritance."
+  - q: "What are the talbs in a pre-emption case?"
+    a: "An immediate demand on learning of the sale, a witnessed written confirmation sent by registered post within two weeks, and the suit itself within limitation. Missing or defectively proving any talb is fatal to the claim."
+  - q: "How can a buyer protect against pre-emption?"
+    a: "Complete and register quickly, take open possession, and scrutinise the pre-emptor's qualification and compliance with each talb. Estoppel also defeats pre-emptors who negotiated to buy or stood by during construction."
 ---
 
 Pre-emption — shufa — gives certain persons the right to step into a completed sale of immovable property and take it for themselves at the sale price. It is an ancient right with a modern statute, and it is the most deadline-driven area of property law in Punjab: strong claims die on missed timelines more often than on merits.

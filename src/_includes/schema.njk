@@ -30,11 +30,39 @@
   "@context": "https://schema.org",
   "@type": "Article",
   "headline": {{ title | dump | safe }},
+  "description": {{ description | dump | safe }},
+  "image": "{{ site.url }}/assets/img/covers/{{ page.fileSlug }}.svg",
   "datePublished": "{{ page.date | isoDate }}",
+  "dateModified": "{{ page.date | isoDate }}",
   "inLanguage": "{{ lang }}",
-  "author": { "@type": "Person", "name": "{{ site.name }}", "jobTitle": "{{ site.title }}", "url": "{{ site.url }}/about/" },
-  "publisher": { "@type": "Person", "name": "{{ site.name }}" },
+  "articleSection": {{ category | dump | safe }},
+  "author": { "@type": "Person", "name": "{{ site.name }}", "jobTitle": "{{ site.title }}", "url": "{{ site.url }}/about/", "sameAs": ["{{ site.social.facebook }}", "{{ site.social.linkedin }}"] },
+  "publisher": { "@type": "Person", "name": "{{ site.name }}", "url": "{{ site.url }}" },
   "mainEntityOfPage": "{{ site.url }}{{ page.url }}"
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ site.url }}{{ '/' if lang == 'en' else '/ur/' }}" },
+    { "@type": "ListItem", "position": 2, "name": "Articles", "item": "{{ site.url }}{{ '/blog/' if lang == 'en' else '/ur/blog/' }}" },
+    { "@type": "ListItem", "position": 3, "name": {{ title | dump | safe }}, "item": "{{ site.url }}{{ page.url }}" }
+  ]
+}
+</script>
+{%- if faq -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {%- for f in faq %}
+    { "@type": "Question", "name": {{ f.q | dump | safe }}, "acceptedAnswer": { "@type": "Answer", "text": {{ f.a | dump | safe }} } }{{ "," if not loop.last }}
+    {%- endfor %}
+  ]
+}
+</script>
+{%- endif -%}
 {%- endif -%}

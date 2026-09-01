@@ -5,6 +5,13 @@ description: "Temporary injunctions in Pakistani civil litigation — the three 
 date: 2026-09-01T20:10:00
 category: Civil & Property
 key: post-stay-orders
+faq:
+  - q: "What are the requirements for a stay order in Pakistan?"
+    a: "A prima facie case shown by documents, irreparable loss that money cannot later fix, and balance of convenience. Weakness in any one is the standard ground for refusing or vacating an injunction."
+  - q: "How long does a stay order last?"
+    a: "An interim stay lasts until the injunction application is decided and a confirmed injunction can last through the suit, but it can be vacated at any stage. Stays contested promptly with clean documents often fall within months."
+  - q: "What happens if someone violates a stay order?"
+    a: "Disobedience of an injunction invites enforcement under the CPC, including attachment of property and detention. Courts treat violation seriously, and a stay-holder in breach of conditions likewise loses protection."
 ---
 
 "He has taken a stay" may be the most feared sentence in Pakistani property dealings. The fear is often out of proportion to the law: a stay order is a provisional, defeasible protection — powerful when rightly obtained, and vulnerable when it isn't. Here is how these orders actually work.

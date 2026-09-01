@@ -1,10 +1,17 @@
 ---
 title: "Recovering a friendly loan: your options when a personal loan isn't returned"
 coverTitle: "Recovering a friendly loan"
-description: "Legal routes to recover money lent to friends or relatives in Pakistan — proof problems, suits for recovery, summary suits on cheques and promissory notes, and the criminal law's limits."
+description: "Recovering personal loans in Pakistan — proof problems, summary suits on cheques, ordinary recovery suits, legal notices and the criminal law's limits."
 date: 2026-09-01T19:45:00
 category: Civil & Property
 key: post-loan-recovery
+faq:
+  - q: "How do I recover money lent to a friend without documents?"
+    a: "Bank transfer records, WhatsApp admissions and witnesses can support an ordinary recovery suit, and a legal notice often produces settlement or a written admission. Purely cash loans with no trail are extremely hard to prove."
+  - q: "Is not repaying a loan a crime in Pakistan?"
+    a: "An ordinary unpaid loan is a civil matter, not a crime. Criminal law applies where a cheque was dishonoured under section 489-F or where money was obtained by deception from the outset."
+  - q: "What is the fastest suit for loan recovery?"
+    a: "A summary suit under Order XXXVII CPC on a cheque or promissory note. The borrower must obtain leave to defend within a fixed time, failing which the suit is decreed, making it the premier recovery route."
 ---
 
 Money lent in friendship is recovered in law — if at all. The friendly loan is the most under-documented transaction in Pakistani life, and the cases it produces are won or lost almost entirely on what evidence the lender happens to possess. Here is a realistic map of the options.

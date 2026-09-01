@@ -1,9 +1,17 @@
 ---
 title: "Registering a private limited company in Pakistan: a practical guide for small business owners"
-description: "When a private limited company makes sense versus a sole proprietorship or partnership, and the SECP registration process step by step — name reservation, documents, NTN and what comes after."
+coverTitle: "Registering a company in Pakistan"
+description: "Sole proprietorship vs partnership vs private limited company, and SECP registration step by step — names, documents, NTN and what comes after."
 date: 2026-07-28
 category: Corporate & Business
 key: post-company
+faq:
+  - q: "How long does company registration take in Pakistan?"
+    a: "In ordinary cases a few working days through SECP's online eServices portal, covering name reservation, filing of the memorandum and articles, and issuance of the incorporation certificate with an auto-generated NTN."
+  - q: "What is the difference between a company and a sole proprietorship?"
+    a: "A private limited company is a separate legal person whose shareholders' liability is limited to their shares, while a sole proprietor is personally liable for all business debts. The company costs more in annual compliance."
+  - q: "Does registering a company protect my brand name?"
+    a: "No. Company registration and trademarks are different rights. A brand or logo is protected only by registering it as a trademark with IPO Pakistan, which is a separate process."
 ---
 
 Many business owners in Pakistan run for years as a sole proprietorship, then wonder whether they should "become a company". The answer depends on what the business needs. This guide sets out the options and then walks through SECP registration.

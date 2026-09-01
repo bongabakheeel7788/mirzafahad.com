@@ -1,10 +1,17 @@
 ---
 title: "How to choose a lawyer in Pakistan: the questions to ask before paying a fee"
 coverTitle: "Choosing the right lawyer"
-description: "A candid guide to selecting an advocate — verifying enrolment, matching specialisation to your matter, understanding fee structures, red flags, and what a good lawyer will tell you upfront."
+description: "How to choose an advocate in Pakistan — verifying enrolment, matching specialisation, fee structures in writing, and the red flags to walk away from."
 date: 2026-09-01T18:20:00
 category: Local
 key: post-choosing-lawyer
+faq:
+  - q: "How do I verify a lawyer is genuine in Pakistan?"
+    a: "Check enrolment with the provincial Bar Council and membership of the district bar, and be wary of strangers who approach you near court gates. Enrolment for High Court and lower courts is distinct."
+  - q: "What fee questions should I ask a lawyer upfront?"
+    a: "Whether the fee covers the whole case or stages, what is excluded such as court fees and appeals, and the payment schedule. Get the structure in writing; the commonest grievance is fee surprise, not fee size."
+  - q: "What are red flags when hiring a lawyer?"
+    a: "Guaranteed outcomes, opinions given without reading your documents, permanent vagueness about strategy and progress, and demands for untraceable cash payments to unnamed persons."
 ---
 
 People research a phone purchase for a week and choose a lawyer in an afternoon — usually on a relative's recommendation, in a crisis, under time pressure. Since the choice shapes years of your life, here is a candid framework from inside the profession.

@@ -1,10 +1,17 @@
 ---
 title: "Franchise and distribution agreements: what to check before you sign"
 coverTitle: "Franchise agreements: checks"
-description: "Due diligence and key clauses for franchisees and distributors in Pakistan — fees, territory, supply terms, termination traps, and what happens to your investment when the brand walks."
+description: "Franchise and distribution contracts in Pakistan — brand diligence, fees, territory, supply terms, and the termination clauses that decide your investment."
 date: 2026-09-01T18:45:00
 category: Corporate & Business
 key: post-franchise
+faq:
+  - q: "What should I verify before buying a franchise in Pakistan?"
+    a: "That the franchisor owns the trademark in Pakistan in the right classes, the authority of any master franchisee, the experience of existing and former franchisees, and the complete money map of fees, royalties and mandatory purchases."
+  - q: "What is the most important clause in a franchise agreement?"
+    a: "Termination and renewal. It decides who captures your sunk investment in fit-out and market development when the relationship ends, including buy-backs, renewal rights and the scope of post-termination restraints."
+  - q: "Are foreign arbitration clauses enforceable in Pakistan?"
+    a: "In principle yes under Pakistan's arbitration-convention framework, but they are expensive to use. Negotiating arbitration seated in Pakistan or a carve-out for urgent local relief protects smaller franchisees."
 ---
 
 Franchising and distribution are how ambitious Pakistani entrepreneurs buy speed: a proven brand, a supply chain, a format. The contracts behind them, however, are drafted by the brand, for the brand — and the investor who signs without adjustment discovers the imbalance only at renewal or termination, with a fitted-out premises and no brand to run in it. Here is the checklist for the other side of the table.

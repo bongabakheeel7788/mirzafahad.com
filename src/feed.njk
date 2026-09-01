@@ -1,0 +1,23 @@
+---
+permalink: /feed.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Mirza Fahad · Advocate High Court — Articles</title>
+  <link>{{ site.url }}/blog/</link>
+  <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>Plain-language guides to Pakistani law by Mirza Fahad, Advocate High Court.</description>
+  <language>en</language>
+  {%- for post in collections.postsEn %}
+  <item>
+    <title>{{ post.data.title | escape }}</title>
+    <link>{{ site.url }}{{ post.url }}</link>
+    <guid>{{ site.url }}{{ post.url }}</guid>
+    <pubDate>{{ post.date.toUTCString() }}</pubDate>
+    <description>{{ post.data.description | escape }}</description>
+  </item>
+  {%- endfor %}
+</channel>
+</rss>

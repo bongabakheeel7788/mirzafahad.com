@@ -1,10 +1,17 @@
 ---
 title: "Raazinama: which offences can be settled, and how compounding actually works"
 coverTitle: "Raazinama & compounding"
-description: "Compoundable and non-compoundable offences in Pakistan, the court's role in raazinama, qisas and diyat settlements in hurt and murder cases, and drafting settlements that stick."
+description: "Which offences can be settled by raazinama in Pakistan, the court's role, qisas and diyat compromises, and drafting settlements that actually hold."
 date: 2026-09-01T19:20:00
 category: Criminal
 key: post-raazinama
+faq:
+  - q: "Which criminal cases can be settled by raazinama?"
+    a: "Offences listed as compoundable in section 345 Cr.P.C., some directly by the victim and the more serious ones with the court's permission, including the qisas and diyat family of offences against the body. Offences like narcotics and corruption cannot be compounded."
+  - q: "Who must sign a compromise in a murder case?"
+    a: "All legal heirs of the deceased, with minors' shares secured through the court. An omitted heir can unravel the compromise, and courts personally verify each heir's identity and free consent."
+  - q: "What is the effect of a court-accepted compromise?"
+    a: "Compounding has the effect of an acquittal for the compounded offence. In murder cases the court may still punish where the case attracts fasad-fil-arz despite the settlement."
 ---
 
 "Raazinama ho gaya hai" — the settlement is done — is how a large share of Pakistani criminal cases end. But compromise in criminal law is not a private transaction: which offences can be settled, with whom, and with what court involvement is fixed by law, and settlements done wrong have a way of coming back to life.

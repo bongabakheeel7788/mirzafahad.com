@@ -1,10 +1,17 @@
 ---
 title: "Court marriage in Pakistan: procedure, validity and the myths"
 coverTitle: "Court marriage: procedure & myths"
-description: "What a court marriage actually is in Pakistan, the free-consent foundation, required documents, the nikah and registration process, safety measures, and the myths around parental consent."
+description: "Court marriage in Pakistan explained — free consent of adults, the nikah and registration process, safety measures, and the myths about parental consent."
 date: 2026-09-01T21:10:00
 category: Family
 key: post-court-marriage
+faq:
+  - q: "Is parental permission required for court marriage in Pakistan?"
+    a: "No. An adult woman can lawfully marry of her own free will, and the superior courts have affirmed this repeatedly. The wali's consent is not a legal requirement for a valid marriage."
+  - q: "Can parents get a court marriage cancelled?"
+    a: "There is no legal process for parents to cancel an adult child's valid marriage. Abduction FIRs filed to undo such marriages fail once the bride's free-will statement is recorded, though they can cause temporary harassment."
+  - q: "What documents prove a court marriage?"
+    a: "The nikahnama, the Union Council registration, and the NADRA marriage registration certificate, usually supported by a free-will affidavit. Registration should be done immediately as every later process relies on it."
 ---
 
 "Court marriage" is one of the most searched legal phrases in Pakistan, and one of the most misunderstood. There is no marriage performed *by a court*. What the phrase describes is an ordinary Islamic nikah, contracted by two consenting adults — usually without family involvement — documented carefully, often with a lawyer arranging the formalities. Its legal foundation is simple and absolute: **a sui juris adult woman can marry of her own free will. Parental permission is not a legal requirement.** The superior courts have affirmed this repeatedly.

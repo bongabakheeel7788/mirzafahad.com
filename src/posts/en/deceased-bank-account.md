@@ -5,6 +5,13 @@ description: "How Pakistani banks handle a deceased customer's accounts and lock
 date: 2026-09-01T20:30:00
 category: Inheritance
 key: post-deceased-account
+faq:
+  - q: "Can a wife withdraw from her husband's account after his death?"
+    a: "No. The balance becomes part of the estate belonging to all heirs, and the bank releases it only against a succession certificate. Withdrawals using the deceased's card or cheques are unlawful and recoverable by the other heirs."
+  - q: "Does a nominee own the deceased's bank balance or insurance?"
+    a: "Under settled Pakistani law a nominee is generally a trustee for the legal heirs, not the owner. The proceeds are distributed as inheritance among all heirs in their shares."
+  - q: "How do heirs open a deceased person's bank locker?"
+    a: "Lockers are sealed on death and opened against succession authority in the presence of the heirs, usually with an inventory recorded. The contents form part of the estate and are divided like other assets."
 ---
 
 When a bank learns that a customer has died, it freezes the account. From that moment, no ATM card, no cheque signed before death, and no relative's pleading will move the money — not even a spouse who deposited half of it. Understanding the bank's legal position saves families months of frustration.

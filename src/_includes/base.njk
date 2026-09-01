@@ -1,7 +1,8 @@
 {%- set s = t[lang] -%}
 {%- set siteName = site.name if lang == "en" else site.nameUr -%}
 {%- set siteTitle = site.title if lang == "en" else site.titleUr -%}
-{%- set pageTitle = (title + " · " + siteName) if title else (siteName + " · " + siteTitle) -%}
+{%- set shortTitle = coverTitle or title -%}
+{%- set pageTitle = (shortTitle + " · " + siteName) if shortTitle else (siteName + " · " + siteTitle) -%}
 {%- set alt = collections.all | altUrl(key, lang) -%}
 {%- set desc = description or (site.name + ", " + site.title + ". Civil, criminal, family and corporate matters before the Lahore High Court and District Courts, Faisalabad.") -%}
 <!DOCTYPE html>
@@ -16,11 +17,12 @@
   <link rel="alternate" hreflang="{{ lang }}" href="{{ site.url }}{{ page.url }}">
   <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ page.url if lang == 'en' else alt }}">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="alternate" type="application/rss+xml" title="Articles — Mirza Fahad" href="/feed.xml">
   <meta property="og:type" content="{{ 'article' if isPost else 'website' }}">
   <meta property="og:title" content="{{ pageTitle }}">
   <meta property="og:description" content="{{ desc }}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-  <meta property="og:image" content="{{ site.url }}/assets/img/og-cover.png">
+  <meta property="og:image" content="{{ site.url }}{{ ("/assets/img/covers/" + page.fileSlug + ".svg?v=" + build.v) if isPost else "/assets/img/og-cover.png" }}">
   <meta property="og:locale" content="{{ 'en_PK' if lang == 'en' else 'ur_PK' }}">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="theme-color" content="#060607">

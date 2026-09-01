@@ -1,10 +1,17 @@
 ---
 title: "The nikahnama's columns explained: the rights most brides never know they can write in"
 coverTitle: "Nikahnama columns explained"
-description: "A column-by-column guide to Pakistan's nikahnama — dower types, the delegated right of divorce in column 18, conditions in column 17, and why crossed-out columns matter for decades."
+description: "A column-by-column nikahnama guide — dower types, conditions in column 17, the delegated right of divorce in column 18, and why crossed-out columns matter."
 date: 2026-09-01T20:50:00
 category: Family
 key: post-nikahnama
+faq:
+  - q: "What is column 18 of the nikahnama?"
+    a: "Column 18 records the husband's delegation of the right of divorce to the wife, called talaq-e-tafweez. Where it is filled, the wife can dissolve the marriage herself without khula and without surrendering her dower."
+  - q: "Can conditions be written into a nikahnama?"
+    a: "Yes. Column 17 lawfully carries agreed conditions such as the right to education or employment, a separate residence, or that no second marriage will occur without consent. Reasonable conditions are enforceable contractual terms."
+  - q: "What if the nikah registrar crossed out columns without asking?"
+    a: "Certified copies from the Union Council record establish what was actually agreed, and alterations can be challenged. Obtaining certified copies soon after marriage is the best protection against later tampering disputes."
 ---
 
 The nikahnama is the most important contract most Pakistanis ever sign, and the least read. It is filled in a noisy room, in minutes, by a nikah registrar following habit — and its blanks and crossed lines then govern rights for decades. Every column of the standard form exists for a reason. These are the ones that decide later disputes.

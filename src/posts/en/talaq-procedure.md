@@ -1,10 +1,17 @@
 ---
 title: "Talaq procedure in Pakistan: notices, the 90 days, and the mistakes that cost men dearly"
 coverTitle: "Talaq: the legal procedure"
-description: "The legal procedure of divorce by the husband — written notice to the Union Council, the Arbitration Council and reconciliation period, the effectiveness certificate, and the consequences of skipping notice."
+description: "The legal talaq procedure in Pakistan — Union Council notice, the 90-day period, the effectiveness certificate, and the costly mistakes of skipping notice."
 date: 2026-09-01T21:05:00
 category: Family
 key: post-talaq
+faq:
+  - q: "Is talaq effective without notice to the Union Council?"
+    a: "Skipping the section 7 notice is a punishable offence and leaves the divorce legally incomplete, with maintenance and inheritance consequences continuing. The talaq becomes effective ninety days after the notice reaches the chairman, not on pronouncement."
+  - q: "Can talaq be revoked after notice?"
+    a: "Yes, within the ninety-day period the husband can revoke the talaq expressly or by resuming the marital relationship, and the notice can be withdrawn. The period exists precisely as a cooling-off mechanism."
+  - q: "Is halala required to remarry the same person?"
+    a: "Under the Muslim Family Laws Ordinance, a couple may remarry after an effective talaq without any intervening marriage unless the talaq has been effective for the third time. Halala arrangements after a first or second divorce are legally unnecessary."
 ---
 
 Divorce by the husband — talaq — is the area of family law where the gap between religious practice and legal procedure causes the most damage. A man who pronounces talaq and considers the matter closed, without following the Muslim Family Laws Ordinance, creates years of uncertainty for both spouses. The procedure is short; skipping it is expensive.

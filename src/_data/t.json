@@ -3,27 +3,68 @@
     "dir": "ltr",
     "langName": "English",
     "switchLabel": "اردو",
-    "nav": { "home": "Home", "about": "About", "practice": "Practice Areas", "blog": "Articles", "contact": "Contact" },
-    "cta": { "whatsapp": "WhatsApp", "call": "Call now", "consult": "Book a consultation", "readMore": "Read more", "viewAll": "View all articles", "learnMore": "Explore", "directions": "Get directions", "send": "Send message", "backToBlog": "All articles" },
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "practice": "Practice Areas",
+      "blog": "Articles",
+      "contact": "Contact"
+    },
+    "cta": {
+      "whatsapp": "WhatsApp",
+      "call": "Call now",
+      "consult": "Book a consultation",
+      "readMore": "Read more",
+      "viewAll": "View all articles",
+      "learnMore": "Explore",
+      "directions": "Get directions",
+      "send": "Send message",
+      "backToBlog": "All articles"
+    },
     "home": {
       "eyebrow": "Advocate High Court · Punjab, Pakistan",
       "heroTitle": "Counsel with clarity. Advocacy with conviction.",
       "intro": "From the first legal notice to the final appeal — I represent individuals, families and businesses before the Lahore High Court and the District Courts of Faisalabad, with preparation that leaves nothing to chance.",
       "chip": "Accepting new matters",
       "stats": [
-        { "num": 4, "suffix": "", "label": "Practice areas" },
-        { "num": 2, "suffix": "", "label": "Courts of practice" },
-        { "num": 24, "suffix": "h", "label": "Response time" },
-        { "num": 100, "suffix": "%", "label": "Personally handled" }
+        {
+          "num": 4,
+          "suffix": "",
+          "label": "Practice areas"
+        },
+        {
+          "num": 2,
+          "suffix": "",
+          "label": "Courts of practice"
+        },
+        {
+          "num": 24,
+          "suffix": "h",
+          "label": "Response time"
+        },
+        {
+          "num": 100,
+          "suffix": "%",
+          "label": "Personally handled"
+        }
       ],
       "practiceHeading": "Practice areas",
       "practiceSub": "Four disciplines. One standard — every matter prepared as if it will be fought to the very end.",
       "whyHeading": "How I work",
       "whySub": "No noise, no false promises. A method built on preparation, candour and relentless follow-through.",
       "why": [
-        { "h": "Straight answers first", "p": "Before you spend a rupee, you get an honest assessment — the strengths, the risks, the realistic timeline. If a case is weak, you will hear it from me first, not from the judge." },
-        { "h": "Prepared to the last page", "p": "Every plaint, petition and bail application is researched and drafted by me personally. Nothing is filed that I would not stand behind in open court." },
-        { "h": "You are never in the dark", "p": "After every hearing you know what happened, what comes next, and what is needed from you — in plain language, on WhatsApp or by phone." }
+        {
+          "h": "Straight answers first",
+          "p": "Before you spend a rupee, you get an honest assessment — the strengths, the risks, the realistic timeline. If a case is weak, you will hear it from me first, not from the judge."
+        },
+        {
+          "h": "Prepared to the last page",
+          "p": "Every plaint, petition and bail application is researched and drafted by me personally. Nothing is filed that I would not stand behind in open court."
+        },
+        {
+          "h": "You are never in the dark",
+          "p": "After every hearing you know what happened, what comes next, and what is needed from you — in plain language, on WhatsApp or by phone."
+        }
       ],
       "articlesHeading": "Know the law before you need it",
       "articlesSub": "Plain-language guides to Pakistani law and court procedure.",
@@ -35,12 +76,33 @@
       "credentialsHeading": "Credentials",
       "approachHeading": "Approach"
     },
-    "practice": { "heading": "Practice areas", "mattersHeading": "Matters I handle", "otherHeading": "Other practice areas", "ctaHeading": "Facing a matter like this?" },
-    "blog": { "heading": "Articles", "sub": "Plain-language explanations of Pakistani law and court procedure — written for clients, not for lawyers.", "minRead": "min read", "disclaimer": "This article is general information about Pakistani law, not legal advice. Every case turns on its own facts — consult an advocate about your situation." },
+    "practice": {
+      "heading": "Practice areas",
+      "mattersHeading": "Matters I handle",
+      "otherHeading": "Other practice areas",
+      "ctaHeading": "Facing a matter like this?"
+    },
+    "blog": {
+      "heading": "Articles",
+      "sub": "Plain-language explanations of Pakistani law and court procedure — written for clients, not for lawyers.",
+      "minRead": "min read",
+      "disclaimer": "This article is general information about Pakistani law, not legal advice. Every case turns on its own facts — consult an advocate about your situation.",
+      "faqHeading": "Frequently asked questions",
+      "relatedHeading": "Related articles"
+    },
     "contact": {
       "heading": "Contact",
       "sub": "Describe your matter in a few lines. Leave out confidential details until we have spoken.",
-      "form": { "name": "Your name", "phone": "Phone / WhatsApp", "email": "Email (optional)", "subject": "Type of matter", "message": "Brief description", "sent": "Thank you — your message has been sent. I will respond within one working day.", "error": "Something went wrong. Please try WhatsApp or call instead.", "select": "Select…" },
+      "form": {
+        "name": "Your name",
+        "phone": "Phone / WhatsApp",
+        "email": "Email (optional)",
+        "subject": "Type of matter",
+        "message": "Brief description",
+        "sent": "Thank you — your message has been sent. I will respond within one working day.",
+        "error": "Something went wrong. Please try WhatsApp or call instead.",
+        "select": "Select…"
+      },
       "officeHeading": "Chamber",
       "hoursHeading": "Hours",
       "phoneHeading": "Phone & WhatsApp"
@@ -54,27 +116,68 @@
     "dir": "rtl",
     "langName": "اردو",
     "switchLabel": "English",
-    "nav": { "home": "ہوم", "about": "تعارف", "practice": "شعبہ جات", "blog": "مضامین", "contact": "رابطہ" },
-    "cta": { "whatsapp": "واٹس ایپ", "call": "کال کریں", "consult": "مشاورت کے لیے رابطہ", "readMore": "مزید پڑھیں", "viewAll": "تمام مضامین", "learnMore": "تفصیل", "directions": "راستہ دیکھیں", "send": "پیغام بھیجیں", "backToBlog": "تمام مضامین" },
+    "nav": {
+      "home": "ہوم",
+      "about": "تعارف",
+      "practice": "شعبہ جات",
+      "blog": "مضامین",
+      "contact": "رابطہ"
+    },
+    "cta": {
+      "whatsapp": "واٹس ایپ",
+      "call": "کال کریں",
+      "consult": "مشاورت کے لیے رابطہ",
+      "readMore": "مزید پڑھیں",
+      "viewAll": "تمام مضامین",
+      "learnMore": "تفصیل",
+      "directions": "راستہ دیکھیں",
+      "send": "پیغام بھیجیں",
+      "backToBlog": "تمام مضامین"
+    },
     "home": {
       "eyebrow": "ایڈووکیٹ ہائی کورٹ · پنجاب، پاکستان",
       "heroTitle": "واضح مشورہ۔ پُرعزم پیروی۔",
       "intro": "پہلے قانونی نوٹس سے آخری اپیل تک — میں لاہور ہائی کورٹ اور فیصل آباد کی ضلعی عدالتوں میں افراد، خاندانوں اور کاروباری اداروں کی ایسی تیاری کے ساتھ پیروی کرتا ہوں جو کچھ بھی اتفاق پر نہیں چھوڑتی۔",
       "chip": "نئے مقدمات قبول کیے جا رہے ہیں",
       "stats": [
-        { "num": 4, "suffix": "", "label": "شعبہ جات" },
-        { "num": 2, "suffix": "", "label": "عدالتی سطحیں" },
-        { "num": 24, "suffix": "h", "label": "جواب کا وقت" },
-        { "num": 100, "suffix": "%", "label": "ذاتی نگرانی" }
+        {
+          "num": 4,
+          "suffix": "",
+          "label": "شعبہ جات"
+        },
+        {
+          "num": 2,
+          "suffix": "",
+          "label": "عدالتی سطحیں"
+        },
+        {
+          "num": 24,
+          "suffix": "h",
+          "label": "جواب کا وقت"
+        },
+        {
+          "num": 100,
+          "suffix": "%",
+          "label": "ذاتی نگرانی"
+        }
       ],
       "practiceHeading": "شعبہ جات",
       "practiceSub": "چار شعبے، ایک معیار — ہر مقدمے کی تیاری اس طرح جیسے اسے آخر تک لڑنا ہو۔",
       "whyHeading": "میرا طریقۂ کار",
       "whySub": "نہ شور، نہ جھوٹے وعدے۔ تیاری، دیانت اور مسلسل پیروی پر قائم طریقہ۔",
       "why": [
-        { "h": "پہلے سیدھی بات", "p": "ایک روپیہ خرچ کرنے سے پہلے آپ کو دیانت دارانہ جائزہ ملتا ہے — مضبوطی، خطرات اور حقیقی وقت۔ اگر مقدمہ کمزور ہے تو آپ یہ بات جج سے نہیں، مجھ سے پہلے سنیں گے۔" },
-        { "h": "آخری صفحے تک تیاری", "p": "ہر دعویٰ، درخواست اور ضمانت کی درخواست میں خود تحقیق کر کے تیار کرتا ہوں۔ ایسی کوئی چیز دائر نہیں ہوتی جس کا میں کھلی عدالت میں دفاع نہ کر سکوں۔" },
-        { "h": "آپ کبھی بے خبر نہیں رہتے", "p": "ہر سماعت کے بعد آپ کو معلوم ہوتا ہے کہ کیا ہوا، آگے کیا ہوگا اور آپ سے کیا درکار ہے — سادہ زبان میں، واٹس ایپ یا فون پر۔" }
+        {
+          "h": "پہلے سیدھی بات",
+          "p": "ایک روپیہ خرچ کرنے سے پہلے آپ کو دیانت دارانہ جائزہ ملتا ہے — مضبوطی، خطرات اور حقیقی وقت۔ اگر مقدمہ کمزور ہے تو آپ یہ بات جج سے نہیں، مجھ سے پہلے سنیں گے۔"
+        },
+        {
+          "h": "آخری صفحے تک تیاری",
+          "p": "ہر دعویٰ، درخواست اور ضمانت کی درخواست میں خود تحقیق کر کے تیار کرتا ہوں۔ ایسی کوئی چیز دائر نہیں ہوتی جس کا میں کھلی عدالت میں دفاع نہ کر سکوں۔"
+        },
+        {
+          "h": "آپ کبھی بے خبر نہیں رہتے",
+          "p": "ہر سماعت کے بعد آپ کو معلوم ہوتا ہے کہ کیا ہوا، آگے کیا ہوگا اور آپ سے کیا درکار ہے — سادہ زبان میں، واٹس ایپ یا فون پر۔"
+        }
       ],
       "articlesHeading": "قانون کو ضرورت سے پہلے جانیے",
       "articlesSub": "پاکستانی قانون اور عدالتی طریقۂ کار پر سادہ زبان میں رہنمائی۔",
@@ -86,12 +189,33 @@
       "credentialsHeading": "اسناد",
       "approachHeading": "طریقۂ کار"
     },
-    "practice": { "heading": "شعبہ جات", "mattersHeading": "جن معاملات میں پیروی کرتا ہوں", "otherHeading": "دیگر شعبہ جات", "ctaHeading": "ایسے کسی معاملے کا سامنا ہے؟" },
-    "blog": { "heading": "مضامین", "sub": "پاکستانی قانون اور عدالتی طریقۂ کار کی سادہ زبان میں وضاحت — وکیلوں کے لیے نہیں، مؤکلوں کے لیے۔", "minRead": "منٹ", "disclaimer": "یہ مضمون پاکستانی قانون کے بارے میں عمومی معلومات ہے، قانونی مشورہ نہیں۔ ہر مقدمہ اپنے حقائق پر منحصر ہوتا ہے — اپنی صورتحال کے لیے کسی وکیل سے رجوع کریں۔" },
+    "practice": {
+      "heading": "شعبہ جات",
+      "mattersHeading": "جن معاملات میں پیروی کرتا ہوں",
+      "otherHeading": "دیگر شعبہ جات",
+      "ctaHeading": "ایسے کسی معاملے کا سامنا ہے؟"
+    },
+    "blog": {
+      "heading": "مضامین",
+      "sub": "پاکستانی قانون اور عدالتی طریقۂ کار کی سادہ زبان میں وضاحت — وکیلوں کے لیے نہیں، مؤکلوں کے لیے۔",
+      "minRead": "منٹ",
+      "disclaimer": "یہ مضمون پاکستانی قانون کے بارے میں عمومی معلومات ہے، قانونی مشورہ نہیں۔ ہر مقدمہ اپنے حقائق پر منحصر ہوتا ہے — اپنی صورتحال کے لیے کسی وکیل سے رجوع کریں۔",
+      "faqHeading": "اکثر پوچھے گئے سوالات",
+      "relatedHeading": "متعلقہ مضامین"
+    },
     "contact": {
       "heading": "رابطہ",
       "sub": "اپنے معاملے کی چند سطروں میں تفصیل لکھیں۔ بات چیت سے پہلے خفیہ تفصیلات شامل نہ کریں۔",
-      "form": { "name": "آپ کا نام", "phone": "فون / واٹس ایپ", "email": "ای میل (اختیاری)", "subject": "معاملے کی نوعیت", "message": "مختصر تفصیل", "sent": "شکریہ — آپ کا پیغام موصول ہو گیا ہے۔ ایک کاروباری دن کے اندر جواب دیا جائے گا۔", "error": "کچھ غلط ہو گیا۔ براہِ کرم واٹس ایپ یا فون پر رابطہ کریں۔", "select": "منتخب کریں…" },
+      "form": {
+        "name": "آپ کا نام",
+        "phone": "فون / واٹس ایپ",
+        "email": "ای میل (اختیاری)",
+        "subject": "معاملے کی نوعیت",
+        "message": "مختصر تفصیل",
+        "sent": "شکریہ — آپ کا پیغام موصول ہو گیا ہے۔ ایک کاروباری دن کے اندر جواب دیا جائے گا۔",
+        "error": "کچھ غلط ہو گیا۔ براہِ کرم واٹس ایپ یا فون پر رابطہ کریں۔",
+        "select": "منتخب کریں…"
+      },
       "officeHeading": "چیمبر",
       "hoursHeading": "اوقات",
       "phoneHeading": "فون اور واٹس ایپ"

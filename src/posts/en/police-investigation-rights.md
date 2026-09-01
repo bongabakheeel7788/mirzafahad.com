@@ -5,6 +5,13 @@ description: "What a police call-up notice means in Pakistan, your rights during
 date: 2026-09-01T19:25:00
 category: Criminal
 key: post-investigation-rights
+faq:
+  - q: "Is a confession to police admissible in Pakistan?"
+    a: "No. Under the Qanun-e-Shahadat a confession made to a police officer, or in police custody outside a Magistrate's presence, cannot be proved against the accused. Station-house statements have essentially no evidentiary value against you."
+  - q: "How long can police detain a person without a court order?"
+    a: "A maximum of twenty-four hours, after which the arrested person must be produced before a Magistrate, who decides between physical remand for limited days on justification or judicial custody in jail."
+  - q: "Should I attend when police call me for investigation?"
+    a: "Generally yes, in response to a lawful notice, with your lawyer informed or present. If you fear arrest in a registered case, obtain pre-arrest bail first and then join the investigation from protection."
 ---
 
 A call from the police station — "aap ko IO ne bulaya hai" — triggers a fear that mostly comes from not knowing the rules. Investigation is a legal process with defined powers and defined limits. Knowing both converts panic into procedure.

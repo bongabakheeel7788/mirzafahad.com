@@ -1,10 +1,17 @@
 ---
 title: "Inheritance mutation (intiqal-e-wirasat) of land: the step-by-step revenue process"
 coverTitle: "Inheritance mutation of land"
-description: "How inherited agricultural and urban land is transferred into heirs' names in Punjab — the revenue process, documents, PLRA centres, common obstructions and how to fix wrong mutations."
+description: "Inheritance mutation (intiqal-e-wirasat) in Punjab step by step — documents, PLRA process, omitted heirs, forced relinquishments and how to fix wrong entries."
 date: 2026-09-01T20:45:00
 category: Inheritance
 key: post-inheritance-mutation
+faq:
+  - q: "What documents are needed for an inheritance mutation in Punjab?"
+    a: "The death certificate from the Union Council, the heirs' CNICs, NADRA's family registration record establishing the heirs, and the deceased's ownership record. Heirs verify biometrically at the Arazi Record Centre and the Revenue Officer attests the mutation."
+  - q: "What if an heir was left out of the mutation?"
+    a: "An omitted heir remains an owner in law. Courts treat co-heirs' possession as on behalf of all, and a suit for declaration and correction succeeds with limitation running from knowledge of the omission, not the mutation's date."
+  - q: "Does a mutation itself create ownership?"
+    a: "No. Ownership passes to heirs by law at the moment of death; the mutation only records it. That is why wrong mutations can be corrected, though delay makes the process harder in practice."
 ---
 
 When a landowner dies, his land does not move by itself. Until an **inheritance mutation** (intiqal-e-wirasat) is entered and attested in the revenue record, the record still shows a dead man as owner — and nothing can be lawfully sold, partitioned or mortgaged on that land without trouble. This is the process in Punjab, and the traps within it.

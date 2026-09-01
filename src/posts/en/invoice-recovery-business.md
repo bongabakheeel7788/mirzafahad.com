@@ -5,6 +5,13 @@ description: "From reminders to legal notice, summary suits, 489-F leverage and 
 date: 2026-09-01T18:55:00
 category: Corporate & Business
 key: post-invoice-recovery
+faq:
+  - q: "What is the fastest way to recover a business debt in Pakistan?"
+    a: "A summary suit under Order XXXVII CPC where you hold a dishonoured cheque or written acknowledgment. The debtor needs the court's leave to defend, and clean instruments are decreed comparatively quickly."
+  - q: "What documents make receivables recoverable?"
+    a: "Signed delivery challans, prompt invoices, periodic signed balance confirmations and security cheques. A signed confirmation of balance collapses years of transactions into one admitted figure in court."
+  - q: "Should I file an FIR for unpaid invoices?"
+    a: "Not for ordinary non-payment, which is civil. Criminal leverage exists where cheques bounced under section 489-F or where deception existed from the outset; manufactured FIRs for pure debts backfire."
 ---
 
 Every trading business in Pakistan carries a tail of receivables that has quietly become bad debt — customers who "will pay after Eid", buyers disputing quality after consuming the goods, dealers rolling old balances into new orders. Collection is a discipline with an escalation ladder; businesses that climb it deliberately recover multiples of those that oscillate between pleading and rage.

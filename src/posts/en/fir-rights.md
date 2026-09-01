@@ -5,6 +5,13 @@ description: "What an FIR actually is, what police can and cannot do after regis
 date: 2026-09-01T21:50:00
 category: Criminal
 key: post-fir-rights
+faq:
+  - q: "Does an FIR mean I will be arrested?"
+    a: "No. Arrest is not automatic; for many offences the law requires police to issue a notice to join the investigation instead of arresting first, and for non-bailable offences prompt pre-arrest bail removes the risk entirely."
+  - q: "Am I entitled to a copy of the FIR against me?"
+    a: "Yes, you are entitled to a copy immediately. Everything a lawyer advises, from which court to approach to whether pre-arrest bail is needed, flows from what the FIR actually says."
+  - q: "What should I avoid doing after an FIR is registered?"
+    a: "Do not flee, contact or threaten the complainant, or sign anything at the police station without counsel. Preserve your own evidence such as CCTV and call records at once, since it disappears within days."
 ---
 
 The phone call that an FIR has been registered is one of the most frightening moments in an ordinary person's life. Most of the damage people suffer afterwards comes not from the FIR itself but from panic — fleeing, confronting the complainant, or signing things at the police station. This article explains what an FIR is and what to do, calmly, in the first day.

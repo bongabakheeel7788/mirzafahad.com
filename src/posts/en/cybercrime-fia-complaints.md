@@ -5,6 +5,13 @@ description: "What PECA criminalises — online harassment, blackmail, fake prof
 date: 2026-09-01T19:15:00
 category: Criminal
 key: post-cybercrime
+faq:
+  - q: "Where do I report cybercrime in Pakistan?"
+    a: "To the specialised federal cybercrime machinery through its online complaint portal or regional circles, with Lahore and Faisalabad serving this region. Verified complaints proceed from enquiry to FIR under PECA."
+  - q: "What should I preserve before blocking a harasser?"
+    a: "Screenshots showing the profile URL, handle, date and time, screen recordings, the numbers and accounts used, and transaction IDs in fraud cases. Preserve first, then block, because deleted content weakens the case."
+  - q: "Can money lost to online fraud be recovered?"
+    a: "Sometimes, if the chain freezes early. Call your bank immediately to dispute and freeze the beneficiary account, file the cybercrime complaint the same day, and pursue the State Bank's channels where bank negligence is involved."
 ---
 
 The Prevention of Electronic Crimes Act, 2016 (PECA) is the law most ordinary Pakistanis now encounter before any other — through a hacked account, a blackmail message, a fake profile, or money that vanished through a "bank helpline" call. The complaint process works better than its reputation, but it rewards those who arrive with evidence preserved and the right offence identified.

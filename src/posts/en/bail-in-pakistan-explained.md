@@ -1,9 +1,17 @@
 ---
 title: "Bail in Pakistan explained: pre-arrest, post-arrest and what the court looks at"
+coverTitle: "Bail in Pakistan explained"
 description: "What bail actually means, the difference between pre-arrest and post-arrest bail, bailable and non-bailable offences, and how a bail application is decided in Punjab."
 date: 2026-08-12
 category: Criminal
 key: post-bail
+faq:
+  - q: "What is the difference between bailable and non-bailable offences?"
+    a: "In bailable offences release on surety is a right. In non-bailable offences bail is the court's discretion, though for offences outside the prohibitory clause bail remains the rule and refusal the exception."
+  - q: "What is pre-arrest bail and when is it granted?"
+    a: "Protection obtained before arrest from the Sessions Court or High Court, treated as an extraordinary remedy. The applicant must show the arrest is motivated by mala fide, such as an FIR arising from enmity or a civil dispute."
+  - q: "Can bail be cancelled after it is granted?"
+    a: "Yes, for tampering with evidence, threatening witnesses, absconding, committing a fresh offence, or where the granting order was patently wrong. Compliance with bail conditions is essential to keep it."
 ---
 
 When an FIR is registered, the first practical question for the accused and his family is almost always the same: *will he be arrested, and can we get bail?* This article explains how bail works under the Code of Criminal Procedure, 1898 (Cr.P.C.) as it applies in Punjab, in plain terms.

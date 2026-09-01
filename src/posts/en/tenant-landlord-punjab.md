@@ -5,6 +5,13 @@ description: "The Punjab Rented Premises Act 2009 in plain language — written 
 date: 2026-09-01T21:35:00
 category: Civil & Property
 key: post-tenant-landlord
+faq:
+  - q: "Can a landlord evict a tenant without a written agreement in Punjab?"
+    a: "Yes, but more slowly. The tenancy exists even if unwritten; eviction still requires Rent Tribunal proceedings on statutory grounds such as default or personal need, and the absence of registration makes every term contestable."
+  - q: "What should a tenant do if the landlord refuses rent?"
+    a: "Deposit the rent with the Rent Tribunal the same month instead of accumulating default. A tenant who simply stops paying hands the landlord the strongest eviction ground there is."
+  - q: "How fast are eviction cases in Punjab?"
+    a: "Faster than reputation suggests. The Rent Tribunal can require the tenant to deposit rent as a condition of contesting, and failure leads to summary eviction. Well-prepared cases conclude in months."
 ---
 
 Most tenancy disputes in Punjab begin the same way: there is no written agreement, the rent was being paid in cash, and one side's circumstances changed. The Punjab Rented Premises Act, 2009 governs these relationships, and it rewards the party who followed its forms. Whether you are the landlord of one shop or the tenant of a house, here is what the law actually provides.

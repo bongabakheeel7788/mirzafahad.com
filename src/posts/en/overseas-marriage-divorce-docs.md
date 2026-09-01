@@ -1,10 +1,17 @@
 ---
 title: "Marriage and divorce documentation for overseas Pakistanis: NADRA, embassy and Union Council"
 coverTitle: "Marriage & divorce papers abroad"
-description: "How overseas Pakistanis register marriages and divorces so they hold in both countries — NADRA certificates, attestation chains, talaq/khula from abroad, and spouse-visa documentation."
+description: "Registering marriages and divorces so they hold in Pakistan and abroad — NADRA certificates, attestation chains, talaq from abroad and spouse-visa files."
 date: 2026-09-01T18:30:00
 category: Overseas
 key: post-overseas-family-docs
+faq:
+  - q: "How do I register my foreign marriage in Pakistan?"
+    a: "Register through the Pakistani mission or channel the foreign certificate into NADRA's records, and update your NADRA marital status. Mismatched records are the commonest cause of embassy queries and visa refusals."
+  - q: "Is a foreign divorce valid in Pakistan?"
+    a: "It should be recognised into the Pakistani record through the Union Council and NADRA process with the decree attested. Left unregistered, the spouses remain married in Pakistani records with all its consequences."
+  - q: "What documents does a spouse visa require from Pakistan?"
+    a: "The nikahnama, the NADRA marriage registration certificate with attestation, consistent identity documents, and complete termination papers for any prior marriages on either side."
 ---
 
 For overseas Pakistanis, family status lives in two legal systems at once — and most of the misery in this field comes from an event valid in one system remaining invisible in the other: the marriage the embassy cannot verify, the divorce Pakistan never learned of, the spouse visa stuck on a certificate mismatch. The cure is understanding which paper proves what, where.

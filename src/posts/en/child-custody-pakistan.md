@@ -5,6 +5,13 @@ description: "How Guardian Courts decide custody of minors in Pakistan — the w
 date: 2026-09-01T21:30:00
 category: Family
 key: post-custody
+faq:
+  - q: "At what age does a father get custody in Pakistan?"
+    a: "There is no automatic age. The classical guidelines of seven years for sons and puberty for daughters are treated only as factors; courts decide on the welfare of the minor and frequently continue custody with the mother beyond those ages."
+  - q: "Does a mother lose custody if she remarries?"
+    a: "Not automatically. Remarriage is one factor the Guardian Court weighs against the child's overall welfare and attachment, and there are judgments retaining custody with a remarried mother where that serves the child best."
+  - q: "Can a father refuse maintenance if he is denied custody?"
+    a: "No. The father's duty to maintain his children continues in full regardless of who has custody or how visitation is going, and courts view linking money to custody demands very unfavourably."
 ---
 
 No principle is repeated more often in Pakistani family courtrooms than this one: in custody, the **welfare of the minor** is the paramount consideration. Every other rule — the mother's preferential custody of young children, the father's position as natural guardian — bends to it. Understanding how courts apply that principle is the key to any custody case.

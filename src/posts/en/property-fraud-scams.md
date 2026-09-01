@@ -1,10 +1,17 @@
 ---
 title: "Property fraud in Pakistan: the seven standard scams and how to defeat each one"
 coverTitle: "7 property scams to avoid"
-description: "The most common property frauds in Punjab — fake files, double sales, forged powers of attorney, oral-gift mutations, society plot scams — and the specific checks that defeat them."
+description: "The seven standard property scams in Punjab — fake fards, double sales, forged POAs, society file fraud — and the specific checks that defeat each one."
 date: 2026-09-01T20:15:00
 category: Civil & Property
 key: post-property-fraud
+faq:
+  - q: "How do I avoid buying disputed property in Pakistan?"
+    a: "Verify the fard at source, search the Sub-Registrar's record for prior instruments and mortgages, visit the property and confirm the occupant is the seller, and route all payments through banking channels against a properly drafted agreement."
+  - q: "What should I check before buying a housing society file?"
+    a: "Confirm the society's approvals with the development authority directly, demand the plot's position on the approved map, verify the file's ownership chain and dues with the society, and treat pre-launch discounts as a red flag."
+  - q: "What if I discover fraud after paying?"
+    a: "Move immediately: remedies such as cancellation suits, injunctions against onward transfer and criminal complaints all reward speed. Delay adds bona fide purchasers and construction that make recovery slower and costlier."
 ---
 
 Property fraud in Pakistan is not creative. The same seven schemes repeat in district after district, because they keep working on buyers who skip the same checks. Learn the seven and you are protected against most of what the market can do to you.
