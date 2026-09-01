@@ -19,7 +19,7 @@
   <g transform="translate(112 156) scale(2.7)" fill="none" stroke="url(#gold)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 42h36M8 38h32"/><path d="M10 20v14M17 20v14M24 20v14M31 20v14M38 20v14" opacity=".8"/><path d="M6 20h36L24 7z"/></g>
   <!-- category chip -->
   <text x="340" y="172" font-family="Verdana, Arial, sans-serif" font-size="24" letter-spacing="7" fill="#e8c96a">LOCAL</text>
-  <text x="340" y="250" font-size="68" font-weight="600" fill="#f2f2f4">First time in court</text>
+  <text x="340" y="250" font-size="64" font-weight="600" fill="#f2f2f4">First time in court</text>
   <path d="M76 500h140" stroke="url(#gold)" stroke-width="3"/>
   <text x="76" y="576" font-family="Verdana, Arial, sans-serif" font-size="22" letter-spacing="3" fill="#8a8a95">MIRZAFAHAD.COM · MIRZA FAHAD, ADVOCATE HIGH COURT</text>
 </svg>

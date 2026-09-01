@@ -19,7 +19,7 @@
   <g transform="translate(112 156) scale(2.7)" fill="none" stroke="url(#gold)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="24" cy="24" r="18"/><path d="M6 24h36M24 6c5 5.5 7.5 11.5 7.5 18S29 37.5 24 42c-5-4.5-7.5-11.5-7.5-18S19 11.5 24 6z"/></g>
   <!-- category chip -->
   <text x="340" y="172" font-family="Verdana, Arial, sans-serif" font-size="24" letter-spacing="7" fill="#e8c96a">OVERSEAS</text>
-  <text x="340" y="250" font-size="68" font-weight="600" fill="#f2f2f4">Inheritance from abroad</text>
+  <text x="340" y="250" font-size="64" font-weight="600" fill="#f2f2f4">Inheritance from</text><text x="340" y="330" font-size="64" font-weight="600" fill="#f2f2f4">abroad</text>
   <path d="M76 500h140" stroke="url(#gold)" stroke-width="3"/>
   <text x="76" y="576" font-family="Verdana, Arial, sans-serif" font-size="22" letter-spacing="3" fill="#8a8a95">MIRZAFAHAD.COM · MIRZA FAHAD, ADVOCATE HIGH COURT</text>
 </svg>

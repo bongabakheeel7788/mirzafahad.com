@@ -19,7 +19,7 @@
   <g transform="translate(112 156) scale(2.7)" fill="none" stroke="url(#gold)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M24 6v10M24 16l-12 5v3h24v-3z"/><path d="M9 24v12M39 24v12M17 24v12M31 24v12" opacity=".7"/><path d="M6 40h36"/><path d="M6 44h36" opacity=".4"/></g>
   <!-- category chip -->
   <text x="340" y="172" font-family="Verdana, Arial, sans-serif" font-size="24" letter-spacing="7" fill="#e8c96a">INHERITANCE</text>
-  <text x="340" y="250" font-size="68" font-weight="600" fill="#f2f2f4">Women&#x27;s inheritance rights</text>
+  <text x="340" y="250" font-size="64" font-weight="600" fill="#f2f2f4">Women&#x27;s inheritance</text><text x="340" y="330" font-size="64" font-weight="600" fill="#f2f2f4">rights</text>
   <path d="M76 500h140" stroke="url(#gold)" stroke-width="3"/>
   <text x="76" y="576" font-family="Verdana, Arial, sans-serif" font-size="22" letter-spacing="3" fill="#8a8a95">MIRZAFAHAD.COM · MIRZA FAHAD, ADVOCATE HIGH COURT</text>
 </svg>

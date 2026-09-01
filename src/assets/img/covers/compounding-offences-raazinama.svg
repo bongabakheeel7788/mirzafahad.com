@@ -19,7 +19,7 @@
   <g transform="translate(112 156) scale(2.7)" fill="none" stroke="url(#gold)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M24 5l15 5v11c0 9-6.3 15.4-15 18-8.7-2.6-15-9-15-18V10z"/><path d="M17 23.5l5 5 9-9"/></g>
   <!-- category chip -->
   <text x="340" y="172" font-family="Verdana, Arial, sans-serif" font-size="24" letter-spacing="7" fill="#e8c96a">CRIMINAL</text>
-  <text x="340" y="250" font-size="68" font-weight="600" fill="#f2f2f4">Raazinama &amp; compounding</text>
+  <text x="340" y="250" font-size="64" font-weight="600" fill="#f2f2f4">Raazinama &amp;</text><text x="340" y="330" font-size="64" font-weight="600" fill="#f2f2f4">compounding</text>
   <path d="M76 500h140" stroke="url(#gold)" stroke-width="3"/>
   <text x="76" y="576" font-family="Verdana, Arial, sans-serif" font-size="22" letter-spacing="3" fill="#8a8a95">MIRZAFAHAD.COM · MIRZA FAHAD, ADVOCATE HIGH COURT</text>
 </svg>

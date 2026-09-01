@@ -29,7 +29,7 @@ def icon_for(cat):
             return v
     return DEFAULT_ICON
 
-def wrap(text, limit=26, max_lines=3):
+def wrap(text, limit=21, max_lines=3):
     words, lines, cur = text.split(), [], ""
     for w in words:
         if len(cur) + len(w) + 1 <= limit or not cur:
@@ -71,7 +71,7 @@ TPL = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" font-fam
 
 def make(slug, title, cat):
     lines = wrap(title)
-    size = 58 if len(lines) >= 3 else 68
+    size = 56 if len(lines) >= 3 else 64
     y0 = 250
     tl = "".join(
         f'<text x="340" y="{y0 + i * (size + 16)}" font-size="{size}" font-weight="600" fill="#f2f2f4">{html.escape(l)}</text>'
