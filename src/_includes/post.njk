@@ -13,7 +13,7 @@ layout: base.njk
 <section class="article-body section">
   <div class="container two-col">
     <article class="prose">
-      <img class="post-cover" src="/assets/img/covers/{{ page.fileSlug }}.svg" alt="" loading="lazy" onerror="this.remove()">
+      <img class="post-cover" src="/assets/img/covers/{{ page.fileSlug }}.svg?v={{ build.v }}" alt="" loading="lazy" onerror="this.remove()">
       {{ content | safe }}
       <div class="article-disclaimer">{{ s.blog.disclaimer }}</div>
       <div class="author-box">
