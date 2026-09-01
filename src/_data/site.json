@@ -6,10 +6,10 @@
   "titleUr": "ایڈووکیٹ ہائی کورٹ",
   "tagline": "Clear advice. Careful representation.",
   "taglineUr": "واضح مشورہ، محتاط پیروی",
-  "phone": "+92 300 0000000",
-  "phoneRaw": "+923000000000",
-  "whatsapp": "923000000000",
-  "email": "contact@mirzafahad.com",
+  "phone": "0303 876 0303",
+  "phoneRaw": "+923038760303",
+  "whatsapp": "923038760303",
+  "email": "advmirzafahad@gmail.com",
   "address": {
     "line1": "Chamber No. __, District Bar Association",
     "line2": "Tandlianwala, Faisalabad",
@@ -27,14 +27,16 @@
     "highCourtUr": "ایڈووکیٹ ہائی کورٹ، پنجاب بار کونسل (سال ____)",
     "lowerCourt": "Enrolled as Advocate, District Courts (Year ____)",
     "lowerCourtUr": "ایڈووکیٹ ضلعی عدالتیں (سال ____)",
-    "education": "LL.B., University of ____ (Year ____)",
-    "educationUr": "ایل ایل بی، یونیورسٹی آف ____ (سال ____)",
-    "since": "____"
+    "education": "LL.B. (2018 – 2023)",
+    "educationUr": "ایل ایل بی (2018 – 2023)",
+    "education2": "LL.M. (2024 – 2026)",
+    "education2Ur": "ایل ایل ایم (2024 – 2026)",
+    "since": "2023"
   },
   "photo": "/assets/img/mirza-fahad.jpg",
   "social": {
-    "facebook": "",
-    "linkedin": "",
-    "instagram": ""
+    "facebook": "https://facebook.com/advmirzafahad",
+    "linkedin": "https://linkedin.com/in/advmirzafahad",
+    "instagram": "https://instagram.com/advmirzafahad"
   }
 }
