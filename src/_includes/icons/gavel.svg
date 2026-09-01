@@ -1,0 +1,10 @@
+<svg viewBox="0 0 48 48" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+  <!-- mallet head (diagonal) -->
+  <rect x="14.5" y="4.5" width="12" height="21" rx="2.6" transform="rotate(45 20.5 15)"/>
+  <!-- handle -->
+  <path d="M24 19 39 34"/>
+  <path d="M37 32l4.5 4.5a2.8 2.8 0 0 1-4 4L33 36"/>
+  <!-- sound block -->
+  <path d="M6 42h20"/>
+  <path d="M9 38h14" opacity=".55"/>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" font-family="Georgia, 'Times New Roman', serif">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6e2a8"/><stop offset=".55" stop-color="#e8c96a"/><stop offset="1" stop-color="#c9a227"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="88%" cy="8%" r="70%">
+      <stop offset="0" stop-color="#c9a227" stop-opacity=".22"/><stop offset="1" stop-color="#c9a227" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M60 0H0v60" fill="none" stroke="#ffffff" stroke-opacity=".045" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="#0a0a0d"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <rect x="14" y="14" width="1172" height="602" rx="18" fill="none" stroke="#c9a227" stroke-opacity=".3" stroke-width="2"/>
+  <!-- icon plate -->
+  <rect x="76" y="120" width="200" height="200" rx="28" fill="#c9a227" fill-opacity=".07" stroke="#c9a227" stroke-opacity=".35" stroke-width="2"/>
+  <g transform="translate(112 156) scale(2.7)" fill="none" stroke="url(#gold)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 22 24 8l16 14v16a2 2 0 0 1-2 2H10a2 2 0 0 1-2-2z"/><path d="M24 40v-8a4 4 0 0 1 8 0v8" opacity=".6"/><path d="M17 26c0-2 1.6-3.5 3.5-3.5S24 24 24 26c0-2 1.6-3.5 3.5-3.5S31 24 31 26c0 3.5-7 7.5-7 7.5s-7-4-7-7.5z" transform="translate(0,-9) scale(.62) translate(14,10)"/></g>
+  <!-- category chip -->
+  <text x="340" y="172" font-family="Verdana, Arial, sans-serif" font-size="24" letter-spacing="7" fill="#e8c96a">FAMILY</text>
+  <text x="340" y="250" font-size="68" font-weight="600" fill="#f2f2f4">Nikahnama columns</text><text x="340" y="334" font-size="68" font-weight="600" fill="#f2f2f4">explained</text>
+  <path d="M76 500h140" stroke="url(#gold)" stroke-width="3"/>
+  <text x="76" y="576" font-family="Verdana, Arial, sans-serif" font-size="22" letter-spacing="3" fill="#8a8a95">MIRZAFAHAD.COM · MIRZA FAHAD, ADVOCATE HIGH COURT</text>
+</svg>
