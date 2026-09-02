@@ -23,15 +23,15 @@
   "hours": "Mon – Sat, 9:00 am – 6:00 pm",
   "hoursUr": "پیر تا ہفتہ، صبح 9 بجے تا شام 6 بجے",
   "enrolment": {
-    "highCourt": "Enrolled as Advocate High Court, Punjab Bar Council (Year ____)",
-    "highCourtUr": "ایڈووکیٹ ہائی کورٹ، پنجاب بار کونسل (سال ____)",
-    "lowerCourt": "Enrolled as Advocate, District Courts (Year ____)",
-    "lowerCourtUr": "ایڈووکیٹ ضلعی عدالتیں (سال ____)",
-    "education": "LL.B. (2018 – 2023)",
-    "educationUr": "ایل ایل بی (2018 – 2023)",
-    "education2": "LL.M. (2024 – 2026)",
-    "education2Ur": "ایل ایل ایم (2024 – 2026)",
-    "since": "2023"
+    "highCourt": "Enrolled as Advocate High Court, Punjab Bar Council (2026)",
+    "highCourtUr": "ایڈووکیٹ ہائی کورٹ، پنجاب بار کونسل (2026)",
+    "lowerCourt": "Enrolled as Advocate, District Courts (2024)",
+    "lowerCourtUr": "ایڈووکیٹ ضلعی عدالتیں (2024)",
+    "education": "LL.B., Government College University Faisalabad (2018 – 2023)",
+    "educationUr": "ایل ایل بی، گورنمنٹ کالج یونیورسٹی فیصل آباد (2018 – 2023)",
+    "education2": "LL.M., Government College University Faisalabad (2024 – 2026)",
+    "education2Ur": "ایل ایل ایم، گورنمنٹ کالج یونیورسٹی فیصل آباد (2024 – 2026)",
+    "since": "2024"
   },
   "photo": "/assets/img/mirza-fahad.jpg?v=2",
   "social": {
