@@ -353,7 +353,7 @@ a.card:hover { transform: translateY(-6px); border-color: var(--line-gold); box-
 .prose hr { border: 0; border-top: 1px solid var(--line); margin: 2.6rem 0; }
 
 .two-col { display: grid; grid-template-columns: 1fr 340px; gap: 4rem; align-items: start; }
-@media (max-width: 940px) { .two-col { grid-template-columns: 1fr; gap: 2.6rem; } }
+@media (max-width: 940px) { .two-col { grid-template-columns: 1fr; gap: 2.6rem; } .side { position: static; } }
 .side { position: sticky; top: calc(var(--header-h) + 1.4rem); }
 .side-box { background: var(--glass); backdrop-filter: blur(10px); border: 1px solid var(--line); border-radius: var(--r); padding: 1.6rem; margin-bottom: 1.3rem; }
 .side-box ul { list-style: none; padding: 0; margin: 0; }
@@ -383,7 +383,7 @@ a.card:hover { transform: translateY(-6px); border-color: var(--line-gold); box-
 
 /* ── About ────────────────────────────────────────────────────── */
 .about-grid { display: grid; grid-template-columns: 330px 1fr; gap: 4rem; align-items: start; }
-@media (max-width: 900px) { .about-grid { grid-template-columns: 1fr; } .about-grid .about-photo { max-width: 280px; } }
+@media (max-width: 900px) { .about-grid { grid-template-columns: 1fr; } .about-grid .about-photo { position: static; max-width: 280px; margin-inline: auto; } }
 .about-photo { position: sticky; top: calc(var(--header-h) + 1.4rem); }
 .about-photo img, .about-photo .placeholder { border-radius: 18px; aspect-ratio: 4 / 5; object-fit: cover; width: 100%; border: 1px solid var(--line-gold); box-shadow: 0 30px 70px rgba(0, 0, 0, 0.55); }
 .about-photo .placeholder { display: grid; place-items: center; background: linear-gradient(165deg, var(--surface-2), var(--void)); color: rgba(232, 201, 106, 0.16); font-family: var(--serif); font-size: 4.5rem; }
