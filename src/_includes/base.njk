@@ -22,9 +22,14 @@
   <meta property="og:title" content="{{ pageTitle }}">
   <meta property="og:description" content="{{ desc }}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-  <meta property="og:image" content="{{ site.url }}{{ ("/assets/img/covers/" + page.fileSlug + ".svg?v=" + build.v) if isPost else "/assets/img/og-cover.png" }}">
+  {%- set ogImg = site.url + (("/assets/img/og/" + page.fileSlug + ".png") if isPost else "/assets/img/og-cover.png") + "?v=" + build.v %}
+  <meta property="og:image" content="{{ ogImg }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:type" content="image/png">
   <meta property="og:locale" content="{{ 'en_PK' if lang == 'en' else 'ur_PK' }}">
   <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="{{ ogImg }}">
   <meta name="theme-color" content="#060607">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
