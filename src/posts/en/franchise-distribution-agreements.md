@@ -43,3 +43,5 @@ Foreign-brand contracts routinely impose foreign law and arbitration abroad — 
 ## The negotiating posture
 
 Franchise contracts are more negotiable than their "standard form" presentation suggests — before signing, never after. A day of counsel's markup on fees, territory, supply remedies and exit terms is the cheapest insurance on what is usually a family's largest single investment. The brand sells you its success story; the contract decides whether you ever get to keep your own.
+
+**Related reading:** [Employment contracts guide](/blog/employment-contracts-small-business/) · [Recovering unpaid invoices](/blog/invoice-recovery-business/) · [Pre-emption (shufa) law](/blog/preemption-shufa/)

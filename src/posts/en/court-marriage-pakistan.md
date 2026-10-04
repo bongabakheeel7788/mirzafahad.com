@@ -41,3 +41,5 @@ The original nikahnama, the Union Council registration certificate, the NADRA ma
 ## A word to families
 
 The law's position does not change with anger. FIRs filed to undo an adult daughter's marriage fail, but not before causing arrests, bail applications and permanent estrangement. Families who fear an unsuitable match achieve more through engagement than through the police station — the legal system, in these cases, is firmly on the couple's side.
+
+**Related reading:** [Recovering your haq mehr](/blog/haq-mehr-types-recovery/) · [Khula in Punjab: step-by-step](/blog/khula-procedure-punjab/) · [Recovering dowry articles](/blog/dowry-articles-recovery/)

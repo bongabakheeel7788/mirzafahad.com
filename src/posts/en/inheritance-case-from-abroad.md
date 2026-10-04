@@ -41,3 +41,5 @@ Sale proceeds and estate distributions move through normal banking channels; kee
 ## The single principle
 
 Every step that requires your signature is a step where you hold power — spend that power deliberately, with your own advice, in writing. The overseas heir who signs slowly and documents quickly finishes with the share the law always intended.
+
+**Related reading:** [Marriage & divorce papers abroad](/blog/overseas-marriage-divorce-docs/) · [Protecting property from abroad](/blog/overseas-property-protection/) · [Grandchildren's inheritance](/blog/grandchildren-inheritance-section4/)

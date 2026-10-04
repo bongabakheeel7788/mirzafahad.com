@@ -39,3 +39,5 @@ Embassies triangulate: the nikahnama and NADRA MRC, both spouses' identity docum
 ## Practical rules
 
 Register every event — marriage, divorce, birth — in **both** systems within months, not years; keep originals plus attested sets; align names and dates across CNIC/NICOP, passports and certificates (correct discrepancies through NADRA once, formally); and before remarrying anywhere, confirm the prior marriage's termination is complete in **Pakistani** records specifically. Families who maintain this discipline pass through embassies and inheritances unremarked; the alternative is explaining, years later and under suspicion, a paper trail that was always innocent — just incomplete.
+
+**Related reading:** [Protecting property from abroad](/blog/overseas-property-protection/) · [Power of attorney from abroad](/blog/poa-from-abroad/) · [Verbal agreements and the law](/blog/oral-agreements-enforceability/)

@@ -39,3 +39,5 @@ Oral extensions of the completion date (get every extension in writing, signed);
 ## Practical rule
 
 Spend one day and one modest drafting fee on the agreement, pay every rupee through the bank, and diarise the completion date with your lawyer a week in advance. The parties who do this either complete smoothly or litigate from strength; the parties who sign the property dealer's template in the office generally fund the district bar for years.
+
+**Related reading:** [Right of way disputes](/blog/easement-right-of-way/) · [Understanding the fard malkiat](/blog/fard-malkiat-explained/) · [406 and 420 PPC explained](/blog/criminal-breach-of-trust-406-420/)

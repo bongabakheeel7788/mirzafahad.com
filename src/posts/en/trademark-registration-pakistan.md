@@ -38,3 +38,5 @@ Even unregistered, a built reputation has the common-law **passing-off** action 
 ## The practical program for a small business
 
 Register the word mark in your core class the year you start trading — before success makes your name worth stealing; add the logo and adjacent classes as you grow. Use the ® only after registration (misuse is an offence) and ™ meanwhile. Diarise renewals. Watch the Journal, and act on copycats early with a counsel's **cease-and-desist** letter — most local imitators fold on receiving one, because they built nothing they are willing to defend. The brand is often the only asset a competitor cannot replicate honestly; papering it is the cheapest strategic spend in the business.
+
+**Related reading:** [Recovering unpaid invoices](/blog/invoice-recovery-business/) · [NTN & sales tax basics](/blog/ntn-sales-tax-registration/) · [Loan default: the reality](/blog/loan-default-consequences/)

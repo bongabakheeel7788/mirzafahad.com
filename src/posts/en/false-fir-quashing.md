@@ -43,3 +43,5 @@ Where quashing is declined, section **249-A/265-K** Cr.P.C. permit acquittal at 
 Acquittal is not the end; it is standing. The falsely accused can pursue **section 182 Cr.P.C.** (false information), prosecution for perjury/fabrication on the court's complaint, and civil **damages for malicious prosecution** — remedies used less often than they should be, which is precisely why the false FIR remains cheap. Every fabricator made to answer raises its price.
 
 Throughout: never abscond (it converts a false case into a real fugitive problem), never negotiate from custody, and preserve every scrap of the objective record early — the phone data and footage that prove falsity have short lives, and the case may run longer than they do.
+
+**Related reading:** [Statements under 161 and 164 CrPC](/blog/police-statements-161-164/) · [Probation and parole explained](/blog/probation-and-parole-pakistan/) · [Recovering a friendly loan](/blog/friendly-loan-recovery/)

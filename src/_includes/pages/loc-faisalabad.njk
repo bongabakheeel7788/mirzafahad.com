@@ -1,0 +1,66 @@
+{%- set s = t[lang] -%}
+{%- set p = "" if lang == "en" else "/ur" -%}
+<section class="page-head">
+  <div class="container">
+    {% if lang == "en" %}
+    <div class="crumbs"><a href="/">{{ s.nav.home }}</a><span>/</span>Lawyer in Faisalabad</div>
+    <h1>Lawyer in Faisalabad</h1>
+    <p>Mirza Fahad, Advocate High Court · District Courts, Faisalabad &amp; Lahore High Court</p>
+    {% else %}
+    <div class="crumbs"><a href="/ur/">{{ s.nav.home }}</a><span>/</span>فیصل آباد میں وکیل</div>
+    <h1>فیصل آباد میں وکیل</h1>
+    <p>مرزا فہد، ایڈووکیٹ ہائی کورٹ · ضلعی عدالتیں فیصل آباد اور لاہور ہائی کورٹ</p>
+    {% endif %}
+  </div>
+</section>
+
+<section class="section">
+  <div class="container prose">
+    {% if lang == "en" %}
+    <p>Looking for a <strong>lawyer in Faisalabad</strong> for a civil, criminal, family or business matter? I practise before the District Courts of Faisalabad — from the family and civil courts to the sessions court — and before the Lahore High Court as an Advocate High Court. My chamber base in <a href="{{ p }}/advocate-in-tandlianwala/">Tandlianwala</a> covers the tehsil courts, and I appear in Faisalabad throughout the week for district-level cases and appeals.</p>
+    <p>Faisalabad's courts handle some of the heaviest case lists in Punjab, and the difference between a case that moves and one that drifts is preparation: a plaint that survives objections, a bail petition filed the day the FIR is known, an appeal that attacks the actual weakness in the judgment. That standard of preparation — explained in my <a href="/blog/court-in-faisalabad-guide/">guide to the Faisalabad courts</a> — is what I bring to every file.</p>
+
+    <h2>What I handle in Faisalabad</h2>
+    <ul class="checklist">
+      <li><strong>Civil &amp; property litigation</strong> — ownership and <a href="/blog/partition-joint-property/">partition suits</a>, <a href="/blog/stay-orders-explained/">injunctions</a>, <a href="/blog/property-fraud-scams/">property fraud</a> and <a href="{{ p }}/practice/civil-property/">appeals</a>.</li>
+      <li><strong>Criminal defence</strong> — <a href="/blog/bail-in-pakistan-explained/">bail before the sessions court</a>, <a href="/blog/false-fir-quashing/">false FIRs</a>, <a href="/blog/criminal-trial-stages-pakistan/">trials</a> and <a href="/blog/appeal-against-conviction/">criminal appeals</a>.</li>
+      <li><strong>Family cases</strong> — <a href="/blog/khula-procedure-punjab/">khula</a>, <a href="/blog/talaq-procedure/">talaq procedure</a>, <a href="/blog/guardianship-certificate/">guardianship</a> and <a href="{{ p }}/practice/family/">maintenance</a>.</li>
+      <li><strong>Business &amp; corporate</strong> — <a href="/blog/register-private-limited-company-pakistan/">company registration</a>, <a href="/blog/invoice-recovery-business/">recovery suits</a> and <a href="{{ p }}/practice/corporate-business/">contracts</a> for Faisalabad's traders and manufacturers.</li>
+    </ul>
+
+    <h2>For overseas Pakistanis from Faisalabad</h2>
+    <p>A large share of my clients live abroad while their case — usually <a href="/blog/inheritance-case-from-abroad/">inheritance</a> or <a href="/blog/overseas-property-protection/">property protection</a> — runs in Faisalabad. Through a <a href="/blog/poa-from-abroad/">power of attorney</a>, most matters proceed without your travel, with updates after every hearing.</p>
+    {% else %}
+    <p>دیوانی، فوجداری، خاندانی یا کاروباری معاملے کے لیے <strong>فیصل آباد میں وکیل</strong> کی تلاش ہے؟ میں ضلعی عدالتیں فیصل آباد — فیملی اور دیوانی عدالتوں سے سیشن کورٹ تک — اور بطور ایڈووکیٹ ہائی کورٹ لاہور ہائی کورٹ میں پریکٹس کرتا ہوں۔ میرا چیمبر <a href="{{ p }}/advocate-in-tandlianwala/">ٹانڈلیانوالہ</a> میں ہے اور ضلعی سطح کے مقدمات اور اپیلوں کے لیے ہفتہ بھر فیصل آباد میں پیش ہوتا ہوں۔</p>
+    <p>فیصل آباد کی عدالتوں میں پنجاب کی مصروف ترین کاز لسٹیں ہیں، اور چلتے مقدمے اور رُکے مقدمے کا فرق تیاری ہے: ایسا دعویٰ جو اعتراضات سے بچے، ضمانت کی درخواست جو ایف آئی آر کے علم والے دن دائر ہو، ایسی اپیل جو فیصلے کی اصل کمزوری پر وار کرے۔</p>
+
+    <h2>فیصل آباد میں کیا سنبھالتا ہوں</h2>
+    <ul class="checklist">
+      <li><strong>دیوانی و جائیداد</strong> — ملکیت و تقسیم کے دعوے، حکمِ امتناعی، جائیداد کا فراڈ اور <a href="{{ p }}/practice/civil-property/">اپیلیں</a>۔</li>
+      <li><strong>فوجداری دفاع</strong> — <a href="/ur/blog/bail-in-pakistan-explained/">ضمانت</a>، جھوٹی ایف آئی آر، <a href="/ur/blog/criminal-trial-stages-pakistan/">ٹرائل</a> اور اپیلیں۔</li>
+      <li><strong>خاندانی مقدمات</strong> — <a href="/ur/blog/khula-procedure-punjab/">خلع</a>، طلاق کا طریقۂ کار، سرپرستی اور <a href="{{ p }}/practice/family/">نان نفقہ</a>۔</li>
+      <li><strong>کاروبار</strong> — کمپنی رجسٹریشن، وصولی کے دعوے اور <a href="{{ p }}/practice/corporate-business/">معاہدے</a>۔</li>
+    </ul>
+
+    <h2>بیرونِ ملک مقیم فیصل آبادیوں کے لیے</h2>
+    <p>میرے مؤکلوں کا بڑا حصہ بیرونِ ملک رہتا ہے جبکہ ان کا مقدمہ — عموماً وراثت یا جائیداد کا تحفظ — فیصل آباد میں چلتا ہے۔ مختار نامے کے ذریعے بیشتر معاملات آپ کے سفر کے بغیر آگے بڑھتے ہیں، ہر سماعت کے بعد اطلاع کے ساتھ۔</p>
+    {% endif %}
+
+    {% if faq %}
+    <section class="faq-block">
+      <h2>{{ s.blog.faqHeading }}</h2>
+      {% for f in faq %}
+      <details class="faq-item" {{ "open" if loop.first }}>
+        <summary>{{ f.q }}</summary>
+        <p>{{ f.a }}</p>
+      </details>
+      {% endfor %}
+    </section>
+    {% endif %}
+
+    <p style="margin-top:2rem">
+      <a class="btn btn-gold" href="{{ p }}/contact/">{{ s.cta.consult }}</a>
+      <a class="btn" href="https://wa.me/{{ site.whatsapp }}" target="_blank" rel="noopener">{{ s.cta.whatsapp }}</a>
+    </p>
+  </div>
+</section>

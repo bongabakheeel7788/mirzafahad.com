@@ -20,6 +20,14 @@ ICONS = {
     "Corporate & Business": '<rect x="6" y="14" width="36" height="26" rx="3"/><path d="M18 14v-4a3 3 0 0 1 3-3h6a3 3 0 0 1 3 3v4M6 24h36"/><path d="M21 24v4h6v-4" opacity=".7"/>',
     "Overseas": '<circle cx="24" cy="24" r="18"/><path d="M6 24h36M24 6c5 5.5 7.5 11.5 7.5 18S29 37.5 24 42c-5-4.5-7.5-11.5-7.5-18S19 11.5 24 6z"/>',
     "Local": '<path d="M6 42h36M8 38h32"/><path d="M10 20v14M17 20v14M24 20v14M31 20v14M38 20v14" opacity=".8"/><path d="M6 20h36L24 7z"/>',
+    "Defamation": '<path d="M6 10h28a3 3 0 0 1 3 3v14a3 3 0 0 1-3 3H20l-8 7v-7H9a3 3 0 0 1-3-3V13a3 3 0 0 1 3-3z"/><path d="M14 18h14M14 23h9" opacity=".7"/><path d="M40 14l3 3-9 9-4 1 1-4z"/>',
+    "Consumer": '<path d="M8 12h4l4 20h18l4-15H14"/><circle cx="19" cy="38" r="2.6"/><circle cx="33" cy="38" r="2.6"/><path d="M23 19l3 3 6-6" opacity=".8"/>',
+    "Accidents": '<path d="M8 30l3-9a4 4 0 0 1 4-3h14a4 4 0 0 1 4 3l3 9"/><path d="M6 30h36v7a2 2 0 0 1-2 2h-3a2 2 0 0 1-2-2v-2H13v2a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2z"/><path d="M13 34h4M31 34h4" opacity=".8"/>',
+    "Banking": '<path d="M6 40h36M9 36h30"/><path d="M11 20v12M19 20v12M29 20v12M37 20v12" opacity=".8"/><path d="M6 17L24 7l18 10v3H6z"/><circle cx="24" cy="13.5" r="2" opacity=".8"/>',
+    "Women": '<circle cx="24" cy="15" r="8"/><path d="M24 23v14M17 31h14"/>',
+    "Procedure": '<path d="M12 6h17l7 7v29H12z"/><path d="M29 6v7h7" opacity=".8"/><path d="M17 20h14M17 26h14M17 32h9" opacity=".7"/>',
+    "Tax": '<rect x="10" y="6" width="28" height="36" rx="3"/><path d="M16 14h16M16 20h16" opacity=".7"/><path d="M17 28l14 10M31 28L17 38" opacity=".9"/><circle cx="18.5" cy="29.5" r="2.5"/><circle cx="29.5" cy="36.5" r="2.5"/>',
+    "Employment": '<rect x="6" y="16" width="36" height="24" rx="3"/><path d="M18 16v-4a3 3 0 0 1 3-3h6a3 3 0 0 1 3 3v4"/><circle cx="24" cy="27" r="4" opacity=".8"/><path d="M16 38c1.5-4 4.5-6 8-6s6.5 2 8 6" opacity=".8"/>',
 }
 DEFAULT_ICON = '<rect x="16" y="6" width="12" height="20" rx="2.4" transform="rotate(45 22 16)"/><path d="M26 20 40 34"/><path d="M8 42h20"/>'
 

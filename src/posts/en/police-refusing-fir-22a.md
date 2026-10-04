@@ -39,3 +39,5 @@ Time-sensitive evidence (medical examination in violence cases, CCTV) argues for
 Do not inflate the story to make the offence "more cognizable" — exaggeration discovered later guts the genuine core, and your first written version is the standard you will be judged against. Do not pay for registration; it marks the file and you. Do not broadcast the dispute on social media mid-process — it feeds defamation counter-suits and antagonises the very forums you are petitioning.
 
 The refusal of an FIR feels like the system's door closing. In law it is one door of four — and the complainant who climbs the ladder with clean paper usually finds one open within the month.
+
+**Related reading:** [Theft vs robbery vs dacoity](/blog/theft-robbery-dacoity-difference/) · [Appealing a criminal conviction](/blog/appeal-against-conviction/) · [Bail in Pakistan explained](/blog/bail-in-pakistan-explained/)

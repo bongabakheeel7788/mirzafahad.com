@@ -33,6 +33,8 @@
         <li><a href="{{ p }}/about/">{{ s.nav.about }}</a></li>
         <li><a href="{{ p }}/blog/">{{ s.nav.blog }}</a></li>
         <li><a href="{{ p }}/contact/">{{ s.nav.contact }}</a></li>
+        <li><a href="{{ p }}/advocate-in-tandlianwala/">{{ "Advocate in Tandlianwala" if lang == "en" else "ٹانڈلیانوالہ میں وکیل" }}</a></li>
+        <li><a href="{{ p }}/lawyer-in-faisalabad/">{{ "Lawyer in Faisalabad" if lang == "en" else "فیصل آباد میں وکیل" }}</a></li>
         <li><a href="{{ collections.all | altUrl(key, lang) }}">{{ s.switchLabel }}</a></li>
       </ul>
     </div>

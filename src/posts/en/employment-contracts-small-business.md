@@ -43,3 +43,5 @@ Confidentiality and non-solicitation clauses (customers, staff, recipes, supplie
 ## The one-page compliance program
 
 Issue appointment letters to everyone, current staff included — backdating honesty into the file beats no file. Pay through bank; keep registers. Map your establishment's coverage (minimum wage, hours, EOBI, PESSI) once with counsel. Discipline by paper: warn, charge-sheet, inquire. Settle leavers formally. An SME that does these five things has removed perhaps ninety percent of its employment-law exposure — for roughly one day of effort per year.
+
+**Related reading:** [NTN & sales tax basics](/blog/ntn-sales-tax-registration/) · [Partnership deed essentials](/blog/partnership-deed-essentials/) · [First time in court: a guide](/blog/court-in-faisalabad-guide/)

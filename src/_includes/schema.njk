@@ -1,4 +1,4 @@
-{%- if key == "home" or key == "contact" -%}
+{%- if key == "home" or key == "contact" or key == "loc-tandlianwala" or key == "loc-faisalabad" -%}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -15,7 +15,13 @@
     "addressRegion": "{{ site.address.region }}",
     "addressCountry": "PK"
   },
-  "areaServed": ["Tandlianwala", "Faisalabad", "Punjab", "Lahore High Court"],
+  "areaServed": [
+    { "@type": "City", "name": "Tandlianwala" },
+    { "@type": "City", "name": "Faisalabad" },
+    { "@type": "State", "name": "Punjab" }
+  ],
+  "geo": { "@type": "GeoCoordinates", "latitude": 31.0336, "longitude": 73.1328 },
+  "hasMap": "https://www.google.com/maps/search/?api=1&query=31.0336,73.1328",
   "openingHours": "Mo-Sa 09:00-18:00",
   "priceRange": "$$",
   "sameAs": ["{{ site.social.facebook }}", "{{ site.social.instagram }}", "{{ site.social.linkedin }}"],
@@ -52,6 +58,7 @@
   ]
 }
 </script>
+{%- endif -%}
 {%- if faq -%}
 <script type="application/ld+json">
 {
@@ -64,5 +71,4 @@
   ]
 }
 </script>
-{%- endif -%}
 {%- endif -%}

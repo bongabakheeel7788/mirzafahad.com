@@ -58,3 +58,5 @@ Registration is now done online through SECP's eServices portal, and in ordinary
 Company registration does **not** protect the brand. A company name and a trademark are different rights. A business that trades under a name or logo should apply to register it with the Intellectual Property Organisation of Pakistan (IPO), a separate process with its own timeline.
 
 If you are deciding whether to incorporate, the most useful information to bring to a consultation is a brief description of the business, who the owners are, and what you expect to happen in the next two or three years. The right structure follows from that.
+
+**Related reading:** [Recovering unpaid invoices](/blog/invoice-recovery-business/) · [NTN & sales tax basics](/blog/ntn-sales-tax-registration/) · [Free legal aid in Punjab](/blog/legal-aid-punjab/)

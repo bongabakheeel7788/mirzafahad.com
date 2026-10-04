@@ -45,3 +45,5 @@ The father's obligation to maintain his children — school fees included — co
 ## Practical advice
 
 Keep the child's routine stable and documented — school records, medical records, photographs of daily life are quiet, powerful evidence. Never coach the child; judges detect it and it backfires. Comply with every court date and every visitation order to the letter. And on both sides: the parent who demonstrates that the child's life is calmer with them, rather than the parent who proves the other is wicked, usually leaves with the order they wanted.
+
+**Related reading:** [Second marriage: the legal rules](/blog/second-marriage-law/) · [Second marriage permission](/blog/second-marriage-permission-process/) · [Online shopping fraud remedies](/blog/online-shopping-fraud-remedies/)

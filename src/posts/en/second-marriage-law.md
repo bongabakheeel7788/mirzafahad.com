@@ -45,3 +45,5 @@ For a man considering a second marriage: the procedure is not decorative. File t
 For a first wife: your remedies are the criminal complaint, immediate recovery of your entire dower, maintenance, and — where your nikahnama or the facts support it — dissolution on favourable terms. Which combination serves you depends on what you actually want: leverage, separation, or financial security. Decide that first with your lawyer; the legal tools then line up behind it.
 
 For the record: none of this applies to a man marrying after valid divorce or widowhood — the Ordinance regulates polygamy, not remarriage.
+
+**Related reading:** [Recovering your haq mehr](/blog/haq-mehr-types-recovery/) · [Khula in Punjab: step-by-step](/blog/khula-procedure-punjab/) · [Second marriage permission](/blog/second-marriage-permission-process/)

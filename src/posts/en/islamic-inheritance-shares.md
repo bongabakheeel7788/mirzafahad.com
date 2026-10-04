@@ -53,3 +53,5 @@ Now the same estate, but the deceased's mother is also alive. She takes one-sixt
 Obtain the death certificate from the Union Council, then a NADRA succession certificate or court succession certificate for movable assets, and an inheritance mutation (intiqal-e-wirasat) for land — in every case listing **all** legal heirs. Distribution follows the record, so the single most important step is making sure no heir is omitted at the record stage. An omitted heir discovered years later unravels every subsequent sale.
 
 If you suspect your share has been recorded wrongly — or was never recorded — a lawyer can obtain the revenue record and the succession file and tell you within a day where you actually stand.
+
+**Related reading:** [Gift (hiba) vs inheritance](/blog/gift-hiba-vs-inheritance/) · [Grandchildren's inheritance](/blog/grandchildren-inheritance-section4/) · [PESSI benefits explained](/blog/pessi-social-security-benefits/)

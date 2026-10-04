@@ -43,3 +43,5 @@ You are entitled to change lawyers; cases move on a fresh power of attorney with
 ## The summary test
 
 Choose the advocate who reads your papers before promising, names weaknesses you didn't want to hear, writes the fee down, and answers messages. Those four behaviours at the start predict the next three years better than any signboard.
+
+**Related reading:** [First time in court: a guide](/blog/court-in-faisalabad-guide/) · [Free legal aid in Punjab](/blog/legal-aid-punjab/) · [Power of attorney from abroad](/blog/poa-from-abroad/)

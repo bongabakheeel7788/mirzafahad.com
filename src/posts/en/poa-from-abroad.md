@@ -48,3 +48,5 @@ A POA can be revoked at any time (unless coupled with interest). Revoke in writi
 A power of attorney **dies with the principal**. Transactions signed by the attorney after the principal's death are void, and using a dead person's POA is fraud. On a principal's death, the property passes to the heirs, and the attorney must stop — heirs discovering post-death transfers should act immediately, because time strengthens the paper trail of the wrongdoer.
 
 For overseas Pakistanis, the practical bottom line: a well-drafted, narrow, registered POA plus a trustworthy local lawyer who reports to you is cheaper than one year of litigation from abroad.
+
+**Related reading:** [Inheritance from abroad](/blog/inheritance-case-from-abroad/) · [Marriage & divorce papers abroad](/blog/overseas-marriage-divorce-docs/) · [Trademark registration guide](/blog/trademark-registration-pakistan/)

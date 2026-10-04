@@ -45,3 +45,5 @@ Most matters end in settlement; the craft is structuring it so default restarts 
 ## Portfolio honesty
 
 Age your receivables monthly; act at 90 days, not at "when relations spoil" — limitation for these claims is short, acknowledgments extend it, and the debtor's other creditors are climbing their ladders too. Assets go to the creditor who arrives; in collection, courtesy and speed are not opposites — the most effective businesses are unfailingly polite and always one rung higher than the debtor expected.
+
+**Related reading:** [Registering a company in Pakistan](/blog/register-private-limited-company-pakistan/) · [Trademark registration guide](/blog/trademark-registration-pakistan/) · [NTN & sales tax basics](/blog/ntn-sales-tax-registration/)

@@ -51,3 +51,5 @@ Ordinary criminal law also applies: criminal trespass, house-trespass, mischief,
 ## The universal rules
 
 Document possession continuously — utility bills, photographs, tax receipts, tenancy record: the party who can *prove* possession wins the early rounds. Report early: every remedy above works best within days or months, and the six-month possessory suit expires exactly when victims finish "trying to settle within the family". And never retake property by force, however righteous the claim — the law restores the patient and punishes the self-helper, on both sides of every qabza.
+
+**Related reading:** [Right of way disputes](/blog/easement-right-of-way/) · [Understanding the fard malkiat](/blog/fard-malkiat-explained/) · [Rights when you are fired](/blog/employee-termination-rights-pakistan/)

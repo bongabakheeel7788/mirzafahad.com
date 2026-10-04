@@ -39,3 +39,5 @@ The recurring failures are drafting failures: settlements that miss an heir; tha
 ## A final word to both sides
 
 For complainants: a compromise trades your best leverage for compensation and peace — price it once, completely, and collect before signing. For the accused: a raazinama is an acquittal, not an apology on file — but pay what you promised; a revived enmity with a spent compromise is the worst of both worlds. And for both: do it through the court, on the record, every signature verified. The settlements that last are the ones a judge watched happen.
+
+**Related reading:** [Bail in Pakistan explained](/blog/bail-in-pakistan-explained/) · [Cheque bounce law: Section 489-F](/blog/cheque-dishonour-489f/) · [Theft vs robbery vs dacoity](/blog/theft-robbery-dacoity-difference/)

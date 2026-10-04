@@ -41,3 +41,5 @@ Understand the legitimate costs — counsel's fee, court fees on filings, proces
 ## The mindset
 
 Litigation is a marathon of small correct steps: present, prepared, documented, calm. Courts move slowly, but they notice — and over a case's life, the noticing accumulates into outcomes. Your lawyer runs the law; your job is to be the client whose file, punctuality and truthfulness make the case easy to fight.
+
+**Related reading:** [Free legal aid in Punjab](/blog/legal-aid-punjab/) · [Choosing the right lawyer](/blog/choosing-a-lawyer/) · [Cybercrime: filing a complaint](/blog/cybercrime-fia-complaints/)

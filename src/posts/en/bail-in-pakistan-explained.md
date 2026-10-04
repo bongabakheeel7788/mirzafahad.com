@@ -70,3 +70,5 @@ Bail once granted can be cancelled if the accused tampers with evidence, threate
 - Do not contact the complainant or witnesses. It is the most common reason bail is cancelled.
 
 Every bail application turns on the specific FIR and evidence. A lawyer who has read the FIR can usually tell you within minutes which court to approach and what the realistic prospects are.
+
+**Related reading:** [Fighting a false FIR](/blog/false-fir-quashing/) · [FIR against you? Know your rights](/blog/fir-rights/) · [Replying to an FBR notice](/blog/fbr-notice-reply-guide/)

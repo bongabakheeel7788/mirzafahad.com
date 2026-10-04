@@ -47,3 +47,5 @@ You buy, you start construction, and a relative of the seller appears with a sui
 ## The pattern behind all seven
 
 Every scheme exploits a gap between paper and reality: record vs occupant, agreement vs registration, brochure vs approved plan. The universal defence is verification at the source — the record centre, the registrar, the authority, the property itself — before money moves. The few thousand rupees and days this costs is the cheapest insurance in the entire economy. And if you have already been caught: act at once — remedies (cancellation suits, criminal complaints, injunctions of your own) reward speed and wither with delay.
+
+**Related reading:** [Right of way disputes](/blog/easement-right-of-way/) · [Understanding the fard malkiat](/blog/fard-malkiat-explained/) · [Executing a civil decree](/blog/execution-of-decree/)

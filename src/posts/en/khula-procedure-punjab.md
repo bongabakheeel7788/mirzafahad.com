@@ -61,3 +61,5 @@ A contested khula in a district court in Punjab typically takes **three to six m
 Once the certificate is issued, the wife is free to remarry after *iddat*. Custody and maintenance orders made in the same suit continue to apply and can be enforced through the same court if the husband defaults.
 
 If you are considering khula, the most useful first step is a short consultation with your nikahnama in hand. Most of what determines the case — the court, the dower position, the related claims — can be settled in that first conversation.
+
+**Related reading:** [Court marriage: procedure & myths](/blog/court-marriage-pakistan/) · [Recovering dowry articles](/blog/dowry-articles-recovery/) · [A rent agreement done right](/blog/rent-agreement-essentials/)

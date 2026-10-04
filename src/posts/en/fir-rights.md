@@ -45,3 +45,5 @@ Police may investigate, summon you to join the investigation, and arrest where t
 ## If the FIR is false
 
 Pakistan's legal system is realistic about false FIRs — they are a recognised weapon in property, family and business disputes. The remedies are pre-arrest bail on the ground of mala fide, a petition to the High Court under section 561-A Cr.P.C. for quashing in clear cases, and prosecution of the complainant under section 182 Cr.P.C. or for perjury after acquittal. Which remedy fits depends entirely on the FIR's contents and timing — which is why the first step, always, is getting that copy to a lawyer within hours, not weeks.
+
+**Related reading:** [Cheque bounce law: Section 489-F](/blog/cheque-dishonour-489f/) · [Raazinama & compounding](/blog/compounding-offences-raazinama/) · [Partition of joint property](/blog/partition-joint-property/)

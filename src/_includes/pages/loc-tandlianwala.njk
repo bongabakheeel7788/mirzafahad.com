@@ -1,0 +1,66 @@
+{%- set s = t[lang] -%}
+{%- set p = "" if lang == "en" else "/ur" -%}
+<section class="page-head">
+  <div class="container">
+    {% if lang == "en" %}
+    <div class="crumbs"><a href="/">{{ s.nav.home }}</a><span>/</span>Advocate in Tandlianwala</div>
+    <h1>Advocate in Tandlianwala</h1>
+    <p>Mirza Fahad, Advocate High Court · Chamber No. 95, Tehsil Bar Association, Tandlianwala</p>
+    {% else %}
+    <div class="crumbs"><a href="/ur/">{{ s.nav.home }}</a><span>/</span>ٹانڈلیانوالہ میں وکیل</div>
+    <h1>ٹانڈلیانوالہ میں وکیل</h1>
+    <p>مرزا فہد، ایڈووکیٹ ہائی کورٹ · چیمبر نمبر 95، تحصیل بار ایسوسی ایشن، ٹانڈلیانوالہ</p>
+    {% endif %}
+  </div>
+</section>
+
+<section class="section">
+  <div class="container prose">
+    {% if lang == "en" %}
+    <p>If you are looking for an <strong>advocate in Tandlianwala</strong>, you want someone who sits where your case will actually be heard. My chamber is at the Tehsil Bar Association, Tandlianwala — a few minutes from the tehsil courts — and I appear daily for clients from Tandlianwala city and the surrounding villages, as well as before the <a href="{{ p }}/practice/">District Courts of Faisalabad</a> and the Lahore High Court when a matter goes up.</p>
+    <p>A local lawyer in Tandlianwala is not a convenience; it is a strategic advantage. Land records sit with the local patwari and the Arazi Record Centre, family cases are fixed before the local family court, and bail applications move faster when your counsel knows the court, the prosecution and the file. That is the practice I have built here.</p>
+
+    <h2>Cases I take in Tandlianwala</h2>
+    <ul class="checklist">
+      <li><strong>Family cases</strong> — <a href="/blog/khula-procedure-punjab/">khula</a>, <a href="/blog/maintenance-wife-children/">maintenance</a>, <a href="/blog/child-custody-pakistan/">custody</a>, dowry recovery and <a href="{{ p }}/practice/family/">all family court matters</a>.</li>
+      <li><strong>Land &amp; property</strong> — <a href="/blog/inheritance-mutation-process/">inheritance mutation</a>, <a href="/blog/illegal-dispossession-qabza/">qabza and illegal dispossession</a>, <a href="/blog/stay-orders-explained/">stay orders</a> and <a href="{{ p }}/practice/civil-property/">civil suits</a>.</li>
+      <li><strong>Criminal defence</strong> — <a href="/blog/bail-in-pakistan-explained/">bail</a>, <a href="/blog/fir-rights/">FIR matters</a> and trial defence before the <a href="{{ p }}/practice/criminal/">magistrate and sessions courts</a>.</li>
+      <li><strong>Business &amp; recovery</strong> — <a href="/blog/cheque-dishonour-489f/">cheque dishonour</a>, <a href="/blog/friendly-loan-recovery/">loan recovery</a> and <a href="{{ p }}/practice/corporate-business/">agreements</a> for local traders.</li>
+    </ul>
+
+    <h2>Why clients in Tandlianwala choose me</h2>
+    <p>I am a member of the Tehsil Bar Association, Tandlianwala, enrolled in the District Courts since 2024 and as an <a href="{{ p }}/about/">Advocate of the High Court since 2026</a>. Every case is handled personally — drafting, appearance and follow-up — and you get an update after every hearing on WhatsApp or by phone, in plain language. For matters that must travel to Faisalabad or Lahore, I go with the file; you are never handed to a stranger.</p>
+    {% else %}
+    <p>اگر آپ <strong>ٹانڈلیانوالہ میں وکیل</strong> تلاش کر رہے ہیں تو آپ کو ایسا وکیل چاہیے جو وہیں بیٹھتا ہو جہاں آپ کا مقدمہ سنا جائے گا۔ میرا چیمبر تحصیل بار ایسوسی ایشن ٹانڈلیانوالہ میں ہے — تحصیل کی عدالتوں سے چند منٹ کے فاصلے پر — اور میں روزانہ ٹانڈلیانوالہ شہر اور گرد و نواح کے دیہات کے مؤکلوں کے لیے پیش ہوتا ہوں، اور ضرورت پڑنے پر <a href="{{ p }}/practice/">ضلعی عدالتیں فیصل آباد</a> اور لاہور ہائی کورٹ میں بھی۔</p>
+    <p>مقامی وکیل محض سہولت نہیں، حکمتِ عملی کا فائدہ ہے۔ زمین کا ریکارڈ مقامی پٹواری اور اراضی ریکارڈ سینٹر کے پاس ہوتا ہے، خاندانی مقدمے مقامی فیملی کورٹ میں لگتے ہیں، اور ضمانت کی درخواست تب تیز چلتی ہے جب وکیل عدالت اور مسل کو جانتا ہو۔</p>
+
+    <h2>ٹانڈلیانوالہ میں کون سے مقدمات لیتا ہوں</h2>
+    <ul class="checklist">
+      <li><strong>خاندانی مقدمات</strong> — <a href="/ur/blog/khula-procedure-punjab/">خلع</a>، نان نفقہ، حضانت اور <a href="{{ p }}/practice/family/">تمام فیملی کورٹ معاملات</a>۔</li>
+      <li><strong>زمین و جائیداد</strong> — وراثتی انتقال، قبضہ، حکمِ امتناعی اور <a href="{{ p }}/practice/civil-property/">دیوانی مقدمات</a>۔</li>
+      <li><strong>فوجداری دفاع</strong> — <a href="/ur/blog/bail-in-pakistan-explained/">ضمانت</a>، ایف آئی آر اور <a href="{{ p }}/practice/criminal/">ٹرائل</a>۔</li>
+      <li><strong>کاروبار و وصولی</strong> — چیک ڈس آنر، قرض کی وصولی اور <a href="{{ p }}/practice/corporate-business/">معاہدے</a>۔</li>
+    </ul>
+
+    <h2>ٹانڈلیانوالہ کے مؤکل مجھے کیوں چنتے ہیں</h2>
+    <p>میں تحصیل بار ایسوسی ایشن ٹانڈلیانوالہ کا رکن ہوں، 2024 سے ضلعی عدالتوں میں اور 2026 سے <a href="{{ p }}/about/">ایڈووکیٹ ہائی کورٹ</a> کے طور پر۔ ہر مقدمہ ذاتی طور پر — مسودہ، پیشی اور پیروی — اور ہر سماعت کے بعد سادہ زبان میں اطلاع۔</p>
+    {% endif %}
+
+    {% if faq %}
+    <section class="faq-block">
+      <h2>{{ s.blog.faqHeading }}</h2>
+      {% for f in faq %}
+      <details class="faq-item" {{ "open" if loop.first }}>
+        <summary>{{ f.q }}</summary>
+        <p>{{ f.a }}</p>
+      </details>
+      {% endfor %}
+    </section>
+    {% endif %}
+
+    <p style="margin-top:2rem">
+      <a class="btn btn-gold" href="{{ p }}/contact/">{{ s.cta.consult }}</a>
+      <a class="btn" href="https://wa.me/{{ site.whatsapp }}" target="_blank" rel="noopener">{{ s.cta.whatsapp }}</a>
+    </p>
+  </div>
+</section>

@@ -47,3 +47,5 @@ The court process is a petition before the Civil Judge, notice to heirs and gene
 - Keep multiple certified copies; every bank branch will want to see an original.
 
 If your family's case is clean — heirs agreed, records complete — you may not need a lawyer at all for the NADRA route. Where anything is contested, get advice before applying, because the forum you start in shapes the fight.
+
+**Related reading:** [Succession certificate or letters](/blog/succession-certificate-vs-letters-administration/) · [Wills and the one-third rule](/blog/wills-in-pakistan/) · [Filer vs non-filer](/blog/filer-vs-non-filer-pakistan/)

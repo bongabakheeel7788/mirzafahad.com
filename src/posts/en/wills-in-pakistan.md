@@ -44,3 +44,5 @@ A will is revocable at any time — by a later will, by destruction, or by deali
 The commonest Pakistani "will" is a document leaving everything to one or some children — often the sons, sometimes the caretaker child. As a will, it fails against the two rules above: heirs cannot be preferred by bequest without the others' consent. Families wishing to prefer someone must act **in life** — by valid gift with possession — with all the scrutiny that entails, or secure the genuine post-death consent of the other heirs. A paper will "cutting out" a daughter accomplishes nothing except revealing intent.
 
 Used within its lane — one-third, non-heirs, executorship, clarity — a will is a modest document that prevents immodest amounts of conflict. Every adult with property should spend the one hour it takes.
+
+**Related reading:** [Bank accounts after death](/blog/deceased-bank-account/) · [Gift (hiba) vs inheritance](/blog/gift-hiba-vs-inheritance/) · [Registry vs mutation](/blog/registry-vs-mutation/)

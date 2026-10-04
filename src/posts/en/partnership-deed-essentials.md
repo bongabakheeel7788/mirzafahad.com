@@ -47,3 +47,5 @@ The Partnership Act, 1932 governs. Partners are **jointly and severally liable**
 Execute on proper stamp paper, all partners signing with witnesses; register the firm and obtain the NTN in the firm's name; and — most neglected — **amend the deed in writing** when reality changes (new ratios, a partner's exit, capital injections). Courts confront firms whose deed describes a business that stopped existing years earlier; the paper's silence is then filled by testimony, and testimony is where partnerships go to die.
 
 A final honesty: the deed cannot make a bad partner good. It makes a bad partner *accountable* — and gives the good partner the exit, the valuation and the remedies that turn a betrayal into a solvable legal problem rather than a life's loss.
+
+**Related reading:** [Franchise agreements: checks](/blog/franchise-distribution-agreements/) · [Recovering unpaid invoices](/blog/invoice-recovery-business/) · [Road accident compensation](/blog/road-accident-compensation/)

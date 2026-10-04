@@ -42,3 +42,5 @@ Defending a genuine gift is about the same evidence in reverse: contemporaneous 
 ## The bottom line
 
 A living owner's genuine, completed gift stands. A paper gift constructed around a dying or dependent parent to defeat sisters and brothers usually falls. Which side of that line a case sits on is a question of evidence — and evidence is gathered fastest by whoever moves first.
+
+**Related reading:** [Inheritance mutation of land](/blog/inheritance-mutation-process/) · [Islamic inheritance shares explained](/blog/islamic-inheritance-shares/) · [Unknown SIMs on your CNIC](/blog/sim-issued-in-your-name/)

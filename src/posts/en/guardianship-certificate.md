@@ -37,3 +37,5 @@ Appointment does not confer a free hand. A guardian **cannot sell, mortgage, gif
 ## Practical notes
 
 Apply early — institutions will not wait, and the citation period sets the minimum timeline. Be complete about assets in the petition; discovering assets later means amendment applications. Where the extended family supports the arrangement, their written no-objection speeds everything. And where a dispute is brewing — an uncle asserting control over the children's inheritance, for instance — the guardianship petition is not paperwork but the battlefield itself: the certificate determines who controls the minor's estate until majority. In such cases, treat it with the seriousness of the property litigation it really is.
+
+**Related reading:** [Inside the family court](/blog/family-court-procedure-guide/) · [Recovering your haq mehr](/blog/haq-mehr-types-recovery/) · [Affidavits explained](/blog/affidavits-explained/)

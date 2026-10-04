@@ -43,3 +43,5 @@ Practical steps when your cheque bounces: obtain the bank's dishonour memo the s
 ## Where these cases end
 
 The overwhelming majority of 489-F cases end in settlement — the parties agree on an amount, the complainant submits an affidavit, and the matter is compounded or the accused is acquitted on compromise. That is not a failure of the system; recovery was usually the real objective. A lawyer's job on either side is to reach that point from a position of strength rather than desperation.
+
+**Related reading:** [Your rights in investigation](/blog/police-investigation-rights/) · [When police refuse your FIR](/blog/police-refusing-fir-22a/) · [Medical negligence claims](/blog/medical-negligence-pakistan/)

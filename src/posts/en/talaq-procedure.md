@@ -49,3 +49,5 @@ The wife is entitled to maintenance during the iddat period. The **deferred dowe
 Pronouncing talaq in anger and telling no one; giving no Union Council notice; giving notice to the wrong Union Council (it belongs where the wife resides); assuming three pronouncements in one sitting concluded everything instantly; and treating the certificate as optional paperwork. Each of these keeps the marriage — and its financial obligations — legally breathing.
 
 Done properly, the procedure is a matter of one written notice, attendance before the Arbitration Council, and ninety days of patience. Done improperly, it becomes the first exhibit in the other side's case.
+
+**Related reading:** [Adoption and guardianship](/blog/adoption-guardianship-pakistan/) · [Child custody: how courts decide](/blog/child-custody-pakistan/) · [Inside the family court](/blog/family-court-procedure-guide/)

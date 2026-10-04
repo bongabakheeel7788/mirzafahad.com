@@ -48,3 +48,5 @@ A dowry decree is executed like any other: attachment of the husband's property 
 For wives: prepare the list early, gather the wedding video and photographs, and claim in the same suit as maintenance — the combined pressure produces settlements. Do not inflate; one disproved item taints ten proved ones.
 
 For husbands: return what is hers promptly and get a receipt through counsel. Gold sitting in a cupboard accrues liability at gold's climbing rate, and "the articles are lying at our house, she can collect them" is not a defence unless made real — formally, in writing, through the court.
+
+**Related reading:** [Child custody: how courts decide](/blog/child-custody-pakistan/) · [Conjugal rights suits explained](/blog/conjugal-rights-suits/) · [Succession certificate or letters](/blog/succession-certificate-vs-letters-administration/)

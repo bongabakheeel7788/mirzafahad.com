@@ -48,3 +48,5 @@ Employment dues, provident fund, and insurance proceeds each follow their own in
 Keep the family informed of where accounts exist; ensure CNIC-linked records (NADRA family data) are complete — undocumented children complicate certificates; consider consolidating scattered small accounts; and if you wish specific provision for someone, do it by lifetime transfer or a valid will within the one-third — not by assuming a nomination will suffice.
 
 For heirs: move early, move together, and put every release through the certificate process. Money released properly is unchallengeable; money released cleverly follows the family into court for years.
+
+**Related reading:** [NADRA succession certificate guide](/blog/nadra-succession-certificate/) · [Succession certificate or letters](/blog/succession-certificate-vs-letters-administration/) · [Mobile wallet fraud recovery](/blog/mobile-wallet-fraud/)

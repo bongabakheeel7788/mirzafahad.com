@@ -39,3 +39,5 @@ Houses, urban plots and mixed estates go to the **civil court** in a suit for pa
 ## Practical course
 
 Start with the record: confirmed shares (inheritance mutation), a clean fard, a site plan. Attempt a written family scheme with a lawyer at the table — a registered partition deed among consenting co-sharers accomplishes in a month what suits accomplish in years. Failing that, choose the right forum and pursue it without gaps; partition proceedings die of inattention, not of difficulty. And meanwhile, disturb nothing unilaterally: in partition law, the patient co-sharer with documents finishes ahead of the aggressive one with possession.
+
+**Related reading:** [7 property scams to avoid](/blog/property-fraud-scams/) · [Buying property safely in Punjab](/blog/property-transfer-mutation-punjab/) · [Punjab property tax explained](/blog/property-tax-punjab-uipt/)

@@ -39,3 +39,5 @@ For the wife: do not ignore the summons — an ex parte decree, while not physic
 For the husband: understand what the suit signals to the judge. Filed sincerely, alongside genuine maintenance payments and restraint, it can support reconciliation efforts. Filed as a pressure tactic days after receiving her maintenance summons — the commonest pattern, and one judges recognise instantly — it typically achieves nothing except confirming the family's dynamics for the court.
 
 RCR suits are, in the end, about narrative. The spouse whose documents show consistency — payment, patience, proportionate conduct — walks out of this narrative contest ahead.
+
+**Related reading:** [Court marriage: procedure & myths](/blog/court-marriage-pakistan/) · [Recovering dowry articles](/blog/dowry-articles-recovery/) · [Appeal vs revision vs review](/blog/appeal-revision-review-difference/)

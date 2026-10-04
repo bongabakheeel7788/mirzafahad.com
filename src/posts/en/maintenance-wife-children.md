@@ -47,3 +47,5 @@ A maintenance decree is executed like any decree — attachment of salary or ban
 For mothers and wives: file with documents — fee vouchers, rent agreement, medical bills, and every proof of the father's means you can lawfully obtain. Ask for interim maintenance at the first hearing.
 
 For fathers: pay the interim order even while contesting quantum; contest with documents (actual income proof), not with denials; and remember that maintaining your children generously and voluntarily is also, in a custody or visitation dispute, the best evidence of the parent you claim to be.
+
+**Related reading:** [Khula in Punjab: step-by-step](/blog/khula-procedure-punjab/) · [Late nikah registration](/blog/late-nikah-registration/) · [Child custody: how courts decide](/blog/child-custody-pakistan/)

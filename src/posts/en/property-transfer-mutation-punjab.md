@@ -58,3 +58,5 @@ Limitation periods apply to each of these and some are short. A purchaser who su
 ## Cost of getting it right
 
 A proper title check, a well-drafted agreement and attendance at registration cost a small fraction of the price of the property. A suit for specific performance in Punjab can take years. The arithmetic favours doing the work before paying.
+
+**Related reading:** [Recovering a friendly loan](/blog/friendly-loan-recovery/) · [Plot files and transfers](/blog/housing-society-file-transfer/) · [Housing society charges](/blog/housing-society-charges/)

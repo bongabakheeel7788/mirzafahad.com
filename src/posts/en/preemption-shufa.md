@@ -41,3 +41,5 @@ A vendee resisting pre-emption works down a checklist: attack the pre-emptor's *
 ## Practical notes
 
 For potential pre-emptors: treat knowledge of the sale as a fire alarm — make the immediate demand before witnesses the same day, complete the written witnessed notice within the fortnight, and file within limitation with the deposit ready. For buyers: complete quickly and visibly; open possession and construction start the clocks of knowledge running and build equities. For both: shufa cases are won by whoever respected the calendar.
+
+**Related reading:** [Agreement to sell: bai'ana](/blog/agreement-to-sell/) · [Benami property and the 2017 law](/blog/benami-property-law/) · [Court fee and suit valuation](/blog/court-fee-suit-valuation/)

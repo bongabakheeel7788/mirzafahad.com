@@ -41,3 +41,5 @@ Whatever the door: prepare a **one-page case summary** (parties, dates, what hap
 And one caution: "free help" offered by courthouse strangers, with your original documents requested, is the fraud economy — real legal aid never needs your originals to begin, and never asks for "file charges" in cash to unknown persons.
 
 If your matter reaches this chamber and genuine hardship exists, say so plainly at the first consultation. Like most colleagues, cases are taken every year where the fee is adjusted, deferred — or waived. The profession's oldest tradition is older than its reputation.
+
+**Related reading:** [First time in court: a guide](/blog/court-in-faisalabad-guide/) · [Choosing the right lawyer](/blog/choosing-a-lawyer/) · [Tenant & landlord rights in Punjab](/blog/tenant-landlord-punjab/)

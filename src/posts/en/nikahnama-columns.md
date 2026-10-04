@@ -45,3 +45,5 @@ Nikahnama tampering — inflating or deflating dower, filling column 18 later, "
 ## The practical advice
 
 Read the form before the event, in calm. Decide dower and its split deliberately. Use column 17 for what matters to the couple. Make a conscious decision on column 18. Obtain certified copies from the Union Council within days of registration and keep them separately. The nikahnama takes fifteen minutes to complete properly — and those fifteen minutes are the most valuable legal work most families will ever do without a lawyer.
+
+**Related reading:** [Talaq: the legal procedure](/blog/talaq-procedure/) · [Visitation rights explained](/blog/visitation-rights-schedule/) · [Guardianship of a minor](/blog/guardianship-certificate/)

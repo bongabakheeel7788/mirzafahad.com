@@ -37,3 +37,5 @@ Alongside it: NADRA's succession system requires **biometric verification of eve
 ## Practical course of action
 
 First, get the record: the deceased's fard, the inheritance mutation, and NADRA's family certificate — a lawyer obtains these in days, and they show exactly what was recorded and when. Second, choose the forum that fits: Ombudsperson where the record is clean and possession is the issue; civil suit where documents (releases, gifts, mutations) must be cancelled; both are sometimes pursued in sequence. Third, move on actual knowledge — the law forgives late discovery, not late action after discovery. And a note to families acting in good faith: paying sisters the *value* of their share by genuine, documented agreement is lawful and common; the law's target is deprivation, not settlement. The difference is consent, consideration and paper that would survive a judge's reading.
+
+**Related reading:** [Gift (hiba) vs inheritance](/blog/gift-hiba-vs-inheritance/) · [Grandchildren's inheritance](/blog/grandchildren-inheritance-section4/) · [Social media defamation](/blog/social-media-defamation/)

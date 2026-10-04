@@ -41,3 +41,5 @@ Disputes about the "advance" are constant because the word covers three differen
 ## Practical rules
 
 For landlords: register the agreement, issue receipts or take rent through the bank, never accept rent partially "in cash without record" during a dispute, and act on default promptly. For tenants: pay through the bank, keep every receipt, respond to legal notices in writing, and if the landlord refuses rent, deposit it before the Tribunal the same month. In tenancy litigation, the file of the party with the paperwork almost writes the judgment itself.
+
+**Related reading:** [Recovering a friendly loan](/blog/friendly-loan-recovery/) · [Plot files and transfers](/blog/housing-society-file-transfer/) · [Hurt offences and compensation](/blog/hurt-offences-diyat-daman/)

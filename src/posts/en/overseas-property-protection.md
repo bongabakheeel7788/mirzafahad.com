@@ -45,3 +45,5 @@ Speed is the entire game — every year of delay adds bona fide purchasers, cons
 ## The honest summary
 
 Distance does not lose property; undocumented trust does. The expatriates who keep title papers, check records annually, move money through banks and formalise every family arrangement almost never appear in these cases. The system above costs a few days a year — against the standard alternative, which costs a decade in the courts of a country you no longer live in.
+
+**Related reading:** [Power of attorney from abroad](/blog/poa-from-abroad/) · [Inheritance from abroad](/blog/inheritance-case-from-abroad/) · [Your rights in investigation](/blog/police-investigation-rights/)

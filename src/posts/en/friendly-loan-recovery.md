@@ -39,3 +39,5 @@ A formal **legal notice** through counsel — stating the loan, the evidence, th
 ## What not to do
 
 Do not seize the borrower's property or vehicle "against the loan" — that is an offence, and it converts your claim into his complaint. Do not involve police informally for pressure; it backfires legally. Do not keep lending to protect earlier lending. And do not let embarrassment run out the limitation clock — the friendships these loans were meant to preserve rarely survive the default anyway, but your money can, if the file reaches a lawyer while the dates are still alive.
+
+**Related reading:** [Buying property safely in Punjab](/blog/property-transfer-mutation-punjab/) · [Registry vs mutation](/blog/registry-vs-mutation/) · [Registering a company in Pakistan](/blog/register-private-limited-company-pakistan/)

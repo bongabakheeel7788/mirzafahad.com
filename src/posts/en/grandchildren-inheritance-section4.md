@@ -44,3 +44,5 @@ Section 4 has always sat uneasily beside classical doctrine, and religious schol
 ## The takeaway
 
 If your parent died before your grandparent, you are not at your uncles' mercy: Pakistani law gives you your parent's share. Get the family record, check the mutation, and assert the entitlement early — this is one area where the statute is squarely on the orphan's side, and delay is the only thing that erodes it.
+
+**Related reading:** [Islamic inheritance shares explained](/blog/islamic-inheritance-shares/) · [NADRA succession certificate guide](/blog/nadra-succession-certificate/) · [Talaq: the legal procedure](/blog/talaq-procedure/)

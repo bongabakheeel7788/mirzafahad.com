@@ -45,3 +45,5 @@ Fees are modest and fixed; there is no lawful "rate" beyond the schedule. The pr
 The mutation gives every heir a recorded share in every khewat — co-ownership, not a divided plot. Actually splitting the land is **partition**, a separate proceeding (revenue partition for agricultural land, or the civil court). Heirs intending to sell only their own share can do so, but a purchaser of an undivided share buys into co-ownership, which is why coordinated family decisions — partition first, then dealings — preserve value.
 
 The single rule that prevents most inheritance litigation: process the mutation early, with every heir present and recorded. Delay is the fraudster's best friend.
+
+**Related reading:** [Succession certificate or letters](/blog/succession-certificate-vs-letters-administration/) · [Wills and the one-third rule](/blog/wills-in-pakistan/) · [Fighting illegal qabza](/blog/illegal-dispossession-qabza/)

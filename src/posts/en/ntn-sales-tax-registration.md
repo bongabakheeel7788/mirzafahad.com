@@ -39,3 +39,5 @@ Not dawn raids — data. Bank information, utility consumption, property and veh
 ## The starter compliance stack
 
 Register the NTN now; file the return annually and stay on the ATL; map your sales-tax position (FBR for goods, PRA for services) with a professional once, and re-check each budget; issue proper invoices and bank your revenue — documentation is also what makes the business sellable and bankable later. Total setup effort: days. The alternative's cost: assessed for you, years later, with surcharge.
+
+**Related reading:** [Franchise agreements: checks](/blog/franchise-distribution-agreements/) · [Recovering unpaid invoices](/blog/invoice-recovery-business/) · [Inheritance from abroad](/blog/inheritance-case-from-abroad/)
