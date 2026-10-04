@@ -6,7 +6,7 @@ pagination:
 permalink: "/ur/practice/{{ area.slug }}/"
 eleventyComputed:
   key: "practice-{{ area.slug }}"
-  title: "{{ area.ur.title }}"
-  description: "{{ area.ur.short }}"
+  title: "{{ area.ur.seoTitle | safe }}"
+  description: "{{ area.ur.short | safe }}"
 ---
 {% include "pages/practice-area.njk" %}

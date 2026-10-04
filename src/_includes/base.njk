@@ -12,6 +12,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ pageTitle }}</title>
   <meta name="description" content="{{ desc }}">
+  {%- if metaKeywords %}
+  <meta name="keywords" content="{{ metaKeywords }}">
+  {%- endif %}
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
   <link rel="alternate" hreflang="{{ 'ur' if lang == 'en' else 'en' }}" href="{{ site.url }}{{ alt }}">
   <link rel="alternate" hreflang="{{ lang }}" href="{{ site.url }}{{ page.url }}">

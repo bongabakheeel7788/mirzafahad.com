@@ -46,6 +46,14 @@
     <p>میں تحصیل بار ایسوسی ایشن ٹانڈلیانوالہ کا رکن ہوں، 2024 سے ضلعی عدالتوں میں اور 2026 سے <a href="{{ p }}/about/">ایڈووکیٹ ہائی کورٹ</a> کے طور پر۔ ہر مقدمہ ذاتی طور پر — مسودہ، پیشی اور پیروی — اور ہر سماعت کے بعد سادہ زبان میں اطلاع۔</p>
     {% endif %}
 
+    {% if lang == "en" %}
+    <h2>Tandlianwala Mein Wakeel — ٹانڈلیانوالہ میں وکیل</h2>
+    <p>Tandlianwala ke aksar log Google par Roman Urdu mein likhte hain — <em>Tandlianwala ma wakeel</em>, <em>Tandlianwala ka wakeel</em> ya <em>khula ka wakeel</em>. Yeh page unhi ke liye hai: main Tehsil Bar Association Tandlianwala ka member hoon, Chamber No. 95 mein baithta hoon, aur khula, nan nafqa, warasat, zameen, zamanat aur cheque dishonour ke muqadmat rozana karta hoon. Pehli mulaqat mein seedhi baat hoti hai — case kitna mazboot hai, kitna waqt lagega aur kharcha kya hoga. Call ya WhatsApp: <a href="tel:{{ site.phoneRaw }}">{{ site.phone }}</a>.</p>
+    {% else %}
+    <h2>Tandlianwala Mein Wakeel — رومن اردو میں تلاش کرنے والوں کے لیے</h2>
+    <p>گوگل پر <em>Tandlianwala ma wakeel</em> یا <em>khula ka wakeel</em> لکھ کر پہنچنے والوں کے لیے: میں تحصیل بار ایسوسی ایشن ٹانڈلیانوالہ کا رکن ہوں، چیمبر نمبر 95 میں بیٹھتا ہوں، اور خلع، نان نفقہ، وراثت، زمین، ضمانت اور چیک ڈس آنر کے مقدمات روزانہ کرتا ہوں۔ کال یا واٹس ایپ: <a href="tel:{{ site.phoneRaw }}">{{ site.phone }}</a>۔</p>
+    {% endif %}
+
     {% if faq %}
     <section class="faq-block">
       <h2>{{ s.blog.faqHeading }}</h2>

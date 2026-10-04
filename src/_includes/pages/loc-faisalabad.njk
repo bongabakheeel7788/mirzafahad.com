@@ -46,6 +46,14 @@
     <p>میرے مؤکلوں کا بڑا حصہ بیرونِ ملک رہتا ہے جبکہ ان کا مقدمہ — عموماً وراثت یا جائیداد کا تحفظ — فیصل آباد میں چلتا ہے۔ مختار نامے کے ذریعے بیشتر معاملات آپ کے سفر کے بغیر آگے بڑھتے ہیں، ہر سماعت کے بعد اطلاع کے ساتھ۔</p>
     {% endif %}
 
+    {% if lang == "en" %}
+    <h2>Faisalabad Ka Wakeel — فیصل آباد کا وکیل</h2>
+    <p>Roman Urdu mein dhoondne walon ke liye: agar aap ko <em>Faisalabad ka wakeel</em> chahiye — family case, khula, zamanat, warasat ya property ke muqadmat ke liye — to main District Courts Faisalabad mein har hafte paish hota hoon aur zaroorat par case Lahore High Court tak le jata hoon. Mashwara ke liye call ya WhatsApp: <a href="tel:{{ site.phoneRaw }}">{{ site.phone }}</a>.</p>
+    {% else %}
+    <h2>Faisalabad Ka Wakeel — رومن اردو میں تلاش کرنے والوں کے لیے</h2>
+    <p>گوگل پر <em>Faisalabad ka wakeel</em> لکھ کر پہنچنے والوں کے لیے: خاندانی مقدمہ، خلع، ضمانت، وراثت یا جائیداد — میں ضلعی عدالتیں فیصل آباد میں ہر ہفتے پیش ہوتا ہوں اور ضرورت پر مقدمہ لاہور ہائی کورٹ تک لے جاتا ہوں۔ کال یا واٹس ایپ: <a href="tel:{{ site.phoneRaw }}">{{ site.phone }}</a>۔</p>
+    {% endif %}
+
     {% if faq %}
     <section class="faq-block">
       <h2>{{ s.blog.faqHeading }}</h2>
