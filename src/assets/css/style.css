@@ -509,15 +509,3 @@ a.card:hover { transform: translateY(-6px); border-color: var(--line-gold); box-
 .related-list { grid-template-columns: repeat(3, 1fr); }
 @media (max-width: 740px) { .related-list { grid-template-columns: 1fr; } }
 .related-title { font-size: 1.08rem; margin: 0; }
-
-/* ===== scroll film (lets-scroll) ===== */
-:root { --sw-bg:#0a0a0d; --sw-ink:#f2f2f4; --sw-ink-soft:#8a8a95; --sw-accent:#c9a227; }
-html { background:#0a0a0d; }
-.film-world.sw-root, .film-world { --sw-bg:#0a0a0d; --sw-ink:#f2f2f4; --sw-ink-soft:#8a8a95; --sw-accent:#c9a227;
-  --sw-font-display:"Cormorant Garamond", Georgia, serif; --sw-font-body:"Inter", system-ui, sans-serif; }
-body:has(.film-world) .site-header { z-index: 300; }
-.after-film { position: relative; z-index: 200; background: var(--bg, #0a0a0d); }
-body:has(.film-world) .scroll-progress { display: none; }
-body:has(.film-world) .site-footer { position: relative; z-index: 200; background: #0a0a0d; }
-html[dir="rtl"] .sw-copy { direction: rtl; }
-html[dir="rtl"] .sw-copy .sw-copy__title, html[dir="rtl"] .sw-copy p { font-family: "Noto Nastaliq Urdu", serif; }

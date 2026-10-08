@@ -1,50 +1,28 @@
 {%- set s = t[lang] -%}
 {%- set p = "" if lang == "en" else "/ur" -%}
 {%- set posts = collections.postsEn if lang == "en" else collections.postsUr -%}
-{%- set world = {
-  "town":   { "clip": "/assets/vid/film-town.mp4",    "still": "/assets/img/scroll/town.png" },
-  "chamber":{ "clip": "/assets/vid/film-chamber.mp4", "still": "/assets/img/scroll/chamber.png" },
-  "conn":   "/assets/vid/film-conn1.mp4"
-} -%}
-<div id="world" class="film-world" dir="ltr"></div>
-<script src="/assets/js/scrub-engine.js?v={{ build.v }}"></script>
-<script>
-mountLetsScroll(document.getElementById('world'), {
-  nav: false,
-  atmosphere: true,
-  hint: {{ ('"scroll to fly in"' if lang == 'en' else '"نیچے سکرول کریں"') | safe }},
-  diveScroll: 1.5,
-  connScroll: 0.9,
-  sections: [
-    {
-      id: 'tandlianwala', label: {{ ('"Tandlianwala"' if lang == 'en' else '"ٹانڈلیانوالہ"') | safe }},
-      still: '{{ world.town.still }}?v={{ build.v }}',
-      clip: '{{ world.town.clip }}?v={{ build.v }}',
-      accent: '#c9a227', scroll: 1.7, linger: 0.4,
-      eyebrow: {{ (s.home.eyebrow | dump) | safe }},
-      title: {{ ('"Every case has a home ground."' if lang == 'en' else '"ہر مقدمے کا اپنا میدان ہوتا ہے۔"') | safe }},
-      body: {{ ('"From the tehsil courts of Tandlianwala to the Lahore High Court — every hearing attended personally."' if lang == 'en' else '"ٹانڈلیانوالہ کی تحصیل عدالتوں سے لاہور ہائی کورٹ تک — ہر سماعت پر ذاتی حاضری۔"') | safe }},
-      tags: {{ ('["Chamber No. 95","District Courts 2024","High Court 2026"]' if lang == 'en' else '["چیمبر نمبر 95","ضلعی عدالتیں 2024","ہائی کورٹ 2026"]') | safe }}
-    },
-    {
-      id: 'chamber', label: {{ ('"Chamber No. 95"' if lang == 'en' else '"چیمبر نمبر 95"') | safe }},
-      still: '{{ world.chamber.still }}?v={{ build.v }}',
-      clip: '{{ world.chamber.clip }}?v={{ build.v }}',
-      accent: '#e8c96a', scroll: 1.8, linger: 0.5,
-      eyebrow: {{ ('"MIRZA FAHAD · ADVOCATE HIGH COURT"' if lang == 'en' else '"مرزا فہد · ایڈووکیٹ ہائی کورٹ"') | safe }},
-      title: {{ ('"Sit down with your advocate."' if lang == 'en' else '"اپنے وکیل کے ساتھ بیٹھیے۔"') | safe }},
-      body: {{ ('"An honest first assessment — strengths, risks, time and cost — before you commit to anything."' if lang == 'en' else '"کسی فیصلے سے پہلے دیانت دارانہ ابتدائی جائزہ — مضبوطی، خطرات، وقت اور خرچ۔"') | safe }},
-      tags: [],
-      cta: {
-        primary: { label: {{ (s.cta.consult | dump) | safe }}, href: '{{ p }}/contact/' },
-        secondary: { label: {{ (s.cta.whatsapp | dump) | safe }}, href: 'https://wa.me/{{ site.whatsapp }}' }
-      }
-    }
-  ],
-  connectors: ['{{ world.conn }}?v={{ build.v }}']
-});
-</script>
-<div class="after-film">
+<section class="hero">
+  <div class="container hero-inner">
+    <div>
+      <span class="eyebrow">{{ s.home.eyebrow }}</span>
+      <h1 data-split>{{ site.name if lang == "en" else site.nameUr }}</h1>
+      <div class="hero-title reveal" style="--d:.35s">{{ s.home.heroTitle }}</div>
+      <p class="lead reveal" style="--d:.45s">{{ s.home.intro }}</p>
+      <div class="hero-actions reveal" style="--d:.55s">
+        <a class="btn btn-gold" data-magnetic href="{{ p }}/contact/">{{ s.cta.consult }}</a>
+        <a class="btn btn-ghost" data-magnetic href="tel:{{ site.phoneRaw }}">{{ s.cta.call }}</a>
+      </div>
+    </div>
+    <div class="hero-visual reveal-scale" style="--d:.3s">
+      <div class="hero-ring" aria-hidden="true"></div>
+      <div class="hero-frame" data-parallax="0.06">
+        <img src="{{ site.photo }}" alt="{{ site.name }}, {{ site.title }}" width="400" height="500" onerror="this.outerHTML='<div class=placeholder>MF</div>'">
+      </div>
+      <div class="hero-chip"><span class="dot"></span>{{ s.home.chip }}</div>
+    </div>
+  </div>
+  <div class="scroll-hint" aria-hidden="true">{{ "scroll" if lang == "en" else "نیچے" }}</div>
+</section>
 
 <section class="stats reveal">
   <div class="container stats-inner">
@@ -132,4 +110,3 @@ mountLetsScroll(document.getElementById('world'), {
     </div>
   </div>
 </section>
-</div><!-- /after-film -->
